@@ -12,3 +12,154 @@
 5.9.2024, 23:38:55 - INFO - New connected socket [id: WU33KUCbUkFVTnw9AAAB]
 5.9.2024, 23:39:04 - INFO - Server is running on port: 3030
 5.9.2024, 23:39:05 - INFO - New connected socket [id: mqHh3m6ZXKF7U1Q_AAAB]
+6.9.2024, 16:15:16 - DEBUG - auth.service - login with username: admin123
+6.9.2024, 16:15:16 - ERROR - Failed to Login Error: Invalid username or password
+6.9.2024, 16:15:51 - DEBUG - auth.service - login with username: admin123
+6.9.2024, 16:15:51 - ERROR - Failed to Login Error: Invalid username or password
+6.9.2024, 16:19:00 - INFO - New connected socket [id: NOYSeRlr8cXxQXOoAAAB]
+6.9.2024, 16:19:27 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 16:19:27 - INFO - New connected socket [id: H4xb7UGbFEJRkzVLAAAD]
+6.9.2024, 17:24:01 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 17:24:04 - INFO - New connected socket [id: N3VRG-I9u9WB8XrgAAAF]
+6.9.2024, 17:41:58 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 17:42:05 - INFO - New connected socket [id: pAOyXCSkyzieVkuTAAAH]
+6.9.2024, 17:42:30 - DEBUG - auth.service - login with username: admin123
+6.9.2024, 17:42:31 - ERROR - Failed to Login Error: Invalid username or password
+6.9.2024, 17:45:16 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 17:45:19 - INFO - New connected socket [id: SJkoW93I6Gjx7j5QAAAJ]
+6.9.2024, 17:46:25 - DEBUG - auth.service - login with username: admin123
+6.9.2024, 17:46:25 - ERROR - Failed to Login Error: Invalid username or password
+6.9.2024, 17:47:06 - DEBUG - auth.service - signup with username: uri123, fullname: uri raz
+6.9.2024, 17:47:07 - ERROR - Failed to signup Username already taken
+6.9.2024, 17:47:22 - DEBUG - auth.service - signup with username: uri1234, fullname: uri raz
+6.9.2024, 17:47:22 - DEBUG - auth.route - new account created: {"username":"uri1234","password":"$2b$10$sgZUzF7LEp3ps6lnMcTvL.dhY0zfkQm7GukKbuMGf3pEEjco7yuNi","fullname":"uri raz","isAdmin":"true","_id":"66db15fa304d90b8abf5e9c3"}
+6.9.2024, 17:47:22 - DEBUG - auth.service - login with username: uri1234
+6.9.2024, 17:47:22 - INFO - User signup: | {"_id":"66db15fa304d90b8abf5e9c3","username":"uri1234","fullname":"uri raz","imgUrl":null,"isAdmin":"true","score":null}
+6.9.2024, 17:49:06 - DEBUG - auth.service - signup with username: uri12345, fullname: uri raz | 66db15fa304d90b8abf5e9c3
+6.9.2024, 17:49:07 - DEBUG - auth.route - new account created: {"username":"uri12345","password":"$2b$10$bolCR1n1G9GKwIB2uXL2nOE0nKKFs0uK.HTVB/ZljkBsoFTPDWrS6","fullname":"uri raz","isAdmin":"true","_id":"66db1663304d90b8abf5e9c4"} | 66db15fa304d90b8abf5e9c3
+6.9.2024, 17:49:07 - DEBUG - auth.service - login with username: uri12345 | 66db15fa304d90b8abf5e9c3
+6.9.2024, 17:49:07 - INFO - User signup: | {"_id":"66db1663304d90b8abf5e9c4","username":"uri12345","fullname":"uri raz","imgUrl":null,"isAdmin":"true","score":null} | 66db15fa304d90b8abf5e9c3
+6.9.2024, 17:50:56 - INFO - Server is running on port: 3030
+6.9.2024, 17:50:56 - INFO - New connected socket [id: 79Gr0WTft1w47KAyAAAB]
+6.9.2024, 18:01:02 - DEBUG - auth.service - signup with username: uri12345, fullname: uri raz | 66db1663304d90b8abf5e9c4
+6.9.2024, 18:01:03 - ERROR - Failed to signup Username already taken | 66db1663304d90b8abf5e9c4
+6.9.2024, 18:01:06 - DEBUG - auth.service - signup with username: uri12345, fullname: uri raz | 66db1663304d90b8abf5e9c4
+6.9.2024, 18:01:06 - ERROR - Failed to signup Username already taken | 66db1663304d90b8abf5e9c4
+6.9.2024, 18:01:14 - INFO - Server is running on port: 3030
+6.9.2024, 18:01:14 - INFO - New connected socket [id: b_h5eRJcBpSc_9QIAAAB]
+6.9.2024, 18:01:28 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 18:01:30 - INFO - New connected socket [id: Zt2pxHO57pEJOkD3AAAD]
+6.9.2024, 18:02:03 - INFO - Server is running on port: 3030
+6.9.2024, 18:02:03 - INFO - New connected socket [id: ilgAMdpBK37NNfQjAAAB]
+6.9.2024, 18:02:04 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 18:02:06 - INFO - New connected socket [id: 1x0sh-vQVBkAwCVZAAAD]
+6.9.2024, 18:02:23 - DEBUG - auth.service - login with username: admin123 | 66db1663304d90b8abf5e9c4
+6.9.2024, 18:02:23 - ERROR - Failed to Login Error: Invalid username or password | 66db1663304d90b8abf5e9c4
+6.9.2024, 18:03:15 - DEBUG - auth.service - login with username: admin123
+6.9.2024, 18:03:15 - ERROR - Failed to Login Error: Invalid username or password
+6.9.2024, 18:05:11 - INFO - Server is running on port: 3030
+6.9.2024, 18:05:11 - INFO - New connected socket [id: xhjdORe9DDoFs4BSAAAB]
+6.9.2024, 18:05:25 - DEBUG - auth.service - login with username: admin123
+6.9.2024, 18:05:25 - ERROR - Failed to Login Error: Invalid username or password
+6.9.2024, 18:05:31 - INFO - Server is running on port: 3030
+6.9.2024, 18:05:32 - INFO - New connected socket [id: ZEtJrvs2yj1FgKCcAAAB]
+6.9.2024, 18:05:42 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 18:05:43 - INFO - New connected socket [id: w4B695wuyHW-2ZjQAAAD]
+6.9.2024, 18:05:47 - DEBUG - auth.service - login with username: admin123
+6.9.2024, 18:05:47 - ERROR - Failed to Login Error: Invalid username or password
+6.9.2024, 18:06:10 - INFO - Server is running on port: 3030
+6.9.2024, 18:06:11 - INFO - New connected socket [id: 0j92AuYVEPVXutTCAAAB]
+6.9.2024, 18:06:16 - INFO - Server is running on port: 3030
+6.9.2024, 18:06:18 - INFO - New connected socket [id: lf3cHo6VTjGAgLlNAAAB]
+6.9.2024, 18:06:52 - INFO - Server is running on port: 3030
+6.9.2024, 18:06:53 - INFO - New connected socket [id: ZrVlG5s_sO17xNnXAAAB]
+6.9.2024, 18:06:58 - DEBUG - auth.service - login with username: admin123
+6.9.2024, 18:06:59 - ERROR - Failed to Login Error: Invalid username or password
+6.9.2024, 18:07:47 - DEBUG - auth.service - login with username: admin123
+6.9.2024, 18:07:47 - ERROR - Failed to Login Error: Invalid username or password
+6.9.2024, 18:07:58 - DEBUG - auth.service - signup with username: uri123, fullname: uri raz
+6.9.2024, 18:07:58 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$xTlxn3lY9dP7hg9Ufa5ri.VFkCqp8PAmHmliE2XvphdwQ97CDxi3C","fullname":"uri raz","isAdmin":"true","_id":"66db1ace49543532a1c94886"}
+6.9.2024, 18:07:58 - DEBUG - auth.service - login with username: uri123
+6.9.2024, 18:07:58 - INFO - User signup: | {"_id":"66db1ace49543532a1c94886","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":"true","score":null}
+6.9.2024, 18:09:45 - DEBUG - auth.service - login with username: uri123 | 66db1ace49543532a1c94886
+6.9.2024, 18:09:45 - INFO - User login:  | {"_id":"66db1ace49543532a1c94886","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":"true","score":null} | 66db1ace49543532a1c94886
+6.9.2024, 18:17:45 - DEBUG - auth.service - login with username: admin123
+6.9.2024, 18:17:45 - ERROR - Failed to Login Error: Invalid username or password
+6.9.2024, 18:17:52 - DEBUG - auth.service - login with username: uri123
+6.9.2024, 18:17:53 - INFO - User login:  | {"_id":"66db1ace49543532a1c94886","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":"true","score":null}
+6.9.2024, 18:18:26 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 18:18:32 - INFO - New connected socket [id: DMTKwQnCY_zZ9dcoAAAD]
+6.9.2024, 18:18:37 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 18:18:38 - INFO - New connected socket [id: Le4-LAGTRjtRrQDSAAAF]
+6.9.2024, 18:21:20 - INFO - Req was made | /
+6.9.2024, 18:21:20 - DEBUG - Getting Stays
+6.9.2024, 18:21:40 - INFO - Req was made | /
+6.9.2024, 18:21:40 - DEBUG - Getting Stays
+6.9.2024, 18:24:10 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 18:24:12 - INFO - New connected socket [id: vbt03WtUDS9YNWsMAAAH]
+6.9.2024, 18:36:19 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 18:36:28 - INFO - New connected socket [id: p5dfQBFDKtKpQp4wAAAJ]
+6.9.2024, 18:44:43 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 18:44:45 - INFO - New connected socket [id: 92eGFDZ6BBjjSVdyAAAL]
+6.9.2024, 18:45:28 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 18:45:30 - INFO - New connected socket [id: byD1aXw2BXWX-EP5AAAN]
+6.9.2024, 18:45:37 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 18:45:39 - INFO - New connected socket [id: Q3VKdbVEy8re_JD5AAAP]
+6.9.2024, 18:50:20 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 18:50:23 - INFO - New connected socket [id: RIOPkYSSzh4_GLdAAAAR]
+6.9.2024, 18:52:08 - INFO - Server is running on port: 3030
+6.9.2024, 18:52:21 - INFO - Server is running on port: 3030
+6.9.2024, 18:52:22 - INFO - New connected socket [id: Ea7g3qiVXEgYJk1LAAAB]
+6.9.2024, 18:52:41 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 18:54:15 - INFO - New connected socket [id: 2wWCAryPJ26CqdKMAAAD]
+6.9.2024, 18:54:34 - INFO - Server is running on port: 3030
+6.9.2024, 18:54:34 - INFO - New connected socket [id: qav8YvonwGDMC4F4AAAB]
+6.9.2024, 18:58:25 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 18:58:32 - INFO - New connected socket [id: cEqkxJ1syUOPeYDNAAAD]
+6.9.2024, 19:47:59 - INFO - Server is running on port: 3030
+6.9.2024, 19:47:59 - INFO - New connected socket [id: CI5UAep97waouyr-AAAB]
+6.9.2024, 19:51:16 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 19:51:18 - INFO - New connected socket [id: pGUciwAJpaRaktG4AAAD]
+6.9.2024, 19:54:45 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 19:54:46 - INFO - New connected socket [id: UTd7cg8NAyUKeKk_AAAF]
+6.9.2024, 19:55:48 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 19:55:49 - INFO - New connected socket [id: KLu8vqtAGcletFdLAAAH]
+6.9.2024, 19:59:24 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 19:59:28 - INFO - New connected socket [id: 5mIwFmvc8Go1s3fBAAAJ]
+6.9.2024, 20:00:50 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 20:00:53 - INFO - New connected socket [id: Ls_FEmo7TVxnoB8BAAAL]
+6.9.2024, 20:05:40 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 20:05:41 - INFO - New connected socket [id: v2GwsPDx9FARfbv5AAAN]
+6.9.2024, 20:05:47 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 20:05:48 - INFO - New connected socket [id: 3Vrmj96RGcD71VZ5AAAP]
+6.9.2024, 20:06:00 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 20:06:01 - INFO - New connected socket [id: icyYCsh_IyWRf7SaAAAR]
+6.9.2024, 20:06:36 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 20:06:38 - INFO - New connected socket [id: 3BiKeEoU-zqGti2PAAAT]
+6.9.2024, 20:06:42 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 20:06:43 - INFO - New connected socket [id: 3IXL1uQp-LorsNXRAAAV]
+6.9.2024, 20:07:31 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 20:07:32 - INFO - New connected socket [id: XrMKMoLzPXfa1jC1AAAX]
+6.9.2024, 20:07:57 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 20:08:54 - INFO - New connected socket [id: 7fySTZooBz71qMUBAAAZ]
+6.9.2024, 20:09:26 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 20:09:50 - INFO - New connected socket [id: XW36aURrLlIySik5AAAb]
+6.9.2024, 20:27:21 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 20:27:22 - INFO - New connected socket [id: w5-O_ppB18CQMrZSAAAd]
+6.9.2024, 20:30:28 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 20:30:28 - INFO - New connected socket [id: _eGOrTv2ArLmg-XBAAAf]
+6.9.2024, 20:31:44 - DEBUG - auth.service - signup with username: uri1234, fullname: uri raz | 66db1ace49543532a1c94886
+6.9.2024, 20:31:45 - DEBUG - auth.route - new account created: {"username":"uri1234","password":"$2b$10$P1RPet8Zucrw3l.M/yAbGO1qfmb41KCv/dLqCvaiskXmemOz8KV12","fullname":"uri raz","isAdmin":"true","_id":"66db3c815bdad1f8e7f6c79b"} | 66db1ace49543532a1c94886
+6.9.2024, 20:31:45 - DEBUG - auth.service - login with username: uri1234 | 66db1ace49543532a1c94886
+6.9.2024, 20:31:45 - INFO - User signup: | {"_id":"66db3c815bdad1f8e7f6c79b","username":"uri1234","fullname":"uri raz","imgUrl":null,"isAdmin":"true","score":null} | 66db1ace49543532a1c94886
+6.9.2024, 20:35:10 - INFO - Server is running on port: 3030
+6.9.2024, 20:35:10 - INFO - New connected socket [id: UVXQKOqIM97eMb8oAAAB]
+6.9.2024, 20:35:17 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 20:35:18 - INFO - New connected socket [id: sNEAggtgTMlu-h7SAAAD]
+6.9.2024, 20:35:43 - DEBUG - auth.service - signup with username: aaa, fullname: aaa | 66b8d1f6a29d8cef0d6b8797
+6.9.2024, 20:35:43 - DEBUG - auth.route - new account created: {"username":"aaa","password":"$2b$10$DSic5jZ7AARDlN6p8.m.S.4L1FDwUV2AnPjrQZ.DdqVSpXqY8/LKq","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"66db3d6f12177c287fb20efc"} | 66b8d1f6a29d8cef0d6b8797
+6.9.2024, 20:35:43 - DEBUG - auth.service - login with username: aaa | 66b8d1f6a29d8cef0d6b8797
+6.9.2024, 20:35:43 - INFO - User signup: | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null} | 66b8d1f6a29d8cef0d6b8797
+6.9.2024, 20:35:44 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: sNEAggtgTMlu-h7SAAAD]
+6.9.2024, 20:56:23 - INFO - Server is running on port: 3030
+6.9.2024, 20:56:24 - INFO - New connected socket [id: nI3v0z7lBbAG3c-hAAAB]

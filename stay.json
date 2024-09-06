@@ -74,7 +74,9 @@
                     "value": 4.7
                 }
             }
-        ]
+        ],
+        "startDate": "15/9/2024",
+        "endDate": "20/10/2024"
     },
     {
         "name": "Cozy NYC Studio",
@@ -131,7 +133,9 @@
                     "value": 4.7
                 }
             }
-        ]
+        ],
+        "startDate": "15/10/2024",
+        "endDate": "20/11/2024"
     },
     {
         "name": "Sunny Barcelona Loft",
@@ -182,7 +186,9 @@
                     "value": 4.6
                 }
             }
-        ]
+        ],
+        "startDate": "13/9/2024",
+        "endDate": "24/10/2024"
     },
     {
         "name": "Lakefront Cabin in Canada",
@@ -233,7 +239,9 @@
                     "value": 4.7
                 }
             }
-        ]
+        ],
+        "startDate": "3/1/2025",
+        "endDate": "13/2/2025"
     },
     {
         "name": "Beachside Bungalow",
@@ -283,7 +291,9 @@
                     "value": 4.6
                 }
             }
-        ]
+        ],
+        "startDate": "13/11/2024",
+        "endDate": "6/12/2024"
     },
     {
         "name": "Mountain Chalet",
@@ -335,7 +345,9 @@
                     "value": 4.8
                 }
             }
-        ]
+        ],
+        "startDate": "7/1/2025",
+        "endDate": "2/2/2025"
     },
     {
         "name": "Countryside Villa in Tuscany",
@@ -387,7 +399,9 @@
                     "value": 4.7
                 }
             }
-        ]
+        ],
+        "startDate": "11/11/2024",
+        "endDate": "1/12/2024"
     },
     {
         "name": "Scandinavian Cottage",
@@ -439,7 +453,9 @@
                     "value": 4.8
                 }
             }
-        ]
+        ],
+        "startDate": "14/2/2025",
+        "endDate": "28/2/2025"
     },
     {
         "name": "Desert Retreat in Morocco",
@@ -491,7 +507,9 @@
                     "value": 4.7
                 }
             }
-        ]
+        ],
+        "startDate": "28/10/2024",
+        "endDate": "5/11/2024"
     },
     {
         "name": "Seaside Escape in Santorini",
@@ -543,7 +561,9 @@
                     "value": 4.8
                 }
             }
-        ]
+        ],
+        "startDate": "13/11/2024",
+        "endDate": "24/12/2024"
     },
     {
         "name": "Urban Loft in Berlin",
@@ -594,7 +614,9 @@
                     "value": 4.6
                 }
             }
-        ]
+        ],
+        "startDate": "6/12/2024",
+        "endDate": "3/1/2025"
     },
     {
         "name": "Treehouse Getaway in Costa Rica",
@@ -645,6 +667,8 @@
                     "value": 4.7
                 }
             }
-        ]
+        ],
+        "startDate": "29/9/2024",
+        "endDate": "15/10/2024"
     }
 ]

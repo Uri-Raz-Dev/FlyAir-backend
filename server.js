@@ -9,10 +9,10 @@ import { setupSocketAPI } from './services/socket.service.js'
 import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
 
 
-import { logger } from './services/logger.service.js'
+import { stayRoutes } from './api/stay/stay.routes.js'
 import { userRoutes } from './api/user/user.routes.js'
 import { orderRoutes } from './api/order/order.routes.js'
-import { stayRoutes } from './api/stay/stay.routes.js'
+import { logger } from './services/logger.service.js'
 
 const app = express()
 const server = http.createServer(app)
@@ -27,12 +27,13 @@ if (process.env.NODE_ENV === 'production') {
 } else {
     const corsOptions = {
         origin: [
-            'http://127.0.0.1:3000',
-            'http://localhost:3000',
-            'http://127.0.0.1:5173',
-            'http://localhost:5173'
+            'http://127.0.0.1:5174',
+            'http://localhost:5174',
+            'http://localhost:3030',
+            'http://127.0.0.1:3030'
         ],
-        credentials: true
+        credentials: true, // This allows cookies to be sent across origins
+
     }
     app.use(cors(corsOptions))
 }
