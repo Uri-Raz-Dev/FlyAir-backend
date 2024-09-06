@@ -1,0 +1,377 @@
+[
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a01",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a01",
+            "fullname": "John Doe",
+            "imgURL": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        "totalPrice": "900",
+        "startDate": "2024-09-15",
+        "endDate": "2024-09-20",
+        "guests": {
+            "adults": 2,
+            "kids": 1,
+            "infants": 0,
+            "pets": 0
+        },
+        "stay": {
+            "_id": "s101",
+            "name": "Elegant Parisian Apartment",
+            "price": 150,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "approved"
+    },
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a06",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a02",
+            "fullname": "Grace Hill",
+            "imgURL": "https://randomuser.me/api/portraits/women/2.jpg"
+        },
+        "totalPrice": "1000",
+        "startDate": "2024-10-01",
+        "endDate": "2024-10-05",
+        "guests": {
+            "adults": 2,
+            "kids": 0,
+            "infants": 0,
+            "pets": 0
+        },
+        "stay": {
+            "_id": "s102",
+            "name": "Cozy NYC Studio",
+            "price": 200,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "pending"
+    },
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a09",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a03",
+            "fullname": "Emma Lopez",
+            "imgURL": "https://randomuser.me/api/portraits/women/3.jpg"
+        },
+        "totalPrice": "540",
+        "startDate": "2024-11-01",
+        "endDate": "2024-11-04",
+        "guests": {
+            "adults": 4,
+            "kids": 0,
+            "infants": 0,
+            "pets": 0
+        },
+        "stay": {
+            "_id": "s107",
+            "name": "Sunny Barcelona Loft",
+            "price": 180,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "approved"
+    },
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a12",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a04",
+            "fullname": "Mark Johnson",
+            "imgURL": "https://randomuser.me/api/portraits/men/4.jpg"
+        },
+        "totalPrice": "1320",
+        "startDate": "2024-09-20",
+        "endDate": "2024-09-26",
+        "guests": {
+            "adults": 6,
+            "kids": 0,
+            "infants": 0,
+            "pets": 1
+        },
+        "stay": {
+            "_id": "s108",
+            "name": "Lakefront Cabin in Canada",
+            "price": 220,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "approved"
+    },
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a15",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a05",
+            "fullname": "Sarah Lee",
+            "imgURL": "https://randomuser.me/api/portraits/women/5.jpg"
+        },
+        "totalPrice": "1500",
+        "startDate": "2024-09-01",
+        "endDate": "2024-09-06",
+        "guests": {
+            "adults": 4,
+            "kids": 1,
+            "infants": 0,
+            "pets": 0
+        },
+        "stay": {
+            "_id": "s109",
+            "name": "Beachside Bungalow",
+            "price": 300,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "pending"
+    },
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a18",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a06",
+            "fullname": "Alex Williams",
+            "imgURL": "https://randomuser.me/api/portraits/men/6.jpg"
+        },
+        "totalPrice": "1600",
+        "startDate": "2024-12-01",
+        "endDate": "2024-12-05",
+        "guests": {
+            "adults": 8,
+            "kids": 0,
+            "infants": 0,
+            "pets": 0
+        },
+        "stay": {
+            "_id": "s110",
+            "name": "Mountain Chalet",
+            "price": 400,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "approved"
+    },
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a21",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a07",
+            "fullname": "Rachel McCarthy",
+            "imgURL": "https://randomuser.me/api/portraits/women/7.jpg"
+        },
+        "totalPrice": "2450",
+        "startDate": "2024-10-12",
+        "endDate": "2024-10-19",
+        "guests": {
+            "adults": 6,
+            "kids": 0,
+            "infants": 0,
+            "pets": 0
+        },
+        "stay": {
+            "_id": "s111",
+            "name": "Countryside Villa in Tuscany",
+            "price": 350,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "pending"
+    },
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a24",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a08",
+            "fullname": "James Thompson",
+            "imgURL": "https://randomuser.me/api/portraits/men/8.jpg"
+        },
+        "totalPrice": "600",
+        "startDate": "2024-09-10",
+        "endDate": "2024-09-15",
+        "guests": {
+            "adults": 4,
+            "kids": 0,
+            "infants": 0,
+            "pets": 1
+        },
+        "stay": {
+            "_id": "s112",
+            "name": "Scandinavian Cottage",
+            "price": 120,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "approved"
+    },
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a27",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a09",
+            "fullname": "Olivia Harper",
+            "imgURL": "https://randomuser.me/api/portraits/women/9.jpg"
+        },
+        "totalPrice": "1400",
+        "startDate": "2024-11-05",
+        "endDate": "2024-11-10",
+        "guests": {
+            "adults": 4,
+            "kids": 0,
+            "infants": 0,
+            "pets": 0
+        },
+        "stay": {
+            "_id": "s113",
+            "name": "Desert Retreat in Morocco",
+            "price": 280,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "approved"
+    },
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a30",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a10",
+            "fullname": "Eleanor Wilson",
+            "imgURL": "https://randomuser.me/api/portraits/women/10.jpg"
+        },
+        "totalPrice": "2700",
+        "startDate": "2024-09-01",
+        "endDate": "2024-09-06",
+        "guests": {
+            "adults": 2,
+            "kids": 0,
+            "infants": 0,
+            "pets": 0
+        },
+        "stay": {
+            "_id": "s114",
+            "name": "Seaside Escape in Santorini",
+            "price": 450,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "pending"
+    },
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a33",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a11",
+            "fullname": "Lucas Brown",
+            "imgURL": "https://randomuser.me/api/portraits/men/11.jpg"
+        },
+        "totalPrice": "1200",
+        "startDate": "2024-10-10",
+        "endDate": "2024-10-14",
+        "guests": {
+            "adults": 3,
+            "kids": 0,
+            "infants": 0,
+            "pets": 0
+        },
+        "stay": {
+            "_id": "s115",
+            "name": "Urban Loft in Berlin",
+            "price": 300,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "approved"
+    },
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a36",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a12",
+            "fullname": "Emma Lopez",
+            "imgURL": "https://randomuser.me/api/portraits/women/12.jpg"
+        },
+        "totalPrice": "1650",
+        "startDate": "2024-12-20",
+        "endDate": "2024-12-26",
+        "guests": {
+            "adults": 4,
+            "kids": 0,
+            "infants": 0,
+            "pets": 0
+        },
+        "stay": {
+            "_id": "s116",
+            "name": "Treehouse Getaway in Costa Rica",
+            "price": 275,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "pending"
+    },
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a09",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a13",
+            "fullname": "Michael Green",
+            "imgURL": "https://randomuser.me/api/portraits/men/13.jpg"
+        },
+        "totalPrice": "720",
+        "startDate": "2024-11-05",
+        "endDate": "2024-11-08",
+        "guests": {
+            "adults": 4,
+            "kids": 0,
+            "infants": 0,
+            "pets": 0
+        },
+        "stay": {
+            "_id": "s107",
+            "name": "Sunny Barcelona Loft",
+            "price": 180,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "approved"
+    },
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a06",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a14",
+            "fullname": "Olivia White",
+            "imgURL": "https://randomuser.me/api/portraits/women/14.jpg"
+        },
+        "totalPrice": "600",
+        "startDate": "2024-10-01",
+        "endDate": "2024-10-03",
+        "guests": {
+            "adults": 2,
+            "kids": 1,
+            "infants": 0,
+            "pets": 0
+        },
+        "stay": {
+            "_id": "s102",
+            "name": "Cozy NYC Studio",
+            "price": 200,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "pending"
+    },
+    {
+        "hostId": "64fbdb1d4a5f3e22903c2a01",
+        "buyer": {
+            "_id": "64fbdb1d4a5f3e22903b2a15",
+            "fullname": "David Black",
+            "imgURL": "https://randomuser.me/api/portraits/men/15.jpg"
+        },
+        "totalPrice": "1050",
+        "startDate": "2024-09-25",
+        "endDate": "2024-09-30",
+        "guests": {
+            "adults": 4,
+            "kids": 0,
+            "infants": 1,
+            "pets": 0
+        },
+        "stay": {
+            "_id": "s101",
+            "name": "Elegant Parisian Apartment",
+            "price": 150,
+            "loc": {}
+        },
+        "msgs": [],
+        "status": "approved"
+    }
+]

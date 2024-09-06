@@ -1,0 +1,108 @@
+[
+    {
+        "username": "admin123",
+        "password": "AdminPass2024!",
+        "fullname": "Administrator",
+        "imgUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+        "score": 1000,
+        "isAdmin": true
+    },
+    {
+        "username": "john_doe",
+        "password": "JohnPass2024!",
+        "fullname": "John Doe",
+        "imgUrl": "https://randomuser.me/api/portraits/men/2.jpg",
+        "score": 850
+    },
+    {
+        "username": "emma_lopez",
+        "password": "EmmaPass2024!",
+        "fullname": "Emma Lopez",
+        "imgUrl": "https://randomuser.me/api/portraits/women/3.jpg",
+        "score": 920
+    },
+    {
+        "username": "grace_hill",
+        "password": "GracePass2024!",
+        "fullname": "Grace Hill",
+        "imgUrl": "https://randomuser.me/api/portraits/women/4.jpg",
+        "score": 760
+    },
+    {
+        "username": "mark_johnson",
+        "password": "MarkPass2024!",
+        "fullname": "Mark Johnson",
+        "imgUrl": "https://randomuser.me/api/portraits/men/5.jpg",
+        "score": 720
+    },
+    {
+        "username": "sarah_lee",
+        "password": "SarahPass2024!",
+        "fullname": "Sarah Lee",
+        "imgUrl": "https://randomuser.me/api/portraits/women/6.jpg",
+        "score": 890
+    },
+    {
+        "username": "alex_williams",
+        "password": "AlexPass2024!",
+        "fullname": "Alex Williams",
+        "imgUrl": "https://randomuser.me/api/portraits/men/7.jpg",
+        "score": 950
+    },
+    {
+        "username": "rachel_mccarthy",
+        "password": "RachelPass2024!",
+        "fullname": "Rachel McCarthy",
+        "imgUrl": "https://randomuser.me/api/portraits/women/8.jpg",
+        "score": 840
+    },
+    {
+        "username": "james_thompson",
+        "password": "JamesPass2024!",
+        "fullname": "James Thompson",
+        "imgUrl": "https://randomuser.me/api/portraits/men/9.jpg",
+        "score": 710
+    },
+    {
+        "username": "olivia_harper",
+        "password": "OliviaPass2024!",
+        "fullname": "Olivia Harper",
+        "imgUrl": "https://randomuser.me/api/portraits/women/10.jpg",
+        "score": 930
+    },
+    {
+        "username": "eleanor_wilson",
+        "password": "EleanorPass2024!",
+        "fullname": "Eleanor Wilson",
+        "imgUrl": "https://randomuser.me/api/portraits/women/11.jpg",
+        "score": 880
+    },
+    {
+        "username": "lucas_brown",
+        "password": "LucasPass2024!",
+        "fullname": "Lucas Brown",
+        "imgUrl": "https://randomuser.me/api/portraits/men/12.jpg",
+        "score": 800
+    },
+    {
+        "username": "michael_green",
+        "password": "MichaelPass2024!",
+        "fullname": "Michael Green",
+        "imgUrl": "https://randomuser.me/api/portraits/men/13.jpg",
+        "score": 780
+    },
+    {
+        "username": "olivia_white",
+        "password": "OliviaWPass2024!",
+        "fullname": "Olivia White",
+        "imgUrl": "https://randomuser.me/api/portraits/women/14.jpg",
+        "score": 850
+    },
+    {
+        "username": "david_black",
+        "password": "DavidPass2024!",
+        "fullname": "David Black",
+        "imgUrl": "https://randomuser.me/api/portraits/men/15.jpg",
+        "score": 770
+    }
+]

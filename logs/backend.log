@@ -1,0 +1,14 @@
+18.8.2024, 14:30:28 - INFO - Server is running on port: 3030
+18.8.2024, 14:30:33 - INFO - Server is running on port: 3030
+18.8.2024, 14:43:54 - DEBUG - auth.service - login with username: uri123
+18.8.2024, 14:43:55 - INFO - User login:  | {"_id":"66b8d1f6a29d8cef0d6b8797","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+18.8.2024, 14:45:20 - DEBUG - auth.service - login with username: uri123 | 66b8d1f6a29d8cef0d6b8797
+18.8.2024, 14:45:20 - INFO - User login:  | {"_id":"66b8d1f6a29d8cef0d6b8797","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true} | 66b8d1f6a29d8cef0d6b8797
+18.8.2024, 18:47:26 - INFO - Server is running on port: 3030
+5.9.2024, 21:58:42 - INFO - Server is running on port: 3030
+5.9.2024, 23:29:51 - INFO - Server is running on port: 3030
+5.9.2024, 23:29:54 - INFO - New connected socket [id: uGt_D44h8iOGT_XAAAAB]
+5.9.2024, 23:38:54 - INFO - Server is running on port: 3030
+5.9.2024, 23:38:55 - INFO - New connected socket [id: WU33KUCbUkFVTnw9AAAB]
+5.9.2024, 23:39:04 - INFO - Server is running on port: 3030
+5.9.2024, 23:39:05 - INFO - New connected socket [id: mqHh3m6ZXKF7U1Q_AAAB]

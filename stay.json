@@ -1,0 +1,650 @@
+[
+    {
+        "name": "Elegant Parisian Apartment",
+        "summary": "Fantastic Parisian apartment",
+        "type": "Apartment",
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-777231477173885889/original/538633f2-6b5e-40b7-b162-ddaab99b0db3.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-777231477173885889/original/8c76f2a3-3a07-491c-ad60-dca49f4807ae.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-777231477173885889/original/9cb240be-57a8-4a51-ab30-873ef3537806.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-777231477173885889/original/cfc9f5ca-8f58-412a-912e-4676e2590942.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-777231477173885889/original/97f28666-72be-4f40-910c-a22d331a72f4.jpeg?im_w=720"
+        ],
+        "price": 150,
+        "capacity": 4,
+        "description": "Step into the charm of Paris with this stylish apartment located in the heart of the city. Perfect for a romantic getaway, this modern urban retreat offers easy access to the vibrant nightlife. Enjoy amenities like air conditioning, a fully equipped kitchen, and an elevator.",
+        "amenities": [
+            "Air conditioning",
+            "Wifi",
+            "Kitchen",
+            "Washer",
+            "Dryer",
+            "Elevator"
+        ],
+        "labels": [
+            "Cityscape",
+            "Modern",
+            "Urban Retreat",
+            "Nightlife"
+        ],
+        "host": {
+            "_id": "64fbdccd4a5f3e22903c2a01",
+            "fullname": "Samantha Lee",
+            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1724504652/Flyair/Samantha%20Lee.jpg"
+        },
+        "location": {
+            "city": "Paris",
+            "country": "France",
+            "countryCode": "FR",
+            "address": "15 Rue de Rivoli",
+            "lat": 48.8556,
+            "lang": 2.3522
+        },
+        "region": "Greece",
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a02b96f3c7a",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a03",
+                    "name": "Alice Johnson"
+                },
+                "txt": "Absolutely loved this apartment! The location was perfect for exploring Paris.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.7,
+                    "check-in": 4.8,
+                    "accuracy": 4.7,
+                    "location": 4.6,
+                    "value": 4.8
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a04b96f3c7b",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a05",
+                    "name": "Bob Smith"
+                },
+                "txt": "Great place to stay, very modern and comfortable. Samantha was a wonderful host.",
+                "rate": {
+                    "cleanliness": 4.7,
+                    "communication": 4.9,
+                    "check-in": 4.8,
+                    "accuracy": 4.6,
+                    "location": 4.5,
+                    "value": 4.7
+                }
+            }
+        ]
+    },
+    {
+        "name": "Cozy NYC Studio",
+        "summary": "Entire studio in New York, 5th Avenue",
+        "type": "Tiny homes",
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/86655972/f708e3db_original.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/86657319/66d37ba2_original.jpg?im_w=720"
+        ],
+        "price": 200,
+        "capacity": 2,
+        "description": "Nestled on the bustling 5th Avenue, this charming studio offers a warm and intimate atmosphere. Ideal for couples or solo travelers.",
+        "amenities": [
+            "Fireplace",
+            "Wifi",
+            "Kitchen",
+            "Free parking",
+            "Private entrance"
+        ],
+        "labels": [
+            "Beach",
+            "Lake",
+            "Luxe",
+            "Islands"
+        ],
+        "host": {
+            "_id": "64fbdb1d4a5f3e22903c2a06",
+            "fullname": "Emily Watson",
+            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1724504661/Flyair/Emily%20Watson.jpg"
+        },
+        "location": {
+            "city": "New York",
+            "country": "United States",
+            "countryCode": "US",
+            "address": "350 5th Ave",
+            "lat": 40.7484,
+            "lang": -73.9857
+        },
+        "region": "US",
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a07b96f3c7d",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a08",
+                    "name": "Grace Hill"
+                },
+                "txt": "The studio was perfect for our weekend in NYC. Loved the cozy atmosphere!",
+                "rate": {
+                    "cleanliness": 4.8,
+                    "communication": 4.9,
+                    "check-in": 4.9,
+                    "accuracy": 4.8,
+                    "location": 4.9,
+                    "value": 4.7
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sunny Barcelona Loft",
+        "summary": "Bright and airy loft in the heart of Barcelona",
+        "type": "Loft",
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/Barcelona.jpg?im_w=720"
+        ],
+        "price": 180,
+        "capacity": 4,
+        "description": "A stylish, sun-filled loft with modern amenities located in the vibrant district of Eixample.",
+        "amenities": [
+            "Wifi",
+            "Air conditioning",
+            "Kitchen"
+        ],
+        "labels": [
+            "Urban",
+            "City",
+            "Sunlight"
+        ],
+        "host": {
+            "_id": "64fbdb1d4a5f3e22903c2a09",
+            "fullname": "Carlos Gonzalez",
+            "imgUrl": "https://res.cloudinary.com/userCarlos.jpg"
+        },
+        "location": {
+            "city": "Barcelona",
+            "country": "Spain",
+            "lat": 41.3851,
+            "lang": 2.1734
+        },
+        "region": "Spain",
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a10b96f3c7e",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a11",
+                    "name": "John Doe"
+                },
+                "txt": "Amazing loft with great views of the city.",
+                "rate": {
+                    "cleanliness": 4.8,
+                    "communication": 4.7,
+                    "check-in": 4.9,
+                    "accuracy": 4.8,
+                    "location": 4.8,
+                    "value": 4.6
+                }
+            }
+        ]
+    },
+    {
+        "name": "Lakefront Cabin in Canada",
+        "summary": "Cozy cabin on the lake in Ontario",
+        "type": "Cabin",
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/CanadaCabin.jpg?im_w=720"
+        ],
+        "price": 220,
+        "capacity": 6,
+        "description": "Enjoy a quiet escape by the lake with beautiful nature views and modern comforts.",
+        "amenities": [
+            "Wifi",
+            "Fireplace",
+            "Lake access"
+        ],
+        "labels": [
+            "Nature",
+            "Lakefront",
+            "Quiet Retreat"
+        ],
+        "host": {
+            "_id": "64fbdb1d4a5f3e22903c2a12",
+            "fullname": "Lily Smith",
+            "imgUrl": "https://res.cloudinary.com/userLily.jpg"
+        },
+        "location": {
+            "city": "Ontario",
+            "country": "Canada",
+            "lat": 45.4215,
+            "lang": -75.6919
+        },
+        "region": "Canada",
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a13b96f3c7f",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a14",
+                    "name": "Mark Johnson"
+                },
+                "txt": "Loved the cabin! The lake access was fantastic for our family.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.8,
+                    "check-in": 4.7,
+                    "accuracy": 4.9,
+                    "location": 4.9,
+                    "value": 4.7
+                }
+            }
+        ]
+    },
+    {
+        "name": "Beachside Bungalow",
+        "summary": "Relaxing bungalow steps from the beach",
+        "type": "Bungalow",
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/BeachBungalow.jpg?im_w=720"
+        ],
+        "price": 300,
+        "capacity": 5,
+        "description": "Relax in this beautiful beachside bungalow, perfect for a peaceful getaway.",
+        "amenities": [
+            "Wifi",
+            "Beach access",
+            "BBQ grill"
+        ],
+        "labels": [
+            "Beachfront",
+            "Peaceful"
+        ],
+        "host": {
+            "_id": "64fbdb1d4a5f3e22903c2a15",
+            "fullname": "Nina Patel",
+            "imgUrl": "https://res.cloudinary.com/userNina.jpg"
+        },
+        "location": {
+            "city": "Malibu",
+            "country": "United States",
+            "lat": 34.0259,
+            "lang": -118.7798
+        },
+        "region": "US",
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a16b96f3c7g",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a17",
+                    "name": "Sarah Lee"
+                },
+                "txt": "Perfect beach vacation! We enjoyed the bungalow and beach access.",
+                "rate": {
+                    "cleanliness": 4.8,
+                    "communication": 4.7,
+                    "check-in": 4.8,
+                    "accuracy": 4.7,
+                    "location": 4.9,
+                    "value": 4.6
+                }
+            }
+        ]
+    },
+    {
+        "name": "Mountain Chalet",
+        "summary": "Luxury chalet in the mountains of Switzerland",
+        "type": "Chalet",
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/MountainChalet.jpg?im_w=720"
+        ],
+        "price": 400,
+        "capacity": 8,
+        "description": "Experience the beauty of the Swiss Alps with this luxury mountain chalet.",
+        "amenities": [
+            "Wifi",
+            "Fireplace",
+            "Mountain view",
+            "Hot tub"
+        ],
+        "labels": [
+            "Adventure",
+            "Luxury",
+            "Mountain"
+        ],
+        "host": {
+            "_id": "64fbdb1d4a5f3e22903c2a18",
+            "fullname": "Sophie Müller",
+            "imgUrl": "https://res.cloudinary.com/userSophie.jpg"
+        },
+        "location": {
+            "city": "Zurich",
+            "country": "Switzerland",
+            "lat": 47.3769,
+            "lang": 8.5417
+        },
+        "region": "Switzerland",
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a19b96f3c7h",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a20",
+                    "name": "Alex Williams"
+                },
+                "txt": "Beautiful chalet with stunning views of the mountains.",
+                "rate": {
+                    "cleanliness": 5.0,
+                    "communication": 4.9,
+                    "check-in": 4.9,
+                    "accuracy": 5.0,
+                    "location": 5.0,
+                    "value": 4.8
+                }
+            }
+        ]
+    },
+    {
+        "name": "Countryside Villa in Tuscany",
+        "summary": "Beautiful villa in the Tuscan countryside",
+        "type": "Villa",
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/CountrysideVilla.jpg?im_w=720"
+        ],
+        "price": 350,
+        "capacity": 6,
+        "description": "Escape to the rolling hills of Tuscany with this charming countryside villa.",
+        "amenities": [
+            "Wifi",
+            "Pool",
+            "Garden",
+            "Outdoor dining area"
+        ],
+        "labels": [
+            "Countryside",
+            "Luxury",
+            "Secluded"
+        ],
+        "host": {
+            "_id": "64fbdb1d4a5f3e22903c2a21",
+            "fullname": "Giovanni Rossi",
+            "imgUrl": "https://res.cloudinary.com/userGiovanni.jpg"
+        },
+        "location": {
+            "city": "Florence",
+            "country": "Italy",
+            "lat": 43.7696,
+            "lang": 11.2558
+        },
+        "region": "Italy",
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a22b96f3c7i",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a23",
+                    "name": "Rachel McCarthy"
+                },
+                "txt": "A beautiful, peaceful retreat in the heart of Tuscany.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.8,
+                    "check-in": 4.9,
+                    "accuracy": 4.8,
+                    "location": 5.0,
+                    "value": 4.7
+                }
+            }
+        ]
+    },
+    {
+        "name": "Scandinavian Cottage",
+        "summary": "Charming cottage in the forests of Sweden",
+        "type": "Cottage",
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/ScandinavianCottage.jpg?im_w=720"
+        ],
+        "price": 120,
+        "capacity": 4,
+        "description": "A cozy cottage located in the serene forests of Sweden, perfect for a relaxing getaway.",
+        "amenities": [
+            "Wifi",
+            "Fireplace",
+            "Sauna",
+            "Nature trails"
+        ],
+        "labels": [
+            "Nature",
+            "Cozy",
+            "Scandinavian"
+        ],
+        "host": {
+            "_id": "64fbdb1d4a5f3e22903c2a24",
+            "fullname": "Ingrid Bergman",
+            "imgUrl": "https://res.cloudinary.com/userIngrid.jpg"
+        },
+        "location": {
+            "city": "Stockholm",
+            "country": "Sweden",
+            "lat": 59.3293,
+            "lang": 18.0686
+        },
+        "region": "Sweden",
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a25b96f3c7j",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a26",
+                    "name": "James Thompson"
+                },
+                "txt": "Absolutely loved the peace and quiet. The sauna was a fantastic touch.",
+                "rate": {
+                    "cleanliness": 4.8,
+                    "communication": 4.7,
+                    "check-in": 4.9,
+                    "accuracy": 4.8,
+                    "location": 4.9,
+                    "value": 4.8
+                }
+            }
+        ]
+    },
+    {
+        "name": "Desert Retreat in Morocco",
+        "summary": "Luxurious desert retreat with stunning views",
+        "type": "Retreat",
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/DesertRetreat.jpg?im_w=720"
+        ],
+        "price": 280,
+        "capacity": 4,
+        "description": "Experience the beauty of the Moroccan desert with this luxurious retreat.",
+        "amenities": [
+            "Wifi",
+            "Pool",
+            "Outdoor lounge",
+            "Hiking trails"
+        ],
+        "labels": [
+            "Desert",
+            "Luxury",
+            "Secluded"
+        ],
+        "host": {
+            "_id": "64fbdb1d4a5f3e22903c2a27",
+            "fullname": "Ahmed Benali",
+            "imgUrl": "https://res.cloudinary.com/userAhmed.jpg"
+        },
+        "location": {
+            "city": "Marrakech",
+            "country": "Morocco",
+            "lat": 31.6295,
+            "lang": -7.9811
+        },
+        "region": "Morocco",
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a28b96f3c7k",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a29",
+                    "name": "Olivia Harper"
+                },
+                "txt": "The perfect escape into the desert, the sunsets were unforgettable.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.8,
+                    "check-in": 5.0,
+                    "accuracy": 4.9,
+                    "location": 5.0,
+                    "value": 4.7
+                }
+            }
+        ]
+    },
+    {
+        "name": "Seaside Escape in Santorini",
+        "summary": "Romantic villa on the cliffs of Santorini",
+        "type": "Villa",
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/SantoriniVilla.jpg?im_w=720"
+        ],
+        "price": 450,
+        "capacity": 2,
+        "description": "A romantic getaway perched on the cliffs of Santorini, offering breathtaking views of the Aegean Sea.",
+        "amenities": [
+            "Wifi",
+            "Infinity pool",
+            "Ocean views",
+            "Private terrace"
+        ],
+        "labels": [
+            "Romantic",
+            "Luxury",
+            "Oceanfront"
+        ],
+        "host": {
+            "_id": "64fbdb1d4a5f3e22903c2a30",
+            "fullname": "Maria Papadopoulos",
+            "imgUrl": "https://res.cloudinary.com/userMaria.jpg"
+        },
+        "location": {
+            "city": "Santorini",
+            "country": "Greece",
+            "lat": 36.3932,
+            "lang": 25.4615
+        },
+        "region": "Greece",
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a31b96f3c7l",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a32",
+                    "name": "Eleanor Wilson"
+                },
+                "txt": "The view was breathtaking, and the villa was absolutely stunning.",
+                "rate": {
+                    "cleanliness": 5.0,
+                    "communication": 4.9,
+                    "check-in": 4.9,
+                    "accuracy": 5.0,
+                    "location": 5.0,
+                    "value": 4.8
+                }
+            }
+        ]
+    },
+    {
+        "name": "Urban Loft in Berlin",
+        "summary": "Chic urban loft in the heart of Berlin",
+        "type": "Loft",
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/BerlinLoft.jpg?im_w=720"
+        ],
+        "price": 300,
+        "capacity": 3,
+        "description": "A trendy loft in Berlin's vibrant city center, perfect for exploring the cultural hub of Germany.",
+        "amenities": [
+            "Wifi",
+            "Modern design",
+            "Central location"
+        ],
+        "labels": [
+            "Urban",
+            "Modern",
+            "Cultural"
+        ],
+        "host": {
+            "_id": "64fbdb1d4a5f3e22903c2a33",
+            "fullname": "Hans Schmidt",
+            "imgUrl": "https://res.cloudinary.com/userHans.jpg"
+        },
+        "location": {
+            "city": "Berlin",
+            "country": "Germany",
+            "lat": 52.5200,
+            "lang": 13.4050
+        },
+        "region": "Germany",
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a34b96f3c7m",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a35",
+                    "name": "Lucas Brown"
+                },
+                "txt": "Fantastic location and modern loft, had a great stay!",
+                "rate": {
+                    "cleanliness": 4.7,
+                    "communication": 4.8,
+                    "check-in": 4.9,
+                    "accuracy": 4.7,
+                    "location": 5.0,
+                    "value": 4.6
+                }
+            }
+        ]
+    },
+    {
+        "name": "Treehouse Getaway in Costa Rica",
+        "summary": "Unique treehouse surrounded by rainforest",
+        "type": "Treehouse",
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/CostaRicaTreehouse.jpg?im_w=720"
+        ],
+        "price": 275,
+        "capacity": 4,
+        "description": "Stay in a unique treehouse nestled in the lush rainforests of Costa Rica.",
+        "amenities": [
+            "Wifi",
+            "Rainforest views",
+            "Eco-friendly"
+        ],
+        "labels": [
+            "Nature",
+            "Adventure",
+            "Eco-friendly"
+        ],
+        "host": {
+            "_id": "64fbdb1d4a5f3e22903c2a36",
+            "fullname": "Diego Rivera",
+            "imgUrl": "https://res.cloudinary.com/userDiego.jpg"
+        },
+        "location": {
+            "city": "San José",
+            "country": "Costa Rica",
+            "lat": 9.9281,
+            "lang": -84.0907
+        },
+        "region": "Costa Rica",
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a37b96f3c7n",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a38",
+                    "name": "Emma Lopez"
+                },
+                "txt": "An unforgettable stay! The treehouse was magical and the rainforest views were incredible.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 5.0,
+                    "check-in": 5.0,
+                    "accuracy": 4.8,
+                    "location": 5.0,
+                    "value": 4.7
+                }
+            }
+        ]
+    }
+]
