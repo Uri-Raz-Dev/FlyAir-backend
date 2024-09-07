@@ -27,8 +27,8 @@ async function query(filterBy = {}) {
             {
                 $match: {
                     $or: [
-                        { "buyerId": ObjectId(loggedinUser._id) },
-                        { "hostId": ObjectId(loggedinUser._id) }
+                        { "buyerId": new ObjectId(loggedinUser._id) },
+                        { "hostId": new ObjectId(loggedinUser._id) }
                     ]
                 }
             },
@@ -79,9 +79,9 @@ async function add(order) {
     console.log(order.stayId, 'order.stayId')
     try {
         const orderToAdd = {
-            buyerId: ObjectId(order.buyerId),
-            stayId: ObjectId(order.stayId),
-            hostId: ObjectId(order.hostId),
+            buyerId: new ObjectId(order.buyerId),
+            stayId: new ObjectId(order.stayId),
+            hostId: new ObjectId(order.hostId),
             totalPrice: order.totalPrice,
             startDate: order.startDate,
             endDate: order.endDate,
@@ -101,9 +101,9 @@ async function add(order) {
 async function update(order) {
     try {
         const orderToAdd = {
-            buyerId: ObjectId(order.buyer._id),
-            stayId: ObjectId(order.stay._id),
-            hostId: ObjectId(order.hostId),
+            buyerId: new ObjectId(order.buyer._id),
+            stayId: new ObjectId(order.stay._id),
+            hostId: new ObjectId(order.hostId),
             totalPrice: order.totalPrice,
             startDate: order.startDate,
             endDate: order.endDate,
@@ -112,7 +112,7 @@ async function update(order) {
             status: order.status
         }
         const collection = await dbService.getCollection('order')
-        await collection.updateOne({ _id: ObjectId(order._id) }, { $set: orderToAdd })
+        await collection.updateOne({ _id: new ObjectId(order._id) }, { $set: orderToAdd })
         return orderToAdd
     } catch {
         logger.error(`cannot update order ${order._id}`, err)
@@ -125,10 +125,10 @@ async function remove(orderId) {
         const store = asyncLocalStorage.getStore()
         const { loggedinUser } = store
         const collection = await dbService.getCollection('order')
-        const criteria = { _id: ObjectId(orderId) }
+        const criteria = { _id: new ObjectId(orderId) }
 
         // remove only if user is admin or the review's owner
-        if (!loggedinUser.isAdmin) criteria.hostId = ObjectId(loggedinUser._id)
+        if (!loggedinUser.isAdmin) criteria.hostId = new ObjectId(loggedinUser._id)
 
         const { deletedCount } = await collection.deleteOne(criteria)
         return deletedCount
@@ -144,7 +144,7 @@ async function addOrderMsg(orderId, msg) {
         msg.createdAt = Date.now()
         delete (msg.to)
         const collection = await dbService.getCollection('order')
-        await collection.updateOne({ _id: ObjectId(orderId) }, { $push: { msgs: msg } })
+        await collection.updateOne({ _id: new ObjectId(orderId) }, { $push: { msgs: msg } })
         return msg
     } catch (err) {
         logger.error(`cannot add order message ${orderId}`, err)
@@ -156,7 +156,7 @@ async function addOrderMsg(orderId, msg) {
 async function removeOrderMsg(orderId, msgId) {
     try {
         const collection = await dbService.getCollection('order')
-        await collection.updateOne({ _id: ObjectId(orderId) }, { $pull: { msgs: { id: msgId } } })
+        await collection.updateOne({ _id: new ObjectId(orderId) }, { $pull: { msgs: { id: msgId } } })
         return msgId
     } catch (err) {
         logger.error(`cannot remove order message ${orderId}`, err)
@@ -167,7 +167,7 @@ async function removeOrderMsg(orderId, msgId) {
 async function getById(orderId) {
     try {
         const collection = await dbService.getCollection('order')
-        const order = await collection.findOne({ '_id': ObjectId(orderId) })
+        const order = await collection.findOne({ '_id': new ObjectId(orderId) })
         return order
     } catch (err) {
         logger.error(`while finding order ${orderId}`, err)
@@ -179,7 +179,7 @@ async function getById(orderId) {
 function _buildCriteria(filterBy) {
     const criteria = {}
     if (filterBy.stayId) criteria.stayId = filterBy.stayId
-    // if (filterBy.orderId) criteria._id = ObjectId(filterBy.orderId)
+    // if (filterBy.orderId) criteria._id = new ObjectId(filterBy.orderId)
     return criteria
 }
 

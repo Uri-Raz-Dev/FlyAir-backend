@@ -30,7 +30,7 @@
         "host": {
             "_id": "64fbdccd4a5f3e22903c2a01",
             "fullname": "Samantha Lee",
-            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1724504652/Flyair/Samantha%20Lee.jpg"
+            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649623/c7c60b69-78f6-4bc2-8db3-711da78ce19e_lzvzmt.jpg"
         },
         "location": {
             "city": "Paris",
@@ -46,7 +46,8 @@
                 "id": "64fbdb1d4a5f3e22903c2a02b96f3c7a",
                 "by": {
                     "_id": "64fbdb1d4a5f3e22903c2a03",
-                    "name": "Alice Johnson"
+                    "name": "Alice Johnson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649264/4d81e4f3-f225-43e7-bbed-076f88f2b459_qaneuh.jpg"
                 },
                 "txt": "Absolutely loved this apartment! The location was perfect for exploring Paris.",
                 "rate": {
@@ -62,7 +63,8 @@
                 "id": "64fbdb1d4a5f3e22903c2a04b96f3c7b",
                 "by": {
                     "_id": "64fbdb1d4a5f3e22903c2a05",
-                    "name": "Bob Smith"
+                    "name": "Bob Smith",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649509/ecdce215-d703-4280-a781-fcf3247ea55b_yviwid.jpg"
                 },
                 "txt": "Great place to stay, very modern and comfortable. Samantha was a wonderful host.",
                 "rate": {
@@ -73,10 +75,78 @@
                     "location": 4.5,
                     "value": 4.7
                 }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a06b96f3c7c",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a07",
+                    "name": "Clara Wilson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649667/7ccc441e-7e33-4ccb-b061-4d4bb4bf4d6b_g1umsh.jpg"
+                },
+                "txt": "The apartment was beautiful and the location was perfect! Highly recommended for anyone visiting Paris.",
+                "rate": {
+                    "cleanliness": 5.0,
+                    "communication": 4.8,
+                    "check-in": 4.9,
+                    "accuracy": 4.9,
+                    "location": 5.0,
+                    "value": 4.9
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a08b96f3c7d",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a09",
+                    "name": "David Green",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649633/edc07c3a-5005-496f-a4d3-0c1e963cd795_etdbwx.jpg"
+                },
+                "txt": "Lovely apartment! The amenities were great, and Samantha was very responsive and helpful throughout our stay.",
+                "rate": {
+                    "cleanliness": 4.8,
+                    "communication": 4.7,
+                    "check-in": 4.8,
+                    "accuracy": 4.8,
+                    "location": 4.7,
+                    "value": 4.7
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a10b96f3c7e",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a11",
+                    "name": "Emma Brown",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652001/15b1f1b8-5f09-4449-92b8-28e6212e3367_vwfglf.jpg"
+                },
+                "txt": "This apartment made our Paris trip extra special. It's located close to many attractions and has a modern, cozy feel.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.9,
+                    "check-in": 4.7,
+                    "accuracy": 4.7,
+                    "location": 4.8,
+                    "value": 4.9
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a12b96f3c7f",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a13",
+                    "name": "James Carter",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652132/fe6c432b-d7c0-47bd-bfa4-4668dccdc8ec_jfgbxp.jpg"
+                },
+                "txt": "Fantastic experience! The apartment was clean, comfortable, and in a great location. Would definitely stay here again.",
+                "rate": {
+                    "cleanliness": 4.7,
+                    "communication": 4.8,
+                    "check-in": 4.9,
+                    "accuracy": 4.8,
+                    "location": 4.9,
+                    "value": 4.7
+                }
             }
         ],
-        "startDate": "15/9/2024",
-        "endDate": "20/10/2024"
+        "startDate": "2024-9-15",
+        "endDate": "2024-10-20"
     },
     {
         "name": "Cozy NYC Studio",
@@ -84,7 +154,10 @@
         "type": "Tiny homes",
         "imgurls": [
             "https://a0.muscache.com/im/pictures/86655972/f708e3db_original.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/86657319/66d37ba2_original.jpg?im_w=720"
+            "https://a0.muscache.com/im/pictures/86657319/66d37ba2_original.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/86655544/5cb703c2_original.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/86653287/721e627a_original.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/86656684/9c21bbde_original.jpg?im_w=720"
         ],
         "price": 200,
         "capacity": 2,
@@ -105,7 +178,7 @@
         "host": {
             "_id": "64fbdb1d4a5f3e22903c2a06",
             "fullname": "Emily Watson",
-            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1724504661/Flyair/Emily%20Watson.jpg"
+            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649650/3f4987b1-6c31-4c76-a1bb-3e8bef02988f_viqade.png"
         },
         "location": {
             "city": "New York",
@@ -121,7 +194,8 @@
                 "id": "64fbdb1d4a5f3e22903c2a07b96f3c7d",
                 "by": {
                     "_id": "64fbdb1d4a5f3e22903c2a08",
-                    "name": "Grace Hill"
+                    "name": "Grace Hill",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649679/b6fc6858-7328-47d7-9f0b-bac69bfa3ffe_txspbg.jpg"
                 },
                 "txt": "The studio was perfect for our weekend in NYC. Loved the cozy atmosphere!",
                 "rate": {
@@ -132,17 +206,106 @@
                     "location": 4.9,
                     "value": 4.7
                 }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a09b96f3c7e",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a10",
+                    "name": "Michael Scott",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652476/c4b11a43-048d-441b-9d3f-3844e29e2888_zsjt6c.jpg"
+                },
+                "txt": "Great little studio in the heart of New York! The location was perfect for exploring the city.",
+                "rate": {
+                    "cleanliness": 4.7,
+                    "communication": 4.8,
+                    "check-in": 4.9,
+                    "accuracy": 4.8,
+                    "location": 5.0,
+                    "value": 4.6
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a11b96f3c7f",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a12",
+                    "name": "Sarah Parker",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652502/8a8d0e2e-4b62-4c68-80d5-678fb2a36cc6_bqkk3m.jpg"
+                },
+                "txt": "Cozy and comfortable, the studio had everything we needed. Emily was a great host!",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.9,
+                    "check-in": 4.8,
+                    "accuracy": 4.7,
+                    "location": 4.9,
+                    "value": 4.8
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a13b96f3c80",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a14",
+                    "name": "John Adams",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652535/4e8831e4-fbc8-4709-a375-ba79b8e002c7_exao7t.jpg"
+                },
+                "txt": "Fantastic stay! The studio is in an ideal location, and it was very clean and cozy.",
+                "rate": {
+                    "cleanliness": 4.8,
+                    "communication": 4.7,
+                    "check-in": 4.9,
+                    "accuracy": 4.8,
+                    "location": 4.8,
+                    "value": 4.7
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a15b96f3c81",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a16",
+                    "name": "Olivia Taylor",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652564/e69003ad-61a1-4bd0-a9d9-5a14a409e795_sedzzb.jpg"
+                },
+                "txt": "Loved the studio! It was small but perfectly suited our needs. Great spot for a weekend in NYC.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.8,
+                    "check-in": 4.8,
+                    "accuracy": 4.9,
+                    "location": 5.0,
+                    "value": 4.8
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a17b96f3c82",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a18",
+                    "name": "Emma Brown",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652603/1f4d55ba-f431-49ee-802f-2346760140c5_bgahti.jpg"
+                },
+                "txt": "Wonderful stay! The studio is in a fantastic location and was perfect for a short stay in the city.",
+                "rate": {
+                    "cleanliness": 4.8,
+                    "communication": 4.9,
+                    "check-in": 5.0,
+                    "accuracy": 4.9,
+                    "location": 5.0,
+                    "value": 4.7
+                }
             }
         ],
-        "startDate": "15/10/2024",
-        "endDate": "20/11/2024"
+        "startDate": "2024-10-15",
+        "endDate": "2024-11-20"
     },
     {
         "name": "Sunny Barcelona Loft",
         "summary": "Bright and airy loft in the heart of Barcelona",
         "type": "Loft",
         "imgurls": [
-            "https://a0.muscache.com/im/pictures/Barcelona.jpg?im_w=720"
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-1181431179193810206/original/e7fa5f8b-fccb-423a-ab00-f3f8d15de4d9.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-1181431179193810206/original/1e4f8904-233c-4592-9408-5bbb9d306b59.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-1181431179193810206/original/946df19e-5220-4198-ad33-e02d1aae81ab.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-1181431179193810206/original/ccf2c146-ff1e-4a0a-bf4a-97baee32d765.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-1181431179193810206/original/6bf31aea-88e2-4b4a-bbfb-ff644f17af41.jpeg?im_w=720"
         ],
         "price": 180,
         "capacity": 4,
@@ -160,7 +323,7 @@
         "host": {
             "_id": "64fbdb1d4a5f3e22903c2a09",
             "fullname": "Carlos Gonzalez",
-            "imgUrl": "https://res.cloudinary.com/userCarlos.jpg"
+            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649633/edc07c3a-5005-496f-a4d3-0c1e963cd795_etdbwx.jpg"
         },
         "location": {
             "city": "Barcelona",
@@ -174,7 +337,8 @@
                 "id": "64fbdb1d4a5f3e22903c2a10b96f3c7e",
                 "by": {
                     "_id": "64fbdb1d4a5f3e22903c2a11",
-                    "name": "John Doe"
+                    "name": "John Doe",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649697/413b9bf0-5246-4a6b-a60c-8a3c755590f9_flugye.jpg"
                 },
                 "txt": "Amazing loft with great views of the city.",
                 "rate": {
@@ -187,15 +351,19 @@
                 }
             }
         ],
-        "startDate": "13/9/2024",
-        "endDate": "24/10/2024"
+        "startDate": "2024-9-13",
+        "endDate": "2024-10-24"
     },
     {
         "name": "Lakefront Cabin in Canada",
         "summary": "Cozy cabin on the lake in Ontario",
         "type": "Cabin",
         "imgurls": [
-            "https://a0.muscache.com/im/pictures/CanadaCabin.jpg?im_w=720"
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-818250390160893484/original/c8a3c420-1f16-4313-a7e3-351ccbda6930.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-818250390160893484/original/92d22989-5359-46d9-8c0c-02ebc8ff2548.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-818250390160893484/original/156a669b-b67e-4325-b35e-f767575ccdb4.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-818250390160893484/original/eb2c6350-7318-417d-b682-dd102dc611d0.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-818250390160893484/original/3dccd82b-9574-434d-90c1-f6006c095824.jpeg?im_w=720"
         ],
         "price": 220,
         "capacity": 6,
@@ -213,7 +381,7 @@
         "host": {
             "_id": "64fbdb1d4a5f3e22903c2a12",
             "fullname": "Lily Smith",
-            "imgUrl": "https://res.cloudinary.com/userLily.jpg"
+            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649690/8a1097dd-49a1-451f-82b0-6379a1d48557_pfjrel.jpg"
         },
         "location": {
             "city": "Ontario",
@@ -227,7 +395,8 @@
                 "id": "64fbdb1d4a5f3e22903c2a13b96f3c7f",
                 "by": {
                     "_id": "64fbdb1d4a5f3e22903c2a14",
-                    "name": "Mark Johnson"
+                    "name": "Mark Johnson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649762/original_oxc3jr.jpg"
                 },
                 "txt": "Loved the cabin! The lake access was fantastic for our family.",
                 "rate": {
@@ -240,15 +409,19 @@
                 }
             }
         ],
-        "startDate": "3/1/2025",
-        "endDate": "13/2/2025"
+        "startDate": "2025-1-3",
+        "endDate": "2025-2-13"
     },
     {
         "name": "Beachside Bungalow",
         "summary": "Relaxing bungalow steps from the beach",
         "type": "Bungalow",
         "imgurls": [
-            "https://a0.muscache.com/im/pictures/BeachBungalow.jpg?im_w=720"
+            "https://a0.muscache.com/im/pictures/miso/Hosting-31170206/original/03762295-2ff7-4b9e-a824-f542d7a95c00.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-31170206/original/690311e1-4f5a-450f-ba21-e6b5b1067929.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-31170206/original/48dd58d1-440c-4de5-8d8e-494f7919c4d6.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-31170206/original/fe20d39b-02c6-4fc0-bf9d-dfe09182efc2.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-31170206/original/f485fd18-7394-4e13-9a0d-cc4efe75c1f0.jpeg?im_w=720"
         ],
         "price": 300,
         "capacity": 5,
@@ -265,7 +438,7 @@
         "host": {
             "_id": "64fbdb1d4a5f3e22903c2a15",
             "fullname": "Nina Patel",
-            "imgUrl": "https://res.cloudinary.com/userNina.jpg"
+            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649748/575fd9de-3155-451e-96c3-0fec6abfa7e2_bsapdv.jpg"
         },
         "location": {
             "city": "Malibu",
@@ -279,7 +452,8 @@
                 "id": "64fbdb1d4a5f3e22903c2a16b96f3c7g",
                 "by": {
                     "_id": "64fbdb1d4a5f3e22903c2a17",
-                    "name": "Sarah Lee"
+                    "name": "Sarah Lee",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649768/c3956d1e-c25b-4bc2-b3bb-7618481a3528_fkwen5.jpg"
                 },
                 "txt": "Perfect beach vacation! We enjoyed the bungalow and beach access.",
                 "rate": {
@@ -292,15 +466,19 @@
                 }
             }
         ],
-        "startDate": "13/11/2024",
-        "endDate": "6/12/2024"
+        "startDate": "2024-11-13",
+        "endDate": "2024-12-6"
     },
     {
         "name": "Mountain Chalet",
         "summary": "Luxury chalet in the mountains of Switzerland",
         "type": "Chalet",
         "imgurls": [
-            "https://a0.muscache.com/im/pictures/MountainChalet.jpg?im_w=720"
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-704198223014647302/original/7f25d620-f963-41a1-933b-93f73f42ea79.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-704198223014647302/original/92e608a2-a92e-4ec0-b3c7-7d208b7ae5d4.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-704198223014647302/original/79b50c30-7bd0-41fd-890b-5956a693b292.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-704198223014647302/original/ad408e69-0168-443d-8391-f97b540b4418.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-704198223014647302/original/83893461-9c73-4e87-a25f-0857626da850.jpeg?im_w=720"
         ],
         "price": 400,
         "capacity": 8,
@@ -319,7 +497,7 @@
         "host": {
             "_id": "64fbdb1d4a5f3e22903c2a18",
             "fullname": "Sophie Müller",
-            "imgUrl": "https://res.cloudinary.com/userSophie.jpg"
+            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649791/5fe9e485-8dbc-4e2e-ab55-188a7e6cc610_opbvos.jpg"
         },
         "location": {
             "city": "Zurich",
@@ -333,7 +511,8 @@
                 "id": "64fbdb1d4a5f3e22903c2a19b96f3c7h",
                 "by": {
                     "_id": "64fbdb1d4a5f3e22903c2a20",
-                    "name": "Alex Williams"
+                    "name": "Alex Williams",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649555/91e6bcfd-7d42-47fb-8939-5777cc36617d_rx1g1y.jpg"
                 },
                 "txt": "Beautiful chalet with stunning views of the mountains.",
                 "rate": {
@@ -346,15 +525,19 @@
                 }
             }
         ],
-        "startDate": "7/1/2025",
-        "endDate": "2/2/2025"
+        "startDate": "2025-1-7",
+        "endDate": "2025-2-2"
     },
     {
         "name": "Countryside Villa in Tuscany",
         "summary": "Beautiful villa in the Tuscan countryside",
         "type": "Villa",
         "imgurls": [
-            "https://a0.muscache.com/im/pictures/CountrysideVilla.jpg?im_w=720"
+            "https://a0.muscache.com/im/pictures/miso/Hosting-12349005/original/e6458178-5582-4f79-af7c-86898ca13e43.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/0d7260e5-2110-49e8-9fb1-06c5b8c71191.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/a405dd90-e68d-4c92-b8bf-833a589baa58.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/0eb227c9-b6fe-473b-902c-61ab613e6320.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-12349005/original/76779a10-add0-4ef5-a161-1c967353a1bc.jpeg?im_w=720"
         ],
         "price": 350,
         "capacity": 6,
@@ -373,7 +556,7 @@
         "host": {
             "_id": "64fbdb1d4a5f3e22903c2a21",
             "fullname": "Giovanni Rossi",
-            "imgUrl": "https://res.cloudinary.com/userGiovanni.jpg"
+            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649534/cf0b486f-517a-4dbd-9a8b-71f63ce766cf_aahysi.jpg"
         },
         "location": {
             "city": "Florence",
@@ -387,7 +570,8 @@
                 "id": "64fbdb1d4a5f3e22903c2a22b96f3c7i",
                 "by": {
                     "_id": "64fbdb1d4a5f3e22903c2a23",
-                    "name": "Rachel McCarthy"
+                    "name": "Rachel McCarthy",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649592/45fb7809-57bf-4f2f-8833-07f88f9b5b82_zytu01.jpg"
                 },
                 "txt": "A beautiful, peaceful retreat in the heart of Tuscany.",
                 "rate": {
@@ -400,15 +584,19 @@
                 }
             }
         ],
-        "startDate": "11/11/2024",
-        "endDate": "1/12/2024"
+        "startDate": "2024-11-11",
+        "endDate": "2024-12-1"
     },
     {
         "name": "Scandinavian Cottage",
         "summary": "Charming cottage in the forests of Sweden",
         "type": "Cottage",
         "imgurls": [
-            "https://a0.muscache.com/im/pictures/ScandinavianCottage.jpg?im_w=720"
+            "https://a0.muscache.com/im/pictures/36bae120-3b3e-4340-bcc5-93091f4fe91f.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/478fb848-757a-4bcc-a3da-35ad2d25e078.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/2fa43848-6bca-42ba-97d1-e03f67e842db.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/c89a5bea-a8e8-4eb4-bd43-5c8fba651d08.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/b990ba5d-4c3c-43f7-afda-b975a35e9dcf.jpg?im_w=720"
         ],
         "price": 120,
         "capacity": 4,
@@ -427,7 +615,7 @@
         "host": {
             "_id": "64fbdb1d4a5f3e22903c2a24",
             "fullname": "Ingrid Bergman",
-            "imgUrl": "https://res.cloudinary.com/userIngrid.jpg"
+            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649604/a9e8e90c-eb96-4c30-8b4b-f3b2e213a327_qturc6.jpg"
         },
         "location": {
             "city": "Stockholm",
@@ -441,7 +629,8 @@
                 "id": "64fbdb1d4a5f3e22903c2a25b96f3c7j",
                 "by": {
                     "_id": "64fbdb1d4a5f3e22903c2a26",
-                    "name": "James Thompson"
+                    "name": "James Thompson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649565/df80483d-b9ee-4836-8e52-762df5242ed9_l6g5p5.jpg"
                 },
                 "txt": "Absolutely loved the peace and quiet. The sauna was a fantastic touch.",
                 "rate": {
@@ -454,15 +643,19 @@
                 }
             }
         ],
-        "startDate": "14/2/2025",
-        "endDate": "28/2/2025"
+        "startDate": "2025-2-14",
+        "endDate": "2025-2-28"
     },
     {
         "name": "Desert Retreat in Morocco",
         "summary": "Luxurious desert retreat with stunning views",
         "type": "Retreat",
         "imgurls": [
-            "https://a0.muscache.com/im/pictures/DesertRetreat.jpg?im_w=720"
+            "https://a0.muscache.com/im/pictures/c695ff83-3f05-4a98-be6a-6e2e551818fb.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/3f19e0bf-b6f7-4d4d-941e-f43700d358b8.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/93df3029-476e-497e-a451-3a7d1e2f3794.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/18e20f05-bbce-4c24-8ddc-d106b055599f.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/0e9c5680-abc8-4194-af02-8bdcc4518e15.jpg?im_w=720"
         ],
         "price": 280,
         "capacity": 4,
@@ -481,7 +674,7 @@
         "host": {
             "_id": "64fbdb1d4a5f3e22903c2a27",
             "fullname": "Ahmed Benali",
-            "imgUrl": "https://res.cloudinary.com/userAhmed.jpg"
+            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649534/cf0b486f-517a-4dbd-9a8b-71f63ce766cf_aahysi.jpg"
         },
         "location": {
             "city": "Marrakech",
@@ -495,7 +688,8 @@
                 "id": "64fbdb1d4a5f3e22903c2a28b96f3c7k",
                 "by": {
                     "_id": "64fbdb1d4a5f3e22903c2a29",
-                    "name": "Olivia Harper"
+                    "name": "Olivia Harper",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649526/0da3d8fb-6a70-4770-9c31-1957a67a2c70_y5yoj0.jpg"
                 },
                 "txt": "The perfect escape into the desert, the sunsets were unforgettable.",
                 "rate": {
@@ -508,15 +702,19 @@
                 }
             }
         ],
-        "startDate": "28/10/2024",
-        "endDate": "5/11/2024"
+        "startDate": "2024-10-28",
+        "endDate": "2024-11-5"
     },
     {
         "name": "Seaside Escape in Santorini",
         "summary": "Romantic villa on the cliffs of Santorini",
         "type": "Villa",
         "imgurls": [
-            "https://a0.muscache.com/im/pictures/SantoriniVilla.jpg?im_w=720"
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-1196255335067739365/original/736e2660-a95c-4c18-aedb-3076cb21a45d.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-1196255335067739365/original/8fdde5a4-0fd3-4b5e-842f-e9afee9421eb.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-1196255335067739365/original/db463d12-b16d-479e-8c8a-28bcc85f9591.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-1196255335067739365/original/bbf7eb63-253e-4f33-b25e-8f17a21ae5bd.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-1196255335067739365/original/3039da00-a857-4ee6-b3c3-6a4f77be15cd.jpeg?im_w=720"
         ],
         "price": 450,
         "capacity": 2,
@@ -535,7 +733,7 @@
         "host": {
             "_id": "64fbdb1d4a5f3e22903c2a30",
             "fullname": "Maria Papadopoulos",
-            "imgUrl": "https://res.cloudinary.com/userMaria.jpg"
+            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649328/4519cd9f-8cc2-4e47-9b96-6f9069cc1fa2_swsou2.jpg"
         },
         "location": {
             "city": "Santorini",
@@ -549,7 +747,8 @@
                 "id": "64fbdb1d4a5f3e22903c2a31b96f3c7l",
                 "by": {
                     "_id": "64fbdb1d4a5f3e22903c2a32",
-                    "name": "Eleanor Wilson"
+                    "name": "Eleanor Wilson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649401/78fb3e17-9dc8-4618-956c-f34a0e41e01d_miu2bl.jpg"
                 },
                 "txt": "The view was breathtaking, and the villa was absolutely stunning.",
                 "rate": {
@@ -562,15 +761,19 @@
                 }
             }
         ],
-        "startDate": "13/11/2024",
-        "endDate": "24/12/2024"
+        "startDate": "2024-11-13",
+        "endDate": "2024-12-24"
     },
     {
         "name": "Urban Loft in Berlin",
         "summary": "Chic urban loft in the heart of Berlin",
         "type": "Loft",
         "imgurls": [
-            "https://a0.muscache.com/im/pictures/BerlinLoft.jpg?im_w=720"
+            "https://a0.muscache.com/im/pictures/850f7cd4-873c-4969-8238-a75f91fb7ba9.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/a38645a5-ae3a-4ff5-89d7-2f8dbfef019b.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/69602da6-552c-4710-a22a-f9c4620b9f6a.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/0781d19a-bd37-428c-886d-cb186a13033d.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/806dbf60-8965-4099-90a7-997078663e69.jpg?im_w=720"
         ],
         "price": 300,
         "capacity": 3,
@@ -588,7 +791,7 @@
         "host": {
             "_id": "64fbdb1d4a5f3e22903c2a33",
             "fullname": "Hans Schmidt",
-            "imgUrl": "https://res.cloudinary.com/userHans.jpg"
+            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649309/d69d724f-d078-4f6b-a84c-627affe05b20_ol4lbh.jpg"
         },
         "location": {
             "city": "Berlin",
@@ -602,7 +805,8 @@
                 "id": "64fbdb1d4a5f3e22903c2a34b96f3c7m",
                 "by": {
                     "_id": "64fbdb1d4a5f3e22903c2a35",
-                    "name": "Lucas Brown"
+                    "name": "Lucas Brown",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649428/e0aab456-2793-4a88-b1f1-d80c0345553e_gtynyj.jpg"
                 },
                 "txt": "Fantastic location and modern loft, had a great stay!",
                 "rate": {
@@ -615,15 +819,19 @@
                 }
             }
         ],
-        "startDate": "6/12/2024",
-        "endDate": "3/1/2025"
+        "startDate": "2024-12-6",
+        "endDate": "2025-1-3"
     },
     {
         "name": "Treehouse Getaway in Costa Rica",
         "summary": "Unique treehouse surrounded by rainforest",
         "type": "Treehouse",
         "imgurls": [
-            "https://a0.muscache.com/im/pictures/CostaRicaTreehouse.jpg?im_w=720"
+            "https://a0.muscache.com/im/pictures/00ed4486-35ee-4b19-9d40-5457de5bf5dc.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/923d56d3-93eb-42d9-8bd8-ce10eb31cb83.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/6d55dcd8-2a91-48e6-b6fd-826b5a4d4b28.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/d0fe15d3-a1e3-46fc-a835-7b8d38e3b14d.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/273dd3d3-fb71-42b9-adc6-6be55804f9b3.jpg?im_w=720"
         ],
         "price": 275,
         "capacity": 4,
@@ -641,7 +849,7 @@
         "host": {
             "_id": "64fbdb1d4a5f3e22903c2a36",
             "fullname": "Diego Rivera",
-            "imgUrl": "https://res.cloudinary.com/userDiego.jpg"
+            "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649798/78e0dd0d-5ead-4581-828b-5843f7e97918_e9ihcu.jpg"
         },
         "location": {
             "city": "San José",
@@ -655,7 +863,8 @@
                 "id": "64fbdb1d4a5f3e22903c2a37b96f3c7n",
                 "by": {
                     "_id": "64fbdb1d4a5f3e22903c2a38",
-                    "name": "Emma Lopez"
+                    "name": "Emma Lopez",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649785/09fc7493-5c4e-4f44-88f3-373d51b14b71_frshd7.jpg"
                 },
                 "txt": "An unforgettable stay! The treehouse was magical and the rainforest views were incredible.",
                 "rate": {
@@ -668,7 +877,7 @@
                 }
             }
         ],
-        "startDate": "29/9/2024",
-        "endDate": "15/10/2024"
+        "startDate": "2024-9-29",
+        "endDate": "2024-10-15"
     }
 ]

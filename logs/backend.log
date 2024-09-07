@@ -163,3 +163,312 @@
 6.9.2024, 20:35:44 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: sNEAggtgTMlu-h7SAAAD]
 6.9.2024, 20:56:23 - INFO - Server is running on port: 3030
 6.9.2024, 20:56:24 - INFO - New connected socket [id: nI3v0z7lBbAG3c-hAAAB]
+6.9.2024, 21:08:38 - INFO - Req was made | /
+6.9.2024, 21:08:38 - DEBUG - Getting Stays
+6.9.2024, 21:36:45 - INFO - Server is running on port: 3030
+6.9.2024, 21:36:47 - INFO - New connected socket [id: _iDFQdwt3NWhpEBkAAAB]
+6.9.2024, 21:44:39 - INFO - Server is running on port: 3030
+6.9.2024, 21:44:40 - INFO - New connected socket [id: aO75Ar0UX9nVq1f3AAAB]
+6.9.2024, 22:57:04 - INFO - Server is running on port: 3030
+6.9.2024, 22:57:04 - INFO - New connected socket [id: vhTCpNVaJB5-jwhGAAAB]
+6.9.2024, 22:58:20 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 22:58:24 - INFO - New connected socket [id: fAASkIM7hI02zKWaAAAD]
+6.9.2024, 22:58:24 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: fAASkIM7hI02zKWaAAAD]
+6.9.2024, 22:58:28 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 22:58:28 - INFO - New connected socket [id: 60GsbFX0MOV6HsVPAAAF]
+6.9.2024, 22:58:29 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 60GsbFX0MOV6HsVPAAAF]
+6.9.2024, 23:12:26 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 23:12:32 - INFO - New connected socket [id: SK08laK0FtmvC6nPAAAH]
+6.9.2024, 23:12:33 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: SK08laK0FtmvC6nPAAAH]
+6.9.2024, 23:14:33 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 23:14:36 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+6.9.2024, 23:14:36 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+6.9.2024, 23:14:37 - INFO - New connected socket [id: NJ117dGVSjY-bH-SAAAJ]
+6.9.2024, 23:14:37 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: NJ117dGVSjY-bH-SAAAJ]
+6.9.2024, 23:14:39 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+6.9.2024, 23:14:39 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+6.9.2024, 23:16:54 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+6.9.2024, 23:16:54 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+6.9.2024, 23:17:08 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+6.9.2024, 23:17:08 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+6.9.2024, 23:17:10 - ERROR - while finding stay 66db5eaf6055dbcffe04534b | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+6.9.2024, 23:17:10 - ERROR - Failed to get stay | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+6.9.2024, 23:17:34 - INFO - Socket disconnected [id: undefined]
+6.9.2024, 23:17:35 - ERROR - while finding stay 66db5eaf6055dbcffe04534b | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+6.9.2024, 23:17:35 - ERROR - Failed to get stay | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+6.9.2024, 23:17:35 - INFO - New connected socket [id: iVWgCiJnty9XS4-cAAAL]
+6.9.2024, 23:17:35 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: iVWgCiJnty9XS4-cAAAL]
+6.9.2024, 23:17:42 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+6.9.2024, 23:17:42 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+6.9.2024, 23:20:16 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+6.9.2024, 23:20:16 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+6.9.2024, 23:20:18 - ERROR - while finding stay 66db5eaf6055dbcffe04534b | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+6.9.2024, 23:20:18 - ERROR - Failed to get stay | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+6.9.2024, 23:20:32 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+6.9.2024, 23:20:32 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+6.9.2024, 23:20:32 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+6.9.2024, 23:20:32 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+6.9.2024, 23:20:34 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+6.9.2024, 23:20:34 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+6.9.2024, 23:20:36 - ERROR - while finding stay 66db5eaf6055dbcffe04534a | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+6.9.2024, 23:20:36 - ERROR - Failed to get stay | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+6.9.2024, 23:21:39 - DEBUG - auth.service - login with username: aaa | 66db3d6f12177c287fb20efc
+6.9.2024, 23:21:39 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null} | 66db3d6f12177c287fb20efc
+6.9.2024, 23:21:40 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: iVWgCiJnty9XS4-cAAAL]
+6.9.2024, 23:21:40 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+6.9.2024, 23:21:40 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+6.9.2024, 23:24:26 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 16:42:11 - INFO - Server is running on port: 3030
+7.9.2024, 16:42:53 - INFO - New connected socket [id: 6vNRnjizp51o9V0HAAAB]
+7.9.2024, 16:43:51 - INFO - Server is running on port: 3030
+7.9.2024, 16:43:51 - INFO - New connected socket [id: yYzgXUeHkiNzZAGRAAAB]
+7.9.2024, 16:43:51 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:43:51 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:43:53 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:43:53 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:43:53 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 16:43:54 - INFO - New connected socket [id: eyPKRq8e2xHqyOHLAAAD]
+7.9.2024, 16:43:54 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:43:54 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:43:54 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:43:54 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:14 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:14 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:15 - ERROR - while finding stay 66db5eaf6055dbcffe04534a | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:15 - ERROR - Failed to get stay | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:42 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:42 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:45 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:45 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:48 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:48 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:50 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:50 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:51 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:51 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:53 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:53 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:55 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:55 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:55 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:55 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:57 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:44:57 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:47:58 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:47:58 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:48:52 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:48:52 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:49:51 - ERROR - while finding stay 66db5eaf6055dbcffe04534b | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+7.9.2024, 16:49:51 - ERROR - Failed to get stay | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+7.9.2024, 16:50:04 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 16:50:05 - ERROR - while finding stay 66db5eaf6055dbcffe04534b | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+7.9.2024, 16:50:05 - ERROR - Failed to get stay | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+7.9.2024, 16:50:05 - INFO - New connected socket [id: -i6ELAZwGB-FY5z8AAAF]
+7.9.2024, 16:50:29 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 16:50:30 - ERROR - while finding stay 66db5eaf6055dbcffe04534b | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+7.9.2024, 16:50:30 - ERROR - Failed to get stay | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+7.9.2024, 16:50:30 - INFO - New connected socket [id: mBzlhlusqPz0DE5zAAAH]
+7.9.2024, 16:51:28 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:51:28 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:51:31 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:51:31 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:51:34 - ERROR - while finding stay 66db5eaf6055dbcffe04534a | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+7.9.2024, 16:51:34 - ERROR - Failed to get stay | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+7.9.2024, 16:52:36 - ERROR - while finding stay 66db5eaf6055dbcffe04534a | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+7.9.2024, 16:52:36 - ERROR - Failed to get stay | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+7.9.2024, 16:52:49 - DEBUG - auth.service - login with username: aaa | 66db3d6f12177c287fb20efc
+7.9.2024, 16:52:49 - ERROR - Failed to Login Error: Invalid username or password | 66db3d6f12177c287fb20efc
+7.9.2024, 16:52:50 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 16:52:51 - INFO - New connected socket [id: Pb1x-ziO0n2VSpdeAAAJ]
+7.9.2024, 16:52:51 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:52:51 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:52:52 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 16:52:52 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 16:52:54 - ERROR - while finding stay 66db5eaf6055dbcffe04534b | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+7.9.2024, 16:52:54 - ERROR - Failed to get stay | TypeError: Class constructor ObjectId cannot be invoked without 'new' | 66db3d6f12177c287fb20efc
+7.9.2024, 16:53:19 - DEBUG - auth.service - login with username: john_doe
+7.9.2024, 16:53:19 - ERROR - Failed to Login Error: Invalid username or password
+7.9.2024, 16:53:29 - DEBUG - auth.service - login with username: aaa
+7.9.2024, 16:53:30 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+7.9.2024, 16:53:37 - ERROR - while finding stay 66db5eaf6055dbcffe04534a | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+7.9.2024, 16:53:37 - ERROR - Failed to get stay | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+7.9.2024, 16:54:02 - ERROR - while finding stay 66db5eaf6055dbcffe04534a | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+7.9.2024, 16:54:02 - ERROR - Failed to get stay | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+7.9.2024, 16:54:06 - INFO - Req was made | /
+7.9.2024, 16:54:06 - DEBUG - Getting Stays
+7.9.2024, 16:54:14 - ERROR - while finding stay 66db5eaf6055dbcffe04534a | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+7.9.2024, 16:54:14 - ERROR - Failed to get stay | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+7.9.2024, 16:55:39 - INFO - Server is running on port: 3030
+7.9.2024, 16:55:40 - INFO - New connected socket [id: omCdTEwmPvjLIHTlAAAB]
+7.9.2024, 16:55:55 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 16:55:55 - INFO - New connected socket [id: WTYwLnudCwrhlfwEAAAD]
+7.9.2024, 16:55:56 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 16:55:57 - INFO - New connected socket [id: l7i-uPVEB3dYWGGiAAAF]
+7.9.2024, 17:00:39 - INFO - Server is running on port: 3030
+7.9.2024, 17:00:40 - INFO - New connected socket [id: MY2bgtYTP_iEftqiAAAB]
+7.9.2024, 17:00:46 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 17:00:48 - INFO - New connected socket [id: 4yRAwFLT56raCji6AAAD]
+7.9.2024, 17:01:33 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:01:33 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:01:33 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:01:33 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:01:39 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:01:39 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:04:14 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 17:04:15 - INFO - New connected socket [id: 3-PE6L_JqNJcpOTEAAAF]
+7.9.2024, 17:04:24 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 17:04:25 - INFO - New connected socket [id: uZgEW9R0PBi1ymTFAAAH]
+7.9.2024, 17:04:25 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:04:25 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:04:25 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:04:25 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:08:55 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 17:08:57 - INFO - New connected socket [id: -lNWLJ16umxdQg9QAAAJ]
+7.9.2024, 17:12:11 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 17:12:12 - INFO - New connected socket [id: HkBKU6v4YS06kCb5AAAL]
+7.9.2024, 17:12:12 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:12:12 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:12:12 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:12:12 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:16:20 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 17:16:23 - INFO - New connected socket [id: AHCUj_1jsTU6SwvZAAAN]
+7.9.2024, 17:16:23 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:16:23 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:16:24 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:16:24 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:18 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:18 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:18 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:18 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:23 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:23 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:23 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:23 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:27 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:27 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:27 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:27 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:31 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:31 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:31 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:31 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:35 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:35 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:35 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:18:35 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:23:45 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:23:45 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:23:45 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:23:45 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:24:04 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:24:04 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:24:04 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:24:04 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:32:53 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 17:32:55 - INFO - New connected socket [id: a60HKZfHiU3T5vCGAAAP]
+7.9.2024, 17:33:30 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 17:33:31 - INFO - New connected socket [id: Vrt7Z4Si_o2ogQx2AAAR]
+7.9.2024, 17:37:08 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:37:08 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:37:10 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:37:10 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:37:18 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:37:18 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:37:53 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:37:53 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:37:54 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:37:54 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:38:15 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 17:38:16 - INFO - New connected socket [id: 61uM65NBZ5ZbQpM9AAAT]
+7.9.2024, 17:38:17 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:38:17 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:38:17 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:38:17 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:38:18 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:38:18 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:38:25 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:38:25 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:50:31 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:50:31 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:50:36 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:50:36 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:50:39 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:50:39 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:50:42 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:50:42 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:50:52 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:50:52 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:50:55 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:50:55 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 17:51:13 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 17:51:13 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 18:16:17 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 18:16:23 - INFO - New connected socket [id: PAPIUd_GzWTH9FUFAAAV]
+7.9.2024, 18:16:38 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 18:16:39 - INFO - New connected socket [id: EC0gwkGK0p4ngtPuAAAX]
+7.9.2024, 18:16:42 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 18:16:42 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 18:16:47 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 18:16:47 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 18:16:48 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 18:16:48 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 18:16:57 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 18:16:57 - INFO - New connected socket [id: R9KKElsXqgv_OtAeAAAZ]
+7.9.2024, 18:38:24 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 18:38:24 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 18:43:36 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 18:43:36 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 18:43:39 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 18:43:39 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 18:43:41 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 18:43:41 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 18:54:47 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 18:54:50 - INFO - New connected socket [id: qkUiaKrlzi7Z9pmEAAAb]
+7.9.2024, 18:59:25 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 18:59:27 - INFO - New connected socket [id: OMMCkH4IGxLNG9LvAAAd]
+7.9.2024, 19:09:07 - DEBUG - auth.service - login with username: aaa | 66db3d6f12177c287fb20efc
+7.9.2024, 19:09:08 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null} | 66db3d6f12177c287fb20efc
+7.9.2024, 19:09:08 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: OMMCkH4IGxLNG9LvAAAd]
+7.9.2024, 19:09:08 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 19:09:08 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 19:18:12 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 19:18:14 - INFO - New connected socket [id: oIVxrTUyRHMCRABmAAAf]
+7.9.2024, 19:18:14 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: oIVxrTUyRHMCRABmAAAf]
+7.9.2024, 19:22:42 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 19:22:44 - INFO - New connected socket [id: u67xlQZM-Q5T1sM4AAAh]
+7.9.2024, 19:22:44 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: u67xlQZM-Q5T1sM4AAAh]
+7.9.2024, 19:23:22 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 19:23:22 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 19:26:00 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 19:26:01 - INFO - New connected socket [id: -3nhbgp1wKO4i_GvAAAj]
+7.9.2024, 19:26:01 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: -3nhbgp1wKO4i_GvAAAj]
+7.9.2024, 19:26:40 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 19:26:41 - INFO - New connected socket [id: MohDcXRzN0xG8rqjAAAl]
+7.9.2024, 19:26:41 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: MohDcXRzN0xG8rqjAAAl]
+7.9.2024, 19:27:22 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 19:27:22 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 19:27:30 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 19:27:30 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 19:28:04 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 19:28:04 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 19:32:57 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 19:32:57 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 19:33:18 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 19:33:18 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 19:33:21 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 19:33:21 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 19:33:54 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 19:33:54 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 19:33:58 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 19:33:58 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 19:34:04 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 19:34:06 - INFO - New connected socket [id: n7gws0dCY3OLOxYQAAAn]
+7.9.2024, 19:34:06 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: n7gws0dCY3OLOxYQAAAn]
+7.9.2024, 19:35:44 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+7.9.2024, 19:35:44 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+7.9.2024, 19:41:33 - INFO - Server is running on port: 3030
+7.9.2024, 19:41:34 - INFO - New connected socket [id: PVj590gIJiFLrpBJAAAB]
+7.9.2024, 19:41:57 - INFO - Server is running on port: 3030
+7.9.2024, 19:41:58 - INFO - New connected socket [id: ny8EDz10AIN5KZGrAAAB]
+7.9.2024, 19:43:28 - INFO - Server is running on port: 3030
+7.9.2024, 19:43:29 - INFO - New connected socket [id: R4wPkXIYAYlyLp5oAAAB]

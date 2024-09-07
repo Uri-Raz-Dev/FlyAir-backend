@@ -33,7 +33,7 @@ async function query(filterBy) {
 async function getById(stayId) {
     try {
         const collection = await dbService.getCollection('stay')
-        const stay = collection.findOne({ _id: ObjectId(stayId) })
+        const stay = collection.findOne({ _id: new ObjectId(stayId) })
         return stay
     } catch (err) {
         logger.error(`while finding stay ${stayId}`, err)
@@ -44,7 +44,7 @@ async function getById(stayId) {
 async function remove(stayId) {
     try {
         const collection = await dbService.getCollection('stay')
-        await collection.deleteOne({ _id: ObjectId(stayId) })
+        await collection.deleteOne({ _id: new ObjectId(stayId) })
         return stayId
     } catch (err) {
         logger.error(`cannot remove stay ${stayId}`, err)
@@ -71,7 +71,7 @@ async function update(stay) {
 
         console.log(stayToSave)
         const collection = await dbService.getCollection('stay')
-        await collection.updateOne({ _id: ObjectId(stay._id) }, { $set: stayToSave })
+        await collection.updateOne({ _id: new ObjectId(stay._id) }, { $set: stayToSave })
         return stay
     } catch (err) {
         logger.error(`cannot update stay ${stay._id}`, err)
@@ -83,7 +83,7 @@ async function addStayReview(stayId, review) {
     try {
         review.id = utilService.makeId()
         const collection = await dbService.getCollection('stay')
-        await collection.updateOne({ _id: ObjectId(stayId) }, { $push: { reviews: review } })
+        await collection.updateOne({ _id: new ObjectId(stayId) }, { $push: { reviews: review } })
         return review
     } catch (err) {
         logger.error(`cannot add stay review ${stayId}`, err)
@@ -94,7 +94,7 @@ async function addStayReview(stayId, review) {
 async function removeStayReview(stayId, reviewId) {
     try {
         const collection = await dbService.getCollection('stay')
-        await collection.updateOne({ _id: ObjectId(stayId) }, { $pull: { reviews: { id: reviewId } } })
+        await collection.updateOne({ _id: new ObjectId(stayId) }, { $pull: { reviews: { id: reviewId } } })
         return reviewId
     } catch (err) {
         logger.error(`cannot remove stay review ${stayId}`, err)
@@ -107,7 +107,7 @@ async function addStayLike(stayId) {
     const { loggedinUser } = store
     try {
         const collection = await dbService.getCollection('stay')
-        await collection.updateOne({ _id: ObjectId(stayId) }, { $push: { likedByUsers: { _id: ObjectId(loggedinUser._id), fullname: loggedinUser.fullname, imgUrl: loggedinUser.imgUrl } } })
+        await collection.updateOne({ _id: new ObjectId(stayId) }, { $push: { likedByUsers: { _id: new ObjectId(loggedinUser._id), fullname: loggedinUser.fullname, imgUrl: loggedinUser.imgUrl } } })
         return loggedinUser
     } catch (err) {
         logger.error(`cannot add like ${stayId}`, err)
@@ -120,7 +120,7 @@ async function removeStayLike(stayId) {
     const { loggedinUser } = store
     try {
         const collection = await dbService.getCollection('stay')
-        await collection.updateOne({ _id: ObjectId(stayId) }, { $pull: { likedByUsers: { _id: ObjectId(loggedinUser._id) } } })
+        await collection.updateOne({ _id: new ObjectId(stayId) }, { $pull: { likedByUsers: { _id: new ObjectId(loggedinUser._id) } } })
         return loggedinUser
     } catch (err) {
         logger.error(`cannot remove like ${stayId}`, err)
@@ -136,7 +136,7 @@ function _buildCriteria(filterBy) {
     }
     if (filterBy.likedByUserId) {
         console.log('filterBy.likedByUserId', filterBy.likedByUserId)
-        criteria.likedByUsers = { $elemMatch: { _id: ObjectId(filterBy.likedByUserId) } }
+        criteria.likedByUsers = { $elemMatch: { _id: new ObjectId(filterBy.likedByUserId) } }
     }
     return criteria
 }
