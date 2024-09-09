@@ -130,13 +130,12 @@ async function removeStayLike(stayId) {
 
 function _buildCriteria(filterBy) {
     const criteria = {}
-    if (filterBy.txt) {
-        console.log('filterBy.location', filterBy.location)
-        criteria.name = { $regex: filterBy.location, $options: 'i' }
+    if (filterBy.region) {
+        criteria.region = { $regex: filterBy.region, $options: 'i' }
     }
-    if (filterBy.likedByUserId) {
-        console.log('filterBy.likedByUserId', filterBy.likedByUserId)
-        criteria.likedByUsers = { $elemMatch: { _id: new ObjectId(filterBy.likedByUserId) } }
+    if (filterBy.startDate && filterBy.endDate) {
+        criteria.startDate = { $gte: filterBy.startDate }
+        criteria.endDate = { $lte: filterBy.endDate }
     }
     return criteria
 }
