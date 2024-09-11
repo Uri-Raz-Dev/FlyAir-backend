@@ -4355,3 +4355,77 @@
 11.9.2024, 18:21:43 - INFO - Server is running on port: 3030
 11.9.2024, 18:21:43 - INFO - New connected socket [id: dEf4_wg9f6RxfTPIAAAB]
 11.9.2024, 18:21:45 - INFO - New connected socket [id: SgCRfr7Qky4zr7c9AAAD]
+11.9.2024, 18:28:45 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:28:51 - INFO - New connected socket [id: Fwe_NVBAE4FEEyrzAAAD]
+11.9.2024, 18:28:51 - INFO - Req was made | /
+11.9.2024, 18:28:51 - DEBUG - Getting Stays
+11.9.2024, 18:28:52 - INFO - Req was made | /
+11.9.2024, 18:28:52 - DEBUG - Getting Stays
+11.9.2024, 18:52:56 - INFO - Req was made | /
+11.9.2024, 18:52:56 - DEBUG - Getting Stays
+11.9.2024, 19:48:21 - DEBUG - Getting Stays
+11.9.2024, 19:48:21 - INFO - Req was made | /
+11.9.2024, 19:48:21 - INFO - Req was made | /
+11.9.2024, 19:48:21 - DEBUG - Getting Stays
+11.9.2024, 19:48:22 - INFO - Req was made | /
+11.9.2024, 19:48:22 - DEBUG - Getting Stays
+11.9.2024, 19:48:23 - INFO - Req was made | /
+11.9.2024, 19:48:23 - DEBUG - Getting Stays
+11.9.2024, 19:48:23 - INFO - Req was made | /
+11.9.2024, 19:48:23 - DEBUG - Getting Stays
+11.9.2024, 19:48:24 - INFO - Req was made | /
+11.9.2024, 19:48:24 - DEBUG - Getting Stays
+11.9.2024, 19:48:25 - INFO - Req was made | /
+11.9.2024, 19:48:25 - DEBUG - Getting Stays
+11.9.2024, 19:48:33 - INFO - Req was made | /
+11.9.2024, 19:48:33 - DEBUG - Getting Stays
+11.9.2024, 20:11:32 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 20:11:36 - INFO - New connected socket [id: GF4Xa4YyiGnXYkmXAAAF]
+11.9.2024, 20:11:36 - INFO - Req was made | /
+11.9.2024, 20:11:36 - DEBUG - Getting Stays
+11.9.2024, 20:11:39 - INFO - Req was made | /
+11.9.2024, 20:11:39 - DEBUG - Getting Stays
+11.9.2024, 22:13:53 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 22:17:26 - INFO - New connected socket [id: x2oHsGMK3Ii67nYeAAAH]
+11.9.2024, 22:18:43 - DEBUG - Getting Stays
+11.9.2024, 22:18:43 - INFO - Req was made | /
+11.9.2024, 22:18:43 - INFO - Req was made | /
+11.9.2024, 22:18:43 - DEBUG - Getting Stays
+11.9.2024, 22:18:44 - INFO - Req was made | /
+11.9.2024, 22:18:44 - DEBUG - Getting Stays
+11.9.2024, 22:19:42 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 22:19:44 - INFO - New connected socket [id: Z979VwB8itXv-HJxAAAJ]
+11.9.2024, 22:19:54 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 22:19:55 - INFO - New connected socket [id: b-3cKYBMm2avaQPWAAAL]
+11.9.2024, 22:20:12 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 22:20:12 - INFO - New connected socket [id: m58MDjf5rheA1F8TAAAN]
+11.9.2024, 22:20:24 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 22:20:25 - ERROR - Failed to Login Error: Invalid username or password
+11.9.2024, 22:20:25 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 22:20:26 - INFO - New connected socket [id: N_iTaqxf1038od8DAAAP]
+11.9.2024, 22:20:26 - INFO - Req was made | /
+11.9.2024, 22:20:26 - DEBUG - Getting Stays
+11.9.2024, 22:20:26 - INFO - Req was made | /
+11.9.2024, 22:20:26 - DEBUG - Getting Stays
+11.9.2024, 22:38:39 - INFO - Req was made | /
+11.9.2024, 22:38:39 - DEBUG - Getting Stays
+11.9.2024, 22:38:41 - INFO - Req was made | /
+11.9.2024, 22:38:41 - DEBUG - Getting Stays
+11.9.2024, 22:38:42 - INFO - Req was made | /
+11.9.2024, 22:38:42 - DEBUG - Getting Stays
+11.9.2024, 22:52:03 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 22:52:03 - ERROR - Failed to Login Error: Invalid username or password
+11.9.2024, 22:52:04 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 22:52:04 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 22:52:04 - ERROR - Failed to Login Error: Invalid username or password
+11.9.2024, 22:52:06 - INFO - New connected socket [id: xvRpdL--EqqE3gvEAAAR]
+11.9.2024, 22:52:06 - INFO - Req was made | /
+11.9.2024, 22:52:06 - DEBUG - Getting Stays
+11.9.2024, 22:52:06 - INFO - Req was made | /
+11.9.2024, 22:52:06 - DEBUG - Getting Stays
+11.9.2024, 23:13:10 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 23:13:11 - INFO - New connected socket [id: I07XoUF_JsflW81OAAAT]
+11.9.2024, 23:15:36 - INFO - Server is running on port: 3030
+11.9.2024, 23:15:36 - INFO - New connected socket [id: GpJYwobxrUNz-hLfAAAB]
+11.9.2024, 23:15:47 - INFO - Server is running on port: 3030
+11.9.2024, 23:15:48 - INFO - New connected socket [id: MHr5n3EdRKsYjwFgAAAB]

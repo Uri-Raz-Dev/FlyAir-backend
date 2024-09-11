@@ -9,6 +9,7 @@ export const stayRoutes = express.Router()
 stayRoutes.get('/', log, getStays)
 stayRoutes.get('/:id', getStayById)
 stayRoutes.post('/', requireAuth, addStayReview)
+stayRoutes.post('/', requireAuth, addStayReview)
 stayRoutes.put('/:id', requireAuth, updateStay)
 stayRoutes.delete('/:id', requireAuth, removeStay)
 
