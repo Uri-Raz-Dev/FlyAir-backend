@@ -3980,7 +3980,378 @@
 9.9.2024, 19:40:24 - INFO - New connected socket [id: RIdxqgIQi_x_LsIbAAAr]
 9.9.2024, 19:40:24 - DEBUG - Getting Stays
 9.9.2024, 19:40:24 - INFO - Req was made | /
+<<<<<<< HEAD
 11.9.2024, 18:19:02 - INFO - Socket disconnected [id: undefined]
 >>>>>>> c20bea570f6b5479b0c45e83893df6dc68b35b8b
 11.9.2024, 18:20:22 - INFO - Server is running on port: 3030
 11.9.2024, 18:20:27 - INFO - New connected socket [id: oOVTwXxd2mUFuPfFAAAB]
+=======
+9.9.2024, 19:42:46 - INFO - Server is running on port: 3030
+9.9.2024, 19:42:47 - INFO - New connected socket [id: D-wW--80YkovJ_f1AAAC]
+9.9.2024, 19:42:47 - INFO - New connected socket [id: chQcaN1_SxbKwt75AAAD]
+9.9.2024, 19:43:00 - INFO - Socket disconnected [id: undefined]
+9.9.2024, 19:43:01 - INFO - New connected socket [id: UmOODdI1cwrxeYkyAAAF]
+9.9.2024, 19:43:01 - INFO - Req was made | /
+9.9.2024, 19:43:01 - DEBUG - Getting Stays
+9.9.2024, 19:43:14 - INFO - New connected socket [id: taKy7eXrO-GHXG7rAAAH]
+9.9.2024, 19:43:14 - INFO - Req was made | /
+9.9.2024, 19:43:14 - DEBUG - Getting Stays
+9.9.2024, 19:43:14 - INFO - Req was made | /
+9.9.2024, 19:43:14 - DEBUG - Getting Stays
+9.9.2024, 19:43:17 - INFO - Socket disconnected [id: undefined]
+9.9.2024, 19:43:19 - INFO - Req was made | /
+9.9.2024, 19:43:19 - DEBUG - Getting Stays
+9.9.2024, 19:43:21 - DEBUG - Getting Stays
+9.9.2024, 19:43:21 - INFO - Req was made | /
+9.9.2024, 19:44:24 - INFO - Socket disconnected [id: undefined]
+9.9.2024, 19:44:25 - INFO - New connected socket [id: w4KnrhjgAi2OBC7TAAAJ]
+9.9.2024, 19:44:25 - DEBUG - Getting Stays
+9.9.2024, 19:44:25 - INFO - Req was made | /
+9.9.2024, 19:44:28 - INFO - Req was made | /
+9.9.2024, 19:44:28 - DEBUG - Getting Stays
+9.9.2024, 19:44:29 - INFO - Req was made | /
+9.9.2024, 19:44:29 - DEBUG - Getting Stays
+9.9.2024, 19:44:33 - INFO - Req was made | /
+9.9.2024, 19:44:33 - DEBUG - Getting Stays
+9.9.2024, 19:44:35 - INFO - Req was made | /
+9.9.2024, 19:44:35 - DEBUG - Getting Stays
+9.9.2024, 19:44:37 - INFO - Req was made | /
+9.9.2024, 19:44:37 - DEBUG - Getting Stays
+9.9.2024, 19:44:39 - INFO - Req was made | /
+9.9.2024, 19:44:39 - DEBUG - Getting Stays
+9.9.2024, 19:44:44 - INFO - Req was made | /
+9.9.2024, 19:44:44 - DEBUG - Getting Stays
+9.9.2024, 19:44:48 - DEBUG - Getting Stays
+9.9.2024, 19:44:48 - INFO - Req was made | /
+9.9.2024, 19:44:50 - INFO - Req was made | /
+9.9.2024, 19:44:50 - DEBUG - Getting Stays
+9.9.2024, 19:44:56 - INFO - Req was made | /
+9.9.2024, 19:44:56 - DEBUG - Getting Stays
+9.9.2024, 19:44:58 - INFO - Req was made | /
+9.9.2024, 19:44:58 - DEBUG - Getting Stays
+9.9.2024, 19:45:01 - INFO - Req was made | /
+9.9.2024, 19:45:01 - DEBUG - Getting Stays
+9.9.2024, 19:45:41 - DEBUG - Getting Stays
+9.9.2024, 19:45:41 - INFO - Req was made | /
+9.9.2024, 19:45:42 - DEBUG - Getting Stays
+9.9.2024, 19:45:42 - INFO - Req was made | /
+9.9.2024, 19:45:45 - INFO - Req was made | /
+9.9.2024, 19:45:45 - DEBUG - Getting Stays
+9.9.2024, 19:45:47 - INFO - Req was made | /
+9.9.2024, 19:45:47 - DEBUG - Getting Stays
+9.9.2024, 19:45:51 - DEBUG - Getting Stays
+9.9.2024, 19:45:51 - INFO - Req was made | /
+9.9.2024, 19:45:52 - INFO - Req was made | /
+9.9.2024, 19:45:52 - DEBUG - Getting Stays
+9.9.2024, 19:45:54 - INFO - Req was made | /
+9.9.2024, 19:45:54 - DEBUG - Getting Stays
+9.9.2024, 19:45:56 - INFO - Req was made | /
+9.9.2024, 19:45:56 - DEBUG - Getting Stays
+9.9.2024, 19:45:57 - INFO - Req was made | /
+9.9.2024, 19:45:57 - DEBUG - Getting Stays
+9.9.2024, 19:45:58 - INFO - Req was made | /
+9.9.2024, 19:45:58 - DEBUG - Getting Stays
+9.9.2024, 19:46:00 - INFO - Req was made | /
+9.9.2024, 19:46:00 - DEBUG - Getting Stays
+9.9.2024, 19:46:02 - INFO - Req was made | /
+9.9.2024, 19:46:02 - DEBUG - Getting Stays
+9.9.2024, 19:46:12 - INFO - Req was made | /
+9.9.2024, 19:46:12 - DEBUG - Getting Stays
+9.9.2024, 19:46:16 - INFO - Req was made | /
+9.9.2024, 19:46:16 - DEBUG - Getting Stays
+9.9.2024, 19:46:21 - INFO - Req was made | /
+9.9.2024, 19:46:21 - DEBUG - Getting Stays
+9.9.2024, 19:46:24 - INFO - Req was made | /
+9.9.2024, 19:46:24 - DEBUG - Getting Stays
+9.9.2024, 19:46:27 - INFO - Req was made | /
+9.9.2024, 19:46:27 - DEBUG - Getting Stays
+9.9.2024, 19:46:42 - INFO - Req was made | /
+9.9.2024, 19:46:42 - DEBUG - Getting Stays
+9.9.2024, 19:49:56 - INFO - Socket disconnected [id: undefined]
+9.9.2024, 19:53:35 - INFO - Socket disconnected [id: undefined]
+9.9.2024, 19:53:36 - INFO - New connected socket [id: 1y9ky_iyCdDQKqVJAAAL]
+9.9.2024, 19:53:36 - INFO - Req was made | /
+9.9.2024, 19:53:36 - DEBUG - Getting Stays
+9.9.2024, 19:58:21 - INFO - Server is running on port: 3030
+9.9.2024, 19:58:22 - INFO - New connected socket [id: 1gwpB__TZskRD1zbAAAB]
+9.9.2024, 20:04:37 - INFO - Req was made | /
+9.9.2024, 20:04:37 - DEBUG - Getting Stays
+9.9.2024, 20:04:37 - ERROR - cannot find stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:04:37 - ERROR - Failed to get stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:04:46 - INFO - Socket disconnected [id: undefined]
+9.9.2024, 20:05:13 - INFO - New connected socket [id: ZjaCiNPDT0RRqJjbAAAD]
+9.9.2024, 20:05:13 - INFO - Req was made | /
+9.9.2024, 20:05:13 - DEBUG - Getting Stays
+9.9.2024, 20:05:13 - ERROR - cannot find stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:05:13 - ERROR - Failed to get stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:05:13 - INFO - Req was made | /
+9.9.2024, 20:05:13 - DEBUG - Getting Stays
+9.9.2024, 20:05:13 - ERROR - Failed to get stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:05:13 - ERROR - cannot find stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:05:17 - INFO - Req was made | /
+9.9.2024, 20:05:17 - DEBUG - Getting Stays
+9.9.2024, 20:05:17 - ERROR - cannot find stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:05:17 - ERROR - Failed to get stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:05:18 - INFO - Req was made | /
+9.9.2024, 20:05:18 - ERROR - cannot find stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:05:18 - ERROR - Failed to get stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:05:18 - DEBUG - Getting Stays
+9.9.2024, 20:05:20 - INFO - Req was made | /
+9.9.2024, 20:05:20 - ERROR - cannot find stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:05:20 - ERROR - Failed to get stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:05:20 - DEBUG - Getting Stays
+9.9.2024, 20:23:37 - INFO - Req was made | /
+9.9.2024, 20:23:37 - DEBUG - Getting Stays
+9.9.2024, 20:23:37 - ERROR - cannot find stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:23:37 - ERROR - Failed to get stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:30:32 - INFO - Socket disconnected [id: undefined]
+9.9.2024, 20:30:33 - INFO - New connected socket [id: gujoG2FGbj1clKScAAAF]
+9.9.2024, 20:30:33 - INFO - Req was made | /
+9.9.2024, 20:30:33 - ERROR - cannot find stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:30:33 - DEBUG - Getting Stays
+9.9.2024, 20:30:33 - ERROR - Failed to get stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:30:40 - INFO - Socket disconnected [id: undefined]
+9.9.2024, 20:30:40 - INFO - New connected socket [id: TmNHbGpsjeCJWqvqAAAH]
+9.9.2024, 20:30:40 - DEBUG - Getting Stays
+9.9.2024, 20:30:40 - INFO - Req was made | /
+9.9.2024, 20:30:40 - ERROR - cannot find stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:30:40 - ERROR - Failed to get stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:30:44 - INFO - Socket disconnected [id: undefined]
+9.9.2024, 20:31:02 - INFO - New connected socket [id: Yz6lFkw4hohyRSf6AAAJ]
+9.9.2024, 20:31:02 - INFO - Req was made | /
+9.9.2024, 20:31:02 - ERROR - cannot find stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:31:02 - DEBUG - Getting Stays
+9.9.2024, 20:31:02 - ERROR - Failed to get stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:31:02 - INFO - Req was made | /
+9.9.2024, 20:31:02 - ERROR - cannot find stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:31:02 - ERROR - Failed to get stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:31:02 - DEBUG - Getting Stays
+9.9.2024, 20:31:06 - INFO - Socket disconnected [id: undefined]
+9.9.2024, 20:31:06 - INFO - New connected socket [id: xhmbfG6DSkiLmk95AAAL]
+9.9.2024, 20:31:06 - DEBUG - Getting Stays
+9.9.2024, 20:31:06 - INFO - Req was made | /
+9.9.2024, 20:31:06 - ERROR - cannot find stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:31:06 - ERROR - Failed to get stays | TypeError: Cannot set properties of undefined (setting 'adults')
+9.9.2024, 20:31:41 - INFO - Server is running on port: 3030
+9.9.2024, 20:31:42 - INFO - New connected socket [id: zviWBM0UAUL9N5KuAAAB]
+9.9.2024, 20:32:08 - INFO - Socket disconnected [id: undefined]
+9.9.2024, 20:32:08 - INFO - New connected socket [id: o3I5MPNLZqmLChOcAAAD]
+9.9.2024, 20:32:08 - INFO - Req was made | /
+9.9.2024, 20:32:08 - DEBUG - Getting Stays
+9.9.2024, 20:32:16 - INFO - Req was made | /
+9.9.2024, 20:32:16 - DEBUG - Getting Stays
+9.9.2024, 20:37:50 - INFO - Req was made | /
+9.9.2024, 20:37:50 - DEBUG - Getting Stays
+9.9.2024, 20:37:53 - INFO - Req was made | /
+9.9.2024, 20:37:53 - DEBUG - Getting Stays
+9.9.2024, 20:45:35 - INFO - Req was made | /
+9.9.2024, 20:45:35 - DEBUG - Getting Stays
+9.9.2024, 20:45:58 - INFO - Req was made | /
+9.9.2024, 20:45:58 - DEBUG - Getting Stays
+9.9.2024, 20:47:53 - INFO - Req was made | /
+9.9.2024, 20:47:53 - DEBUG - Getting Stays
+9.9.2024, 20:48:05 - INFO - Req was made | /
+9.9.2024, 20:48:05 - DEBUG - Getting Stays
+9.9.2024, 20:49:07 - INFO - Req was made | /
+9.9.2024, 20:49:07 - DEBUG - Getting Stays
+9.9.2024, 21:07:53 - INFO - Socket disconnected [id: undefined]
+9.9.2024, 21:07:55 - INFO - New connected socket [id: 1HEswqCPGKm9N9CnAAAF]
+9.9.2024, 21:07:55 - INFO - Socket disconnected [id: undefined]
+9.9.2024, 21:07:57 - INFO - New connected socket [id: M3JtKE91dFAk9haqAAAH]
+9.9.2024, 21:09:00 - INFO - Socket disconnected [id: undefined]
+9.9.2024, 21:09:02 - INFO - New connected socket [id: -_5GH6gDh3jWdEcmAAAJ]
+9.9.2024, 21:10:03 - INFO - Socket disconnected [id: undefined]
+10.9.2024, 18:12:34 - INFO - New connected socket [id: g7BpVFP8zntH5vosAAAL]
+10.9.2024, 18:48:39 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 8:14:38 - INFO - New connected socket [id: C0QBLscYQgDCHhRxAAAN]
+11.9.2024, 8:14:41 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 14:44:45 - INFO - New connected socket [id: I1GepDf9Q7_U52gfAAAP]
+11.9.2024, 14:44:54 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:10:32 - INFO - New connected socket [id: w68hdPHlSmO8uxSuAAAR]
+11.9.2024, 15:10:43 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:10:44 - INFO - New connected socket [id: phDRGSAJaKHvxEacAAAT]
+11.9.2024, 15:10:44 - INFO - Req was made | /
+11.9.2024, 15:10:44 - DEBUG - Getting Stays
+11.9.2024, 15:11:14 - ERROR - cannot find stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net
+11.9.2024, 15:11:14 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net
+11.9.2024, 15:13:10 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:13:10 - INFO - New connected socket [id: Ts77iNNY_yn3XjBeAAAV]
+11.9.2024, 15:13:10 - DEBUG - Getting Stays
+11.9.2024, 15:13:10 - INFO - Req was made | /
+11.9.2024, 15:13:40 - ERROR - cannot find stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net
+11.9.2024, 15:13:40 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net
+11.9.2024, 15:13:44 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:13:44 - INFO - New connected socket [id: HCsjS85KDGmprLogAAAX]
+11.9.2024, 15:13:44 - DEBUG - Getting Stays
+11.9.2024, 15:13:44 - INFO - Req was made | /
+11.9.2024, 15:14:14 - ERROR - cannot find stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net
+11.9.2024, 15:14:14 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net
+11.9.2024, 15:19:28 - INFO - New connected socket [id: Lc0-9CSPWwJT7UWKAAAZ]
+11.9.2024, 15:19:29 - INFO - Req was made | /
+11.9.2024, 15:19:29 - DEBUG - Getting Stays
+11.9.2024, 15:19:39 - INFO - Req was made | /
+11.9.2024, 15:19:39 - DEBUG - Getting Stays
+11.9.2024, 15:19:57 - INFO - Req was made | /
+11.9.2024, 15:19:57 - DEBUG - Getting Stays
+11.9.2024, 15:20:05 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:20:05 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 17:08:31 - INFO - New connected socket [id: o6w0AB5ur8aZdf7LAAAc]
+11.9.2024, 17:08:31 - INFO - New connected socket [id: 9RcRCNt8uIEc8THcAAAd]
+11.9.2024, 17:08:34 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 17:08:34 - INFO - New connected socket [id: OFG1KI2m1FRIbVkWAAAf]
+11.9.2024, 17:08:34 - INFO - Req was made | /
+11.9.2024, 17:08:34 - DEBUG - Getting Stays
+11.9.2024, 17:08:41 - INFO - Req was made | /
+11.9.2024, 17:08:41 - DEBUG - Getting Stays
+11.9.2024, 17:41:50 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 17:41:50 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:08:04 - INFO - New connected socket [id: uFqpzI7LhPAlFIh-AAAi]
+11.9.2024, 18:08:04 - INFO - New connected socket [id: c14NB8bLIuXUPPYbAAAj]
+11.9.2024, 18:15:16 - INFO - New connected socket [id: k2BI-L2vBkoa1E-fAAAl]
+11.9.2024, 18:15:17 - INFO - Req was made | /
+11.9.2024, 18:15:17 - DEBUG - Getting Stays
+11.9.2024, 18:15:18 - INFO - Req was made | /
+11.9.2024, 18:15:18 - DEBUG - Getting Stays
+11.9.2024, 18:15:22 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:15:51 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:15:57 - INFO - New connected socket [id: gQuS5vUpP3wG5TiCAAAn]
+11.9.2024, 18:15:57 - INFO - Req was made | /
+11.9.2024, 18:15:57 - DEBUG - Getting Stays
+11.9.2024, 18:15:57 - INFO - Req was made | /
+11.9.2024, 18:15:57 - DEBUG - Getting Stays
+11.9.2024, 18:15:59 - INFO - Req was made | /
+11.9.2024, 18:15:59 - DEBUG - Getting Stays
+11.9.2024, 18:16:00 - INFO - Req was made | /
+11.9.2024, 18:16:00 - DEBUG - Getting Stays
+11.9.2024, 18:16:21 - INFO - Req was made | /
+11.9.2024, 18:16:21 - DEBUG - Getting Stays
+11.9.2024, 18:16:22 - INFO - Req was made | /
+11.9.2024, 18:16:22 - DEBUG - Getting Stays
+11.9.2024, 18:18:06 - INFO - New connected socket [id: OGwENeMb1oRChhaBAAAp]
+11.9.2024, 18:18:06 - INFO - Req was made | /
+11.9.2024, 18:18:06 - DEBUG - Getting Stays
+11.9.2024, 18:18:07 - INFO - Req was made | /
+11.9.2024, 18:18:07 - DEBUG - Getting Stays
+11.9.2024, 18:18:16 - INFO - Req was made | /
+11.9.2024, 18:18:16 - DEBUG - Getting Stays
+11.9.2024, 18:18:16 - INFO - Req was made | /
+11.9.2024, 18:18:16 - DEBUG - Getting Stays
+11.9.2024, 18:18:17 - INFO - Req was made | /
+11.9.2024, 18:18:17 - DEBUG - Getting Stays
+11.9.2024, 18:18:17 - INFO - Req was made | /
+11.9.2024, 18:18:17 - DEBUG - Getting Stays
+11.9.2024, 18:18:18 - DEBUG - Getting Stays
+11.9.2024, 18:18:18 - INFO - Req was made | /
+11.9.2024, 18:18:18 - INFO - Req was made | /
+11.9.2024, 18:18:18 - DEBUG - Getting Stays
+11.9.2024, 18:18:18 - INFO - Req was made | /
+11.9.2024, 18:18:18 - DEBUG - Getting Stays
+11.9.2024, 18:18:18 - INFO - Req was made | /
+11.9.2024, 18:18:18 - DEBUG - Getting Stays
+11.9.2024, 18:18:19 - INFO - Req was made | /
+11.9.2024, 18:18:19 - DEBUG - Getting Stays
+11.9.2024, 18:18:19 - INFO - Req was made | /
+11.9.2024, 18:18:19 - DEBUG - Getting Stays
+11.9.2024, 18:18:19 - INFO - Req was made | /
+11.9.2024, 18:18:19 - DEBUG - Getting Stays
+11.9.2024, 18:18:19 - INFO - Req was made | /
+11.9.2024, 18:18:19 - DEBUG - Getting Stays
+11.9.2024, 18:18:19 - INFO - Req was made | /
+11.9.2024, 18:18:19 - DEBUG - Getting Stays
+11.9.2024, 18:18:20 - DEBUG - Getting Stays
+11.9.2024, 18:18:20 - INFO - Req was made | /
+11.9.2024, 18:18:20 - INFO - Req was made | /
+11.9.2024, 18:18:20 - DEBUG - Getting Stays
+11.9.2024, 18:18:20 - INFO - Req was made | /
+11.9.2024, 18:18:20 - DEBUG - Getting Stays
+11.9.2024, 18:18:21 - INFO - Req was made | /
+11.9.2024, 18:18:21 - DEBUG - Getting Stays
+11.9.2024, 18:18:21 - INFO - Req was made | /
+11.9.2024, 18:18:21 - DEBUG - Getting Stays
+11.9.2024, 18:18:22 - INFO - Req was made | /
+11.9.2024, 18:18:22 - DEBUG - Getting Stays
+11.9.2024, 18:18:22 - INFO - Req was made | /
+11.9.2024, 18:18:22 - DEBUG - Getting Stays
+11.9.2024, 18:18:23 - INFO - Req was made | /
+11.9.2024, 18:18:23 - DEBUG - Getting Stays
+11.9.2024, 18:18:23 - DEBUG - Getting Stays
+11.9.2024, 18:18:23 - INFO - Req was made | /
+11.9.2024, 18:18:24 - INFO - Req was made | /
+11.9.2024, 18:18:24 - DEBUG - Getting Stays
+11.9.2024, 18:18:24 - INFO - Req was made | /
+11.9.2024, 18:18:24 - DEBUG - Getting Stays
+11.9.2024, 18:19:10 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:19:12 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:19:29 - INFO - New connected socket [id: gYIX7ouMRr5oFc-eAAAr]
+11.9.2024, 18:19:30 - INFO - Req was made | /
+11.9.2024, 18:19:30 - DEBUG - Getting Stays
+11.9.2024, 18:19:30 - INFO - Req was made | /
+11.9.2024, 18:19:30 - DEBUG - Getting Stays
+11.9.2024, 18:19:33 - INFO - Req was made | /
+11.9.2024, 18:19:33 - DEBUG - Getting Stays
+11.9.2024, 18:19:33 - INFO - Req was made | /
+11.9.2024, 18:19:33 - DEBUG - Getting Stays
+11.9.2024, 18:19:34 - INFO - Req was made | /
+11.9.2024, 18:19:34 - DEBUG - Getting Stays
+11.9.2024, 18:19:34 - INFO - Req was made | /
+11.9.2024, 18:19:34 - DEBUG - Getting Stays
+11.9.2024, 18:19:35 - INFO - Req was made | /
+11.9.2024, 18:19:35 - DEBUG - Getting Stays
+11.9.2024, 18:19:35 - INFO - Req was made | /
+11.9.2024, 18:19:35 - DEBUG - Getting Stays
+11.9.2024, 18:19:36 - DEBUG - Getting Stays
+11.9.2024, 18:19:36 - INFO - Req was made | /
+11.9.2024, 18:19:36 - INFO - Req was made | /
+11.9.2024, 18:19:36 - DEBUG - Getting Stays
+11.9.2024, 18:19:37 - INFO - Req was made | /
+11.9.2024, 18:19:37 - DEBUG - Getting Stays
+11.9.2024, 18:19:37 - INFO - Req was made | /
+11.9.2024, 18:19:37 - DEBUG - Getting Stays
+11.9.2024, 18:19:38 - INFO - Req was made | /
+11.9.2024, 18:19:38 - DEBUG - Getting Stays
+11.9.2024, 18:19:39 - INFO - Req was made | /
+11.9.2024, 18:19:39 - DEBUG - Getting Stays
+11.9.2024, 18:19:42 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:19:42 - INFO - New connected socket [id: XK5gl6ZKyt3ogklzAAAt]
+11.9.2024, 18:19:43 - INFO - Req was made | /
+11.9.2024, 18:19:43 - DEBUG - Getting Stays
+11.9.2024, 18:19:43 - INFO - Req was made | /
+11.9.2024, 18:19:43 - DEBUG - Getting Stays
+11.9.2024, 18:20:04 - INFO - Server is running on port: 3030
+11.9.2024, 18:20:06 - INFO - New connected socket [id: QCQNdKhYNY4PJhEAAAAB]
+11.9.2024, 18:20:07 - INFO - New connected socket [id: tmKcrC0SyYAspfEEAAAD]
+11.9.2024, 18:20:08 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:20:09 - INFO - New connected socket [id: cgo7xYrb0G3DdbWgAAAF]
+11.9.2024, 18:20:09 - INFO - Req was made | /
+11.9.2024, 18:20:09 - DEBUG - Getting Stays
+11.9.2024, 18:20:11 - INFO - Req was made | /
+11.9.2024, 18:20:11 - DEBUG - Getting Stays
+11.9.2024, 18:20:13 - INFO - Req was made | /
+11.9.2024, 18:20:13 - DEBUG - Getting Stays
+11.9.2024, 18:20:13 - INFO - Req was made | /
+11.9.2024, 18:20:13 - DEBUG - Getting Stays
+11.9.2024, 18:20:14 - INFO - Req was made | /
+11.9.2024, 18:20:14 - DEBUG - Getting Stays
+11.9.2024, 18:20:14 - DEBUG - Getting Stays
+11.9.2024, 18:20:14 - INFO - Req was made | /
+11.9.2024, 18:20:15 - INFO - Req was made | /
+11.9.2024, 18:20:15 - DEBUG - Getting Stays
+11.9.2024, 18:20:16 - INFO - Req was made | /
+11.9.2024, 18:20:16 - DEBUG - Getting Stays
+11.9.2024, 18:20:16 - DEBUG - Getting Stays
+11.9.2024, 18:20:16 - INFO - Req was made | /
+11.9.2024, 18:20:16 - INFO - Req was made | /
+11.9.2024, 18:20:16 - DEBUG - Getting Stays
+11.9.2024, 18:20:18 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:20:19 - INFO - New connected socket [id: 0llgwOzGbiSbjo-rAAAH]
+11.9.2024, 18:20:19 - INFO - Req was made | /
+11.9.2024, 18:20:19 - DEBUG - Getting Stays
+11.9.2024, 18:20:19 - INFO - Req was made | /
+11.9.2024, 18:20:19 - DEBUG - Getting Stays
+11.9.2024, 18:20:22 - INFO - Req was made | /
+11.9.2024, 18:20:22 - DEBUG - Getting Stays
+11.9.2024, 18:20:23 - INFO - Req was made | /
+11.9.2024, 18:20:23 - DEBUG - Getting Stays
+>>>>>>> d59f5451fd19d8e429080475f80337a7af8ac479
+11.9.2024, 18:21:45 - INFO - Server is running on port: 3030
+11.9.2024, 18:21:46 - INFO - New connected socket [id: BrBeE9BISKkoiEBxAAAB]
