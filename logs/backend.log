@@ -1643,3 +1643,16 @@
 9.9.2024, 19:40:24 - DEBUG - Getting Stays
 9.9.2024, 19:40:24 - INFO - Req was made | /
 11.9.2024, 18:19:02 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:20:22 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:20:22 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:20:24 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:20:24 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:20:25 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:20:25 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:20:33 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:20:33 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:20:33 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:20:33 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:20:33 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:20:33 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:20:45 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66db3d6f12177c287fb20efc
