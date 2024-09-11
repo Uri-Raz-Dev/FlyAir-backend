@@ -133,6 +133,9 @@ function _buildCriteria(filterBy) {
     if (filterBy.region) {
         criteria.region = { $regex: filterBy.region, $options: 'i' }
     }
+    if (filterBy.labels && filterBy.labels.length > 0) {
+        criteria.labels = { $regex: filterBy.labels[0], $options: 'i' }
+    }
     if (filterBy.startDate && filterBy.endDate) {
         criteria.startDate = { $gte: filterBy.startDate }
         criteria.endDate = { $lte: filterBy.endDate }
