@@ -4400,3 +4400,7 @@
 11.9.2024, 18:24:14 - INFO - Req was made | /
 11.9.2024, 18:24:14 - DEBUG - Getting Stays
 11.9.2024, 18:24:39 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:24:54 - INFO - Server is running on port: 3030
+11.9.2024, 18:24:54 - INFO - New connected socket [id: 9q3-DixFujgimW_AAAAD]
+11.9.2024, 18:24:54 - INFO - New connected socket [id: b-WMWVelGSJbPsghAAAE]
+11.9.2024, 18:24:54 - INFO - New connected socket [id: pQPLTyw2cs_alDxBAAAF]
