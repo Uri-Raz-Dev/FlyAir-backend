@@ -137,6 +137,12 @@ function _buildCriteria(filterBy) {
         criteria.startDate = { $gte: filterBy.startDate }
         criteria.endDate = { $lte: filterBy.endDate }
     }
+    // if (filterBy.guests) {
+    //     criteria.guests.adults = { $eq: filterBy.guests.adults }
+    //     criteria.guests.children = { $eq: filterBy.guests.children }
+    //     criteria.guests.infants = { $eq: filterBy.guests.infants }
+    //     criteria.guests.pets = { $eq: filterBy.guests.pets }
+    // }
     return criteria
 }
 
