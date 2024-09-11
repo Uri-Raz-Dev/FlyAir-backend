@@ -472,3 +472,938 @@
 7.9.2024, 19:41:58 - INFO - New connected socket [id: ny8EDz10AIN5KZGrAAAB]
 7.9.2024, 19:43:28 - INFO - Server is running on port: 3030
 7.9.2024, 19:43:29 - INFO - New connected socket [id: R4wPkXIYAYlyLp5oAAAB]
+7.9.2024, 21:03:40 - INFO - Server is running on port: 3030
+7.9.2024, 21:07:06 - INFO - New connected socket [id: wcjoNWa6AwitFlOmAAAB]
+7.9.2024, 21:07:06 - DEBUG - Getting Stays
+7.9.2024, 21:07:06 - INFO - Req was made | /
+7.9.2024, 21:07:07 - INFO - Req was made | /
+7.9.2024, 21:07:07 - DEBUG - Getting Stays
+7.9.2024, 21:07:42 - DEBUG - auth.service - signup with username: omertheking, fullname: omertheking
+7.9.2024, 21:07:42 - DEBUG - auth.route - new account created: {"username":"omertheking","password":"$2b$10$LdMcD3zraNd8FTMemJD3IOC.MMewber2qfZQ.YHFfS2bb/webe/GW","fullname":"omertheking","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"66dc966ecb0e67e687ee1461"}
+7.9.2024, 21:07:42 - DEBUG - auth.service - login with username: omertheking
+7.9.2024, 21:07:43 - INFO - User signup: | {"_id":"66dc966ecb0e67e687ee1461","username":"omertheking","fullname":"omertheking","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+7.9.2024, 21:07:43 - INFO - Setting socket.userId = 66dc966ecb0e67e687ee1461 for socket [id: wcjoNWa6AwitFlOmAAAB]
+7.9.2024, 21:07:43 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:07:43 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:10:52 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:10:52 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:10:53 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:10:53 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:11:32 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:11:32 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:11:37 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:11:37 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:11:48 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:11:48 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:12:07 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:12:07 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:12:12 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+7.9.2024, 21:12:12 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+7.9.2024, 22:07:21 - INFO - Socket disconnected [id: undefined]
+7.9.2024, 22:09:29 - INFO - New connected socket [id: oVP2HN7bJxe0aYKsAAAD]
+7.9.2024, 22:31:07 - INFO - Socket disconnected [id: undefined]
+8.9.2024, 3:53:49 - INFO - New connected socket [id: AKlZOAsDXh6A_yNkAAAF]
+8.9.2024, 3:53:50 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+8.9.2024, 3:53:50 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+8.9.2024, 3:53:50 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+8.9.2024, 3:53:50 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+8.9.2024, 3:54:57 - INFO - Socket disconnected [id: undefined]
+8.9.2024, 3:54:57 - INFO - New connected socket [id: z5XC1_NlqAhfcpbbAAAH]
+8.9.2024, 3:54:57 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+8.9.2024, 3:54:57 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+8.9.2024, 3:56:13 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+8.9.2024, 3:56:13 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+8.9.2024, 3:56:54 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+8.9.2024, 3:56:54 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+8.9.2024, 3:57:10 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+8.9.2024, 3:57:10 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+8.9.2024, 4:04:55 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+8.9.2024, 4:04:55 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+8.9.2024, 5:11:04 - INFO - Socket disconnected [id: undefined]
+10.9.2024, 7:42:13 - INFO - Server is running on port: 3030
+10.9.2024, 7:42:56 - INFO - New connected socket [id: NT0Jm7-g-4I81gG0AAAB]
+10.9.2024, 7:42:57 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+10.9.2024, 7:42:57 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+10.9.2024, 7:42:57 - INFO - New connected socket [id: 4b5RBaqC12rT30rJAAAD]
+10.9.2024, 7:42:58 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+10.9.2024, 7:42:58 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+10.9.2024, 7:42:59 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+10.9.2024, 7:42:59 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+10.9.2024, 7:42:59 - INFO - Req was made | / | 66dc966ecb0e67e687ee1461
+10.9.2024, 7:42:59 - DEBUG - Getting Stays | 66dc966ecb0e67e687ee1461
+10.9.2024, 7:43:02 - INFO - Socket disconnected [id: undefined]
+10.9.2024, 7:44:00 - DEBUG - auth.service - signup with username: alontheloco, fullname: alontheloco | 66dc966ecb0e67e687ee1461
+10.9.2024, 7:44:00 - DEBUG - auth.route - new account created: {"username":"alontheloco","password":"$2b$10$VGNpUkCBcXmAdE4Cwfx2/upyzqJNIpTU8XdyWsJf3chCPSs4W6Y.6","fullname":"alontheloco","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"66dfce90a46ad5270fa3b03a"} | 66dc966ecb0e67e687ee1461
+10.9.2024, 7:44:00 - DEBUG - auth.service - login with username: alontheloco | 66dc966ecb0e67e687ee1461
+10.9.2024, 7:44:01 - INFO - User signup: | {"_id":"66dfce90a46ad5270fa3b03a","username":"alontheloco","fullname":"alontheloco","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null} | 66dc966ecb0e67e687ee1461
+10.9.2024, 7:44:01 - INFO - Setting socket.userId = 66dfce90a46ad5270fa3b03a for socket [id: 4b5RBaqC12rT30rJAAAD]
+10.9.2024, 7:44:01 - DEBUG - Getting Stays | 66dfce90a46ad5270fa3b03a
+10.9.2024, 7:44:01 - INFO - Req was made | / | 66dfce90a46ad5270fa3b03a
+10.9.2024, 7:45:33 - INFO - Req was made | / | 66dfce90a46ad5270fa3b03a
+10.9.2024, 7:45:33 - DEBUG - Getting Stays | 66dfce90a46ad5270fa3b03a
+10.9.2024, 8:02:33 - INFO - user-watch from socket [id: 4b5RBaqC12rT30rJAAAD], on user 66dfce90a46ad5270fa3b03a
+10.9.2024, 8:02:33 - ERROR - while finding user 66dfce90a46ad5270fa3b03a | ReferenceError: criteria is not defined | 66dfce90a46ad5270fa3b03a
+10.9.2024, 8:02:33 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66dfce90a46ad5270fa3b03a
+10.9.2024, 8:04:41 - INFO - Removing socket.userId for socket [id: 4b5RBaqC12rT30rJAAAD]
+10.9.2024, 8:04:41 - INFO - Req was made | /
+10.9.2024, 8:04:41 - DEBUG - Getting Stays
+10.9.2024, 8:04:57 - DEBUG - auth.service - login with username: aaa
+10.9.2024, 8:04:58 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+10.9.2024, 8:04:58 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 4b5RBaqC12rT30rJAAAD]
+10.9.2024, 8:04:58 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+10.9.2024, 8:04:58 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+10.9.2024, 8:22:30 - INFO - Socket disconnected [id: undefined]
+10.9.2024, 8:22:31 - INFO - New connected socket [id: epFE29ArW6jPLgnmAAAF]
+10.9.2024, 8:22:31 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: epFE29ArW6jPLgnmAAAF]
+10.9.2024, 8:22:31 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+10.9.2024, 8:22:31 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+10.9.2024, 8:22:52 - DEBUG - auth.service - login with username: aaa | 66db3d6f12177c287fb20efc
+10.9.2024, 8:22:53 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null} | 66db3d6f12177c287fb20efc
+10.9.2024, 8:22:53 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: epFE29ArW6jPLgnmAAAF]
+10.9.2024, 8:22:54 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+10.9.2024, 8:22:54 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+10.9.2024, 8:23:00 - INFO - Socket disconnected [id: undefined]
+10.9.2024, 8:23:00 - INFO - New connected socket [id: xavEk3vTHkV68v-oAAAH]
+10.9.2024, 8:23:00 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: xavEk3vTHkV68v-oAAAH]
+10.9.2024, 8:23:01 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+10.9.2024, 8:23:01 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+10.9.2024, 8:24:01 - INFO - Removing socket.userId for socket [id: xavEk3vTHkV68v-oAAAH]
+10.9.2024, 8:24:02 - INFO - Req was made | /
+10.9.2024, 8:24:02 - DEBUG - Getting Stays
+10.9.2024, 8:24:08 - INFO - Socket disconnected [id: undefined]
+10.9.2024, 8:24:09 - INFO - New connected socket [id: BIouURqBaiW2RJMjAAAJ]
+10.9.2024, 8:24:09 - INFO - Req was made | /
+10.9.2024, 8:24:09 - DEBUG - Getting Stays
+10.9.2024, 8:24:17 - DEBUG - auth.service - login with username: aaa
+10.9.2024, 8:24:18 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+10.9.2024, 8:24:18 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: BIouURqBaiW2RJMjAAAJ]
+10.9.2024, 8:24:18 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+10.9.2024, 8:24:18 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+10.9.2024, 8:34:53 - INFO - Socket disconnected [id: undefined]
+10.9.2024, 16:25:53 - INFO - New connected socket [id: RV_LKHVi45HAwHmEAAAM]
+10.9.2024, 16:25:55 - INFO - New connected socket [id: AEDpNEexciyLln9CAAAO]
+10.9.2024, 16:26:01 - INFO - Socket disconnected [id: undefined]
+10.9.2024, 16:26:18 - INFO - Socket disconnected [id: undefined]
+10.9.2024, 16:41:16 - INFO - New connected socket [id: GnbZeHsTBxgrTWC7AAAQ]
+10.9.2024, 16:44:17 - INFO - Socket disconnected [id: undefined]
+10.9.2024, 16:44:19 - INFO - New connected socket [id: fGYdUaXThfR9lYc_AAAS]
+10.9.2024, 16:44:19 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+10.9.2024, 16:44:19 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+10.9.2024, 16:44:40 - DEBUG - auth.service - login with username: aaa | 66db3d6f12177c287fb20efc
+10.9.2024, 16:44:40 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null} | 66db3d6f12177c287fb20efc
+10.9.2024, 16:44:40 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: fGYdUaXThfR9lYc_AAAS]
+10.9.2024, 16:44:41 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+10.9.2024, 16:44:41 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+10.9.2024, 16:49:23 - INFO - Removing socket.userId for socket [id: fGYdUaXThfR9lYc_AAAS]
+10.9.2024, 16:49:23 - INFO - Req was made | /
+10.9.2024, 16:49:23 - DEBUG - Getting Stays
+10.9.2024, 16:49:39 - DEBUG - auth.service - login with username: aaa
+10.9.2024, 16:49:40 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+10.9.2024, 16:49:40 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: fGYdUaXThfR9lYc_AAAS]
+10.9.2024, 16:49:40 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+10.9.2024, 16:49:40 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+10.9.2024, 16:53:00 - INFO - Removing socket.userId for socket [id: fGYdUaXThfR9lYc_AAAS]
+10.9.2024, 16:53:00 - INFO - Req was made | /
+10.9.2024, 16:53:00 - DEBUG - Getting Stays
+10.9.2024, 17:00:01 - INFO - Socket disconnected [id: undefined]
+10.9.2024, 23:35:44 - INFO - New connected socket [id: CRYLEyAmQ6seL08DAAAU]
+10.9.2024, 23:45:37 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 0:08:56 - INFO - New connected socket [id: cFN_T486ByKFLh1XAAAW]
+11.9.2024, 0:09:34 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 0:22:44 - INFO - Server is running on port: 3030
+11.9.2024, 0:25:04 - INFO - Server is running on port: 3030
+11.9.2024, 0:26:06 - INFO - New connected socket [id: l6SKjwXpCsNKXvFxAAAB]
+11.9.2024, 0:26:06 - INFO - Req was made | /
+11.9.2024, 0:26:06 - DEBUG - Getting Stays
+11.9.2024, 0:26:07 - INFO - Req was made | /
+11.9.2024, 0:26:07 - DEBUG - Getting Stays
+11.9.2024, 0:26:29 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 0:26:29 - INFO - New connected socket [id: Vqe1ebJiFKLxoHPyAAAD]
+11.9.2024, 0:26:31 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 0:26:32 - INFO - New connected socket [id: Ej6tmWv2g4uzCjZmAAAF]
+11.9.2024, 0:26:32 - INFO - Req was made | /
+11.9.2024, 0:26:32 - DEBUG - Getting Stays
+11.9.2024, 0:26:32 - INFO - Req was made | /
+11.9.2024, 0:26:32 - DEBUG - Getting Stays
+11.9.2024, 0:27:04 - INFO - Req was made | /
+11.9.2024, 0:27:04 - DEBUG - Getting Stays
+11.9.2024, 0:27:08 - INFO - Req was made | /
+11.9.2024, 0:27:08 - DEBUG - Getting Stays
+11.9.2024, 0:37:58 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 0:37:59 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 0:37:59 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: Ej6tmWv2g4uzCjZmAAAF]
+11.9.2024, 0:37:59 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 0:37:59 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 0:40:40 - INFO - Removing socket.userId for socket [id: Ej6tmWv2g4uzCjZmAAAF]
+11.9.2024, 0:40:40 - INFO - Req was made | /
+11.9.2024, 0:40:40 - DEBUG - Getting Stays
+11.9.2024, 0:41:11 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 0:41:11 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 0:41:11 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: Ej6tmWv2g4uzCjZmAAAF]
+11.9.2024, 0:41:11 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 0:41:11 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 0:47:07 - INFO - Removing socket.userId for socket [id: Ej6tmWv2g4uzCjZmAAAF]
+11.9.2024, 0:47:07 - INFO - Req was made | /
+11.9.2024, 0:47:07 - DEBUG - Getting Stays
+11.9.2024, 0:47:38 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 0:47:39 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 0:47:39 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: Ej6tmWv2g4uzCjZmAAAF]
+11.9.2024, 0:47:39 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 0:47:39 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 0:47:49 - INFO - Removing socket.userId for socket [id: Ej6tmWv2g4uzCjZmAAAF]
+11.9.2024, 0:47:49 - INFO - Req was made | /
+11.9.2024, 0:47:49 - DEBUG - Getting Stays
+11.9.2024, 0:50:27 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 0:50:27 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 0:50:27 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: Ej6tmWv2g4uzCjZmAAAF]
+11.9.2024, 0:50:27 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 0:50:27 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 0:54:11 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 0:54:12 - INFO - New connected socket [id: 6xeK5ijHZvEPiewKAAAH]
+11.9.2024, 0:54:12 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 0:54:12 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 0:54:12 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 6xeK5ijHZvEPiewKAAAH]
+11.9.2024, 0:54:15 - INFO - Removing socket.userId for socket [id: 6xeK5ijHZvEPiewKAAAH]
+11.9.2024, 0:54:15 - INFO - Req was made | /
+11.9.2024, 0:54:15 - DEBUG - Getting Stays
+11.9.2024, 0:57:56 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 0:57:57 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 0:57:57 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 6xeK5ijHZvEPiewKAAAH]
+11.9.2024, 0:57:57 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 0:57:57 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 1:00:31 - INFO - Removing socket.userId for socket [id: 6xeK5ijHZvEPiewKAAAH]
+11.9.2024, 1:00:31 - INFO - Req was made | /
+11.9.2024, 1:00:31 - DEBUG - Getting Stays
+11.9.2024, 1:01:04 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 1:01:04 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 1:01:04 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 6xeK5ijHZvEPiewKAAAH]
+11.9.2024, 1:01:05 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 1:01:05 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 1:01:59 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 1:01:59 - INFO - New connected socket [id: hR-0YzocNOZfMiZ7AAAJ]
+11.9.2024, 1:01:59 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 1:01:59 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 1:01:59 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: hR-0YzocNOZfMiZ7AAAJ]
+11.9.2024, 1:11:02 - INFO - user-watch from socket [id: hR-0YzocNOZfMiZ7AAAJ], on user 66db3d6f12177c287fb20efc
+11.9.2024, 1:11:02 - ERROR - while finding user 66db3d6f12177c287fb20efc | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 1:11:02 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 1:11:14 - INFO - Removing socket.userId for socket [id: hR-0YzocNOZfMiZ7AAAJ]
+11.9.2024, 1:11:14 - INFO - Req was made | /
+11.9.2024, 1:11:14 - DEBUG - Getting Stays
+11.9.2024, 1:11:24 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 1:11:24 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 1:11:24 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: hR-0YzocNOZfMiZ7AAAJ]
+11.9.2024, 1:11:24 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 1:11:24 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 1:13:07 - INFO - user-watch from socket [id: hR-0YzocNOZfMiZ7AAAJ], on user 66db3d6f12177c287fb20efc
+11.9.2024, 1:13:07 - ERROR - while finding user 66db3d6f12177c287fb20efc | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 1:13:07 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 1:20:22 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 1:20:22 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 1:20:37 - INFO - user-watch from socket [id: hR-0YzocNOZfMiZ7AAAJ], on user 66db3d6f12177c287fb20efc
+11.9.2024, 1:20:37 - ERROR - while finding user 66db3d6f12177c287fb20efc | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 1:20:37 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 1:20:55 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 1:20:55 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 1:20:59 - INFO - Removing socket.userId for socket [id: hR-0YzocNOZfMiZ7AAAJ]
+11.9.2024, 1:20:59 - INFO - Req was made | /
+11.9.2024, 1:20:59 - DEBUG - Getting Stays
+11.9.2024, 1:31:17 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 1:31:18 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 1:31:18 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: hR-0YzocNOZfMiZ7AAAJ]
+11.9.2024, 1:31:18 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 1:31:18 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 1:31:24 - INFO - user-watch from socket [id: hR-0YzocNOZfMiZ7AAAJ], on user 66db3d6f12177c287fb20efc
+11.9.2024, 1:31:24 - ERROR - while finding user 66db3d6f12177c287fb20efc | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 1:31:24 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 1:33:40 - INFO - Removing socket.userId for socket [id: hR-0YzocNOZfMiZ7AAAJ]
+11.9.2024, 1:33:40 - INFO - Req was made | /
+11.9.2024, 1:33:40 - DEBUG - Getting Stays
+11.9.2024, 1:34:09 - DEBUG - Getting Stays
+11.9.2024, 1:34:09 - INFO - Req was made | /
+11.9.2024, 1:34:18 - INFO - Req was made | /
+11.9.2024, 1:34:18 - DEBUG - Getting Stays
+11.9.2024, 1:35:34 - INFO - Req was made | /
+11.9.2024, 1:35:34 - DEBUG - Getting Stays
+11.9.2024, 1:35:57 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 1:35:58 - INFO - New connected socket [id: Ya2esFDx4bRXBWcDAAAL]
+11.9.2024, 1:49:48 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 1:56:44 - INFO - New connected socket [id: _-QacR0N8ylAMKb9AAAN]
+11.9.2024, 1:58:04 - INFO - Req was made | /
+11.9.2024, 1:58:04 - DEBUG - Getting Stays
+11.9.2024, 1:59:22 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 1:59:22 - INFO - New connected socket [id: NlwR9O26S_5DKyJzAAAP]
+11.9.2024, 1:59:24 - DEBUG - Getting Stays
+11.9.2024, 1:59:24 - INFO - Req was made | /
+11.9.2024, 1:59:27 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 1:59:27 - INFO - New connected socket [id: L00T0V2gv6xHn4qMAAAR]
+11.9.2024, 2:04:38 - INFO - Req was made | /
+11.9.2024, 2:04:38 - DEBUG - Getting Stays
+11.9.2024, 2:04:55 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 2:04:55 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 2:04:55 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: L00T0V2gv6xHn4qMAAAR]
+11.9.2024, 2:04:56 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 2:04:56 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 2:05:00 - INFO - user-watch from socket [id: L00T0V2gv6xHn4qMAAAR], on user 66db3d6f12177c287fb20efc
+11.9.2024, 2:05:00 - ERROR - while finding user 66db3d6f12177c287fb20efc | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 2:05:00 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 2:05:14 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 2:05:14 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 2:05:19 - INFO - user-watch from socket [id: L00T0V2gv6xHn4qMAAAR], on user 66db3d6f12177c287fb20efc
+11.9.2024, 2:05:19 - ERROR - while finding user 66db3d6f12177c287fb20efc | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 2:05:19 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 2:05:28 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 2:05:28 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 2:05:44 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 2:05:44 - INFO - New connected socket [id: zzs30f-oMTAktDEsAAAT]
+11.9.2024, 2:05:44 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: zzs30f-oMTAktDEsAAAT]
+11.9.2024, 2:05:49 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 2:05:49 - INFO - New connected socket [id: UKz_fvGNNmiGcMJnAAAV]
+11.9.2024, 2:05:49 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: UKz_fvGNNmiGcMJnAAAV]
+11.9.2024, 2:05:54 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 2:05:54 - INFO - New connected socket [id: 9cZjFxpmLTdCSMGDAAAX]
+11.9.2024, 2:05:54 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 9cZjFxpmLTdCSMGDAAAX]
+11.9.2024, 2:05:56 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 2:05:56 - INFO - New connected socket [id: qclzVD7gG1weizoXAAAZ]
+11.9.2024, 2:05:56 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: qclzVD7gG1weizoXAAAZ]
+11.9.2024, 2:21:00 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 2:32:36 - INFO - New connected socket [id: 1zwgDaDGt-3IpKmLAAAb]
+11.9.2024, 2:32:37 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 1zwgDaDGt-3IpKmLAAAb]
+11.9.2024, 2:44:52 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 2:45:06 - INFO - New connected socket [id: _J6CvPWezWLcVa_SAAAd]
+11.9.2024, 2:45:06 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: _J6CvPWezWLcVa_SAAAd]
+11.9.2024, 2:45:11 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 2:45:11 - INFO - New connected socket [id: 5J1ZVsgUG5c7z3hTAAAf]
+11.9.2024, 2:45:12 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 5J1ZVsgUG5c7z3hTAAAf]
+11.9.2024, 2:45:12 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 2:45:12 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 2:45:12 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 2:45:12 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 2:47:38 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 2:47:38 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 2:48:04 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 2:48:04 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 2:48:11 - INFO - user-watch from socket [id: 5J1ZVsgUG5c7z3hTAAAf], on user 66db3d6f12177c287fb20efc
+11.9.2024, 2:48:11 - ERROR - while finding user 66db3d6f12177c287fb20efc | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 2:48:11 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 2:58:26 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 2:58:26 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 2:58:27 - INFO - user-watch from socket [id: 5J1ZVsgUG5c7z3hTAAAf], on user 66db3d6f12177c287fb20efc
+11.9.2024, 2:58:27 - ERROR - while finding user 66db3d6f12177c287fb20efc | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 2:58:27 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 2:58:39 - INFO - Removing socket.userId for socket [id: 5J1ZVsgUG5c7z3hTAAAf]
+11.9.2024, 2:58:39 - INFO - Req was made | /
+11.9.2024, 2:58:39 - DEBUG - Getting Stays
+11.9.2024, 3:05:54 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 3:05:54 - INFO - New connected socket [id: 6SDBYG-cmG_wll4oAAAh]
+11.9.2024, 3:05:54 - INFO - Req was made | /
+11.9.2024, 3:05:54 - DEBUG - Getting Stays
+11.9.2024, 3:05:54 - INFO - Req was made | /
+11.9.2024, 3:05:54 - DEBUG - Getting Stays
+11.9.2024, 3:06:02 - INFO - Req was made | /
+11.9.2024, 3:06:02 - DEBUG - Getting Stays
+11.9.2024, 3:06:05 - INFO - Req was made | /
+11.9.2024, 3:06:05 - DEBUG - Getting Stays
+11.9.2024, 3:07:41 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 3:07:42 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 3:07:42 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 6SDBYG-cmG_wll4oAAAh]
+11.9.2024, 3:07:42 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 3:07:42 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 3:07:50 - INFO - user-watch from socket [id: 6SDBYG-cmG_wll4oAAAh], on user 66db3d6f12177c287fb20efc
+11.9.2024, 3:07:50 - ERROR - while finding user 66db3d6f12177c287fb20efc | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 3:07:50 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 3:07:57 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 3:07:57 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 3:08:00 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 3:08:00 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 3:08:51 - INFO - user-watch from socket [id: 6SDBYG-cmG_wll4oAAAh], on user 66db3d6f12177c287fb20efc
+11.9.2024, 3:08:51 - ERROR - while finding user 66db3d6f12177c287fb20efc | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 3:08:51 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 3:09:00 - INFO - Removing socket.userId for socket [id: 6SDBYG-cmG_wll4oAAAh]
+11.9.2024, 3:09:00 - DEBUG - Getting Stays
+11.9.2024, 3:09:00 - INFO - Req was made | /
+11.9.2024, 3:09:15 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 3:09:15 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 3:09:15 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 6SDBYG-cmG_wll4oAAAh]
+11.9.2024, 3:09:16 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 3:09:16 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 3:09:32 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 3:09:32 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 3:11:13 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 3:11:13 - INFO - New connected socket [id: mLbWGL5hpURABqPVAAAj]
+11.9.2024, 3:11:14 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 3:11:14 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 3:11:14 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: mLbWGL5hpURABqPVAAAj]
+11.9.2024, 3:11:24 - INFO - user-watch from socket [id: mLbWGL5hpURABqPVAAAj], on user 66db3d6f12177c287fb20efc
+11.9.2024, 3:11:24 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 3:11:24 - ERROR - while finding user 66db3d6f12177c287fb20efc | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 3:11:36 - INFO - Removing socket.userId for socket [id: mLbWGL5hpURABqPVAAAj]
+11.9.2024, 3:11:36 - INFO - Req was made | /
+11.9.2024, 3:11:36 - DEBUG - Getting Stays
+11.9.2024, 3:13:45 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 3:13:45 - INFO - New connected socket [id: jrGIpzJcV2_83N9eAAAl]
+11.9.2024, 3:13:56 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 3:13:57 - INFO - New connected socket [id: p_bOXe8y30ZuiOU6AAAn]
+11.9.2024, 3:18:07 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 3:18:08 - INFO - New connected socket [id: 90MfY7di_be-PRX9AAAp]
+11.9.2024, 4:12:12 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 4:12:12 - INFO - New connected socket [id: 9lahU2WEpW0tiauIAAAr]
+11.9.2024, 4:13:47 - DEBUG - Getting Stays
+11.9.2024, 4:13:47 - INFO - Req was made | /
+11.9.2024, 4:13:47 - INFO - Req was made | /
+11.9.2024, 4:13:47 - DEBUG - Getting Stays
+11.9.2024, 4:13:56 - INFO - Req was made | /
+11.9.2024, 4:13:56 - DEBUG - Getting Stays
+11.9.2024, 4:13:58 - INFO - Req was made | /
+11.9.2024, 4:13:58 - DEBUG - Getting Stays
+11.9.2024, 4:14:04 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 4:14:05 - INFO - New connected socket [id: i1VT96un07of0VuwAAAt]
+11.9.2024, 4:14:05 - INFO - Req was made | /
+11.9.2024, 4:14:05 - DEBUG - Getting Stays
+11.9.2024, 4:14:19 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 4:14:19 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 4:14:19 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: i1VT96un07of0VuwAAAt]
+11.9.2024, 4:14:20 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 4:14:20 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 4:26:24 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 4:26:24 - INFO - New connected socket [id: MVxAaOqX1_oD7GiwAAAv]
+11.9.2024, 4:26:24 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: MVxAaOqX1_oD7GiwAAAv]
+11.9.2024, 5:18:06 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 10:38:16 - INFO - New connected socket [id: o84NtLE1gK1NgfjUAAAx]
+11.9.2024, 10:38:16 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: o84NtLE1gK1NgfjUAAAx]
+11.9.2024, 10:40:53 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 10:41:01 - INFO - New connected socket [id: icZyXty2KYHNI0JyAAAz]
+11.9.2024, 10:41:01 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: icZyXty2KYHNI0JyAAAz]
+11.9.2024, 10:54:41 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 11:28:33 - INFO - New connected socket [id: OmRNNxaUu_DBQYq6AAA2]
+11.9.2024, 11:28:35 - INFO - New connected socket [id: osyDev459o2RMzZBAAA4]
+11.9.2024, 11:28:35 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: osyDev459o2RMzZBAAA4]
+11.9.2024, 11:29:18 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 11:29:34 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 11:29:36 - INFO - New connected socket [id: YS6d9eozH3FqH2WpAAA6]
+11.9.2024, 13:17:32 - INFO - Server is running on port: 3030
+11.9.2024, 13:18:47 - INFO - New connected socket [id: tok-hu_mFF5cDTscAAAB]
+11.9.2024, 13:18:48 - INFO - Req was made | /
+11.9.2024, 13:18:48 - DEBUG - Getting Stays
+11.9.2024, 13:18:49 - INFO - Req was made | /
+11.9.2024, 13:18:49 - DEBUG - Getting Stays
+11.9.2024, 13:18:54 - INFO - Req was made | /
+11.9.2024, 13:18:54 - DEBUG - Getting Stays
+11.9.2024, 13:18:57 - INFO - Req was made | /
+11.9.2024, 13:18:57 - DEBUG - Getting Stays
+11.9.2024, 13:18:58 - INFO - Req was made | /
+11.9.2024, 13:18:58 - DEBUG - Getting Stays
+11.9.2024, 13:37:45 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 13:37:45 - INFO - New connected socket [id: VWGYkfvM3e512o-EAAAD]
+11.9.2024, 13:38:46 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 13:38:46 - INFO - New connected socket [id: TvpQFRhKwLotgytFAAAF]
+11.9.2024, 13:39:34 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 13:39:34 - INFO - New connected socket [id: vXYPn2e0GMPorhkdAAAH]
+11.9.2024, 13:39:45 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 13:39:45 - INFO - New connected socket [id: KCpL3X9wSlK5ymmBAAAJ]
+11.9.2024, 13:40:05 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 13:40:05 - INFO - New connected socket [id: KcC5aY7aFQewRTToAAAL]
+11.9.2024, 13:40:10 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 13:40:11 - INFO - New connected socket [id: k79vZqPFuvSolCUBAAAN]
+11.9.2024, 13:40:41 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 13:40:41 - INFO - New connected socket [id: hGxE-NTeI97MRsplAAAP]
+11.9.2024, 13:40:45 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 13:40:45 - INFO - New connected socket [id: IRDFeA3241qy51LpAAAR]
+11.9.2024, 13:47:06 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 13:47:06 - INFO - New connected socket [id: GVQOyTQ356OACU6KAAAT]
+11.9.2024, 13:47:11 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 13:47:11 - INFO - New connected socket [id: al4Mym99uwxHcjz3AAAV]
+11.9.2024, 13:47:15 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 13:47:15 - INFO - New connected socket [id: Vr9WSjufEPNPKDaAAAAX]
+11.9.2024, 13:47:15 - INFO - Req was made | /
+11.9.2024, 13:47:15 - DEBUG - Getting Stays
+11.9.2024, 13:47:15 - INFO - Req was made | /
+11.9.2024, 13:47:15 - DEBUG - Getting Stays
+11.9.2024, 13:54:34 - INFO - New connected socket [id: N3MBl3SeXENzMot1AAAZ]
+11.9.2024, 13:54:34 - INFO - Req was made | /
+11.9.2024, 13:54:34 - DEBUG - Getting Stays
+11.9.2024, 13:54:34 - INFO - Req was made | /
+11.9.2024, 13:54:34 - DEBUG - Getting Stays
+11.9.2024, 14:05:56 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 14:05:56 - INFO - New connected socket [id: jEDnyYgEOSluiOjsAAAb]
+11.9.2024, 14:12:16 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 14:12:16 - INFO - New connected socket [id: mKEtrtVDIkhU2eEBAAAd]
+11.9.2024, 14:20:13 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 14:20:13 - INFO - New connected socket [id: M960LmT7pqz9ZCB_AAAf]
+11.9.2024, 14:20:19 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 14:20:19 - INFO - New connected socket [id: QEeSCLIBIa1AwcujAAAh]
+11.9.2024, 14:20:19 - INFO - Req was made | /
+11.9.2024, 14:20:19 - DEBUG - Getting Stays
+11.9.2024, 14:20:20 - INFO - Req was made | /
+11.9.2024, 14:20:20 - DEBUG - Getting Stays
+11.9.2024, 14:20:29 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 14:20:29 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 14:20:29 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: QEeSCLIBIa1AwcujAAAh]
+11.9.2024, 14:20:29 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 14:20:29 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 14:24:30 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 14:24:31 - INFO - New connected socket [id: xJUgchfVPE111kovAAAj]
+11.9.2024, 14:24:31 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: xJUgchfVPE111kovAAAj]
+11.9.2024, 14:24:55 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 14:24:55 - INFO - New connected socket [id: tDrCUnHOD2sVJQdIAAAl]
+11.9.2024, 14:24:56 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: tDrCUnHOD2sVJQdIAAAl]
+11.9.2024, 14:24:56 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 14:24:56 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 14:24:56 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 14:24:56 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 14:25:21 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 14:25:21 - INFO - New connected socket [id: 7Je73yg_GfJaz2XSAAAn]
+11.9.2024, 14:25:21 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 7Je73yg_GfJaz2XSAAAn]
+11.9.2024, 14:25:34 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 14:25:35 - INFO - New connected socket [id: YzPaXjBkZkdNLVyvAAAp]
+11.9.2024, 14:25:35 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: YzPaXjBkZkdNLVyvAAAp]
+11.9.2024, 14:25:35 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 14:25:35 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 14:25:35 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 14:25:35 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 14:27:59 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 14:27:59 - INFO - New connected socket [id: IlDyvmelNAuJIoENAAAr]
+11.9.2024, 14:27:59 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: IlDyvmelNAuJIoENAAAr]
+11.9.2024, 14:27:59 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 14:27:59 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 14:28:00 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 14:28:00 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 14:28:01 - INFO - user-watch from socket [id: IlDyvmelNAuJIoENAAAr], on user 66db3d6f12177c287fb20efc
+11.9.2024, 14:28:01 - ERROR - while finding user 66db3d6f12177c287fb20efc | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 14:28:01 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 14:54:09 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 14:54:09 - INFO - New connected socket [id: d1UU1_IHZnFheDHbAAAt]
+11.9.2024, 14:54:09 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: d1UU1_IHZnFheDHbAAAt]
+11.9.2024, 14:54:13 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 14:54:13 - INFO - New connected socket [id: cwynsOBmqVQbsN84AAAv]
+11.9.2024, 14:54:14 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: cwynsOBmqVQbsN84AAAv]
+11.9.2024, 14:54:14 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 14:54:14 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 14:54:14 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 14:54:14 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 14:57:45 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 14:57:46 - INFO - New connected socket [id: CSMR3P8a7aedYDhdAAAx]
+11.9.2024, 14:57:46 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: CSMR3P8a7aedYDhdAAAx]
+11.9.2024, 14:58:47 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 14:58:47 - INFO - New connected socket [id: _sbyd9o5lbvNMgrqAAAz]
+11.9.2024, 14:58:47 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: _sbyd9o5lbvNMgrqAAAz]
+11.9.2024, 14:58:48 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 14:58:48 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 14:58:48 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 14:58:48 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 14:58:49 - INFO - user-watch from socket [id: _sbyd9o5lbvNMgrqAAAz], on user 66db3d6f12177c287fb20efc
+11.9.2024, 14:58:49 - ERROR - while finding user 66db3d6f12177c287fb20efc | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 14:58:49 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 15:00:12 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66db3d6f12177c287fb20efc
+11.9.2024, 15:01:03 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:01:05 - INFO - New connected socket [id: x-9Bfu4LXxpI-0VUAAA1]
+11.9.2024, 15:01:05 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: x-9Bfu4LXxpI-0VUAAA1]
+11.9.2024, 15:01:39 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:01:39 - INFO - New connected socket [id: 4dvF9apdboxP_jI2AAA3]
+11.9.2024, 15:01:40 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 4dvF9apdboxP_jI2AAA3]
+11.9.2024, 15:01:42 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:01:43 - INFO - New connected socket [id: yhVlcmuKd9nQyImKAAA5]
+11.9.2024, 15:01:43 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: yhVlcmuKd9nQyImKAAA5]
+11.9.2024, 15:01:43 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:01:43 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:01:44 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:01:44 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:03:54 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:03:55 - INFO - New connected socket [id: 5LCN2x_iYbqpF1hfAAA7]
+11.9.2024, 15:03:55 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 5LCN2x_iYbqpF1hfAAA7]
+11.9.2024, 15:03:56 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:03:56 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:03:56 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:03:56 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:04:13 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66db3d6f12177c287fb20efc
+11.9.2024, 15:13:34 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:13:34 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:14:53 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:14:53 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:14:55 - INFO - New connected socket [id: YjP_H1omkSIAG3paAAA-]
+11.9.2024, 15:14:55 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: YjP_H1omkSIAG3paAAA-]
+11.9.2024, 15:14:55 - INFO - New connected socket [id: 4o05Do6s4g_fmodMAAA_]
+11.9.2024, 15:14:56 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:14:56 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:17:33 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:17:33 - INFO - New connected socket [id: xiZrfW8Rw5ZQuQE0AABB]
+11.9.2024, 15:17:33 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: xiZrfW8Rw5ZQuQE0AABB]
+11.9.2024, 15:17:34 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:17:34 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:17:34 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:17:34 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:17:50 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:17:50 - INFO - New connected socket [id: D5ecWGh5Nizj0E88AABD]
+11.9.2024, 15:17:50 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: D5ecWGh5Nizj0E88AABD]
+11.9.2024, 15:17:57 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:18:09 - INFO - New connected socket [id: HHQf4MghUHPjo0lrAABF]
+11.9.2024, 15:18:09 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: HHQf4MghUHPjo0lrAABF]
+11.9.2024, 15:18:09 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:18:09 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:18:10 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:18:10 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:18:31 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66db3d6f12177c287fb20efc
+11.9.2024, 15:24:17 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:24:17 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:24:36 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:24:36 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:31:48 - INFO - Server is running on port: 3030
+11.9.2024, 15:31:48 - INFO - New connected socket [id: 7ZqRXqelr3exX2EJAAAC]
+11.9.2024, 15:31:48 - INFO - New connected socket [id: rqr4GEjqqP4AWuhGAAAD]
+11.9.2024, 15:31:52 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:31:53 - INFO - New connected socket [id: c7VcXcqdhXSkB-oZAAAF]
+11.9.2024, 15:31:53 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: c7VcXcqdhXSkB-oZAAAF]
+11.9.2024, 15:32:00 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:32:00 - INFO - New connected socket [id: g7GCBvZBea0LhaltAAAH]
+11.9.2024, 15:32:00 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: g7GCBvZBea0LhaltAAAH]
+11.9.2024, 15:32:00 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:32:00 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:32:02 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:32:02 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:32:18 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66db3d6f12177c287fb20efc
+11.9.2024, 15:43:56 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:43:57 - INFO - New connected socket [id: ip1UmhqihVNE9kqyAAAJ]
+11.9.2024, 15:43:57 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: ip1UmhqihVNE9kqyAAAJ]
+11.9.2024, 15:43:58 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:43:58 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:43:58 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:43:58 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:44:30 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66db3d6f12177c287fb20efc
+11.9.2024, 15:45:08 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:45:08 - INFO - New connected socket [id: hC3zvYr8Zpfh1aGqAAAL]
+11.9.2024, 15:45:08 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: hC3zvYr8Zpfh1aGqAAAL]
+11.9.2024, 15:45:09 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:45:09 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:45:09 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 15:45:09 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 15:45:10 - INFO - user-watch from socket [id: hC3zvYr8Zpfh1aGqAAAL], on user 66db3d6f12177c287fb20efc
+11.9.2024, 15:45:10 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 15:45:10 - ERROR - while finding user 66db3d6f12177c287fb20efc | ReferenceError: criteria is not defined | 66db3d6f12177c287fb20efc
+11.9.2024, 15:45:18 - INFO - Removing socket.userId for socket [id: hC3zvYr8Zpfh1aGqAAAL]
+11.9.2024, 15:45:18 - INFO - Req was made | /
+11.9.2024, 15:45:18 - DEBUG - Getting Stays
+11.9.2024, 15:45:35 - DEBUG - auth.service - signup with username: עומר, fullname: עומר
+11.9.2024, 15:45:35 - DEBUG - auth.route - new account created: {"username":"עומר","password":"$2b$10$EjEJtOmi6Nf17dxqRlieWODYS0FfefIt4DamqdGpq5V0x3L3mE88G","fullname":"עומר","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"66e190ef0ffb2ced67fc4594"}
+11.9.2024, 15:45:35 - DEBUG - auth.service - login with username: עומר
+11.9.2024, 15:45:36 - INFO - User signup: | {"_id":"66e190ef0ffb2ced67fc4594","username":"עומר","fullname":"עומר","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 15:45:36 - INFO - Setting socket.userId = 66e190ef0ffb2ced67fc4594 for socket [id: hC3zvYr8Zpfh1aGqAAAL]
+11.9.2024, 15:45:36 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:45:36 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:48:10 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:48:11 - INFO - New connected socket [id: KgIkNsxPlJakmz05AAAN]
+11.9.2024, 15:48:11 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:48:11 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:48:11 - INFO - Setting socket.userId = 66e190ef0ffb2ced67fc4594 for socket [id: KgIkNsxPlJakmz05AAAN]
+11.9.2024, 15:48:32 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:48:33 - INFO - New connected socket [id: ozBL_l8OtzHUEUPiAAAP]
+11.9.2024, 15:48:33 - INFO - Setting socket.userId = 66e190ef0ffb2ced67fc4594 for socket [id: ozBL_l8OtzHUEUPiAAAP]
+11.9.2024, 15:48:33 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:48:33 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:48:34 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:48:34 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:48:57 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:56:43 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 15:56:44 - INFO - New connected socket [id: NFTetGrPIFyAskPJAAAR]
+11.9.2024, 15:56:44 - INFO - Setting socket.userId = 66e190ef0ffb2ced67fc4594 for socket [id: NFTetGrPIFyAskPJAAAR]
+11.9.2024, 15:56:45 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:56:45 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:56:45 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:56:45 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:56:46 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:56:46 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 15:57:04 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:02:42 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:02:43 - INFO - New connected socket [id: ElGLrTXjjDo0_Q1OAAAT]
+11.9.2024, 16:02:43 - INFO - Setting socket.userId = 66e190ef0ffb2ced67fc4594 for socket [id: ElGLrTXjjDo0_Q1OAAAT]
+11.9.2024, 16:02:43 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:02:43 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:02:43 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:02:43 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:03:00 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:04:29 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:04:43 - INFO - New connected socket [id: kN1RRnug_1OzwydmAAAV]
+11.9.2024, 16:04:43 - INFO - Setting socket.userId = 66e190ef0ffb2ced67fc4594 for socket [id: kN1RRnug_1OzwydmAAAV]
+11.9.2024, 16:04:43 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:04:43 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:04:44 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:04:44 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:04:53 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:05:33 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:05:33 - INFO - New connected socket [id: 19lxGOM4UM0_JHG7AAAX]
+11.9.2024, 16:05:33 - INFO - Setting socket.userId = 66e190ef0ffb2ced67fc4594 for socket [id: 19lxGOM4UM0_JHG7AAAX]
+11.9.2024, 16:05:34 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:05:34 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:05:34 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:05:34 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:09:39 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:09:44 - INFO - New connected socket [id: Vman8tTeUG9l1IoSAAAZ]
+11.9.2024, 16:09:44 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:09:44 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:09:45 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:09:46 - INFO - New connected socket [id: gnUMUv3xoRSPELOWAAAb]
+11.9.2024, 16:09:46 - INFO - Setting socket.userId = 66e190ef0ffb2ced67fc4594 for socket [id: gnUMUv3xoRSPELOWAAAb]
+11.9.2024, 16:09:47 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:09:47 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:09:47 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:09:47 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:10:29 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:10:30 - INFO - New connected socket [id: w9fnoYT1uJFZZaf5AAAd]
+11.9.2024, 16:10:30 - INFO - Setting socket.userId = 66e190ef0ffb2ced67fc4594 for socket [id: w9fnoYT1uJFZZaf5AAAd]
+11.9.2024, 16:10:30 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:10:30 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:10:31 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:10:31 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:10:46 - INFO - Req was made | / | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:10:46 - DEBUG - Getting Stays | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:10:48 - INFO - user-watch from socket [id: w9fnoYT1uJFZZaf5AAAd], on user 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:10:48 - ERROR - Failed to get user | ReferenceError: criteria is not defined | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:10:48 - ERROR - while finding user 66e190ef0ffb2ced67fc4594 | ReferenceError: criteria is not defined | 66e190ef0ffb2ced67fc4594
+11.9.2024, 16:10:49 - INFO - Removing socket.userId for socket [id: w9fnoYT1uJFZZaf5AAAd]
+11.9.2024, 16:10:49 - INFO - Req was made | /
+11.9.2024, 16:10:49 - DEBUG - Getting Stays
+11.9.2024, 16:11:05 - DEBUG - auth.service - login with username: aaa
+11.9.2024, 16:11:06 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 16:11:06 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: w9fnoYT1uJFZZaf5AAAd]
+11.9.2024, 16:11:07 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 16:11:07 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 16:20:34 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:20:35 - INFO - New connected socket [id: 3vUJxB9SiRkjajBHAAAf]
+11.9.2024, 16:20:35 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 3vUJxB9SiRkjajBHAAAf]
+11.9.2024, 16:20:39 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:20:39 - INFO - New connected socket [id: vcMZsrfDeQWol7XdAAAh]
+11.9.2024, 16:20:39 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: vcMZsrfDeQWol7XdAAAh]
+11.9.2024, 16:20:40 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 16:20:40 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 16:20:41 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 16:20:41 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 16:25:30 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:25:31 - INFO - New connected socket [id: _QzGsYPbh7c6rPEaAAAj]
+11.9.2024, 16:25:32 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: _QzGsYPbh7c6rPEaAAAj]
+11.9.2024, 16:25:33 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 16:25:33 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 16:25:33 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 16:25:33 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 16:25:37 - INFO - Removing socket.userId for socket [id: _QzGsYPbh7c6rPEaAAAj]
+11.9.2024, 16:25:37 - INFO - Req was made | /
+11.9.2024, 16:25:37 - DEBUG - Getting Stays
+11.9.2024, 16:26:09 - DEBUG - auth.service - signup with username: Sophie Müller, fullname: Sophie Müller
+11.9.2024, 16:26:09 - DEBUG - auth.service - login with username: Sophie Müller
+11.9.2024, 16:26:09 - DEBUG - auth.route - new account created: {"username":"Sophie Müller","password":"$2b$10$6CyJsYy0YEWz6iIIK9Mts.uyLcrJkSMygjvaipZVqtnPyWl8yz.We","fullname":"Sophie Müller","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"66e19a710ffb2ced67fc4595"}
+11.9.2024, 16:26:10 - INFO - User signup: | {"_id":"66e19a710ffb2ced67fc4595","username":"Sophie Müller","fullname":"Sophie Müller","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+11.9.2024, 16:26:10 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: _QzGsYPbh7c6rPEaAAAj]
+11.9.2024, 16:26:10 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:26:10 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:26:59 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:26:59 - INFO - New connected socket [id: OkYJTqTohWK_Z_bLAAAl]
+11.9.2024, 16:27:00 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: OkYJTqTohWK_Z_bLAAAl]
+11.9.2024, 16:27:00 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:27:00 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:27:01 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:27:01 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:27:02 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:27:02 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:27:20 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:30:07 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:30:07 - INFO - New connected socket [id: KlHTnTJNqQn8EV7xAAAn]
+11.9.2024, 16:30:08 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: KlHTnTJNqQn8EV7xAAAn]
+11.9.2024, 16:30:08 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:30:08 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:30:09 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:30:09 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:30:11 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:30:11 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:32:20 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:34:02 - INFO - Server is running on port: 3030
+11.9.2024, 16:34:02 - INFO - New connected socket [id: ogMhCfOfPGnHsjhiAAAB]
+11.9.2024, 16:34:03 - INFO - New connected socket [id: LJ6utfTY79CLDjeiAAAD]
+11.9.2024, 16:35:25 - INFO - Server is running on port: 3030
+11.9.2024, 16:35:26 - INFO - New connected socket [id: -PjtjlLybLbzQuHKAAAC]
+11.9.2024, 16:35:26 - INFO - New connected socket [id: sE8t69tHh9YgfHpLAAAD]
+11.9.2024, 16:35:32 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:35:33 - INFO - New connected socket [id: AvJxzp26QdHcoyH5AAAF]
+11.9.2024, 16:35:33 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: AvJxzp26QdHcoyH5AAAF]
+11.9.2024, 16:35:34 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:35:34 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:35:36 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:35:36 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:35:37 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:35:37 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:35:46 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:37:45 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:37:46 - INFO - New connected socket [id: RiFJyefuMwtk3wbvAAAH]
+11.9.2024, 16:37:46 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: RiFJyefuMwtk3wbvAAAH]
+11.9.2024, 16:37:47 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:37:47 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:37:48 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:37:48 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:37:57 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:44:02 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:44:45 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:44:45 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:44:49 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:44:49 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:45:13 - INFO - New connected socket [id: ma2cgeSmHllo32vZAAAJ]
+11.9.2024, 16:45:14 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: ma2cgeSmHllo32vZAAAJ]
+11.9.2024, 16:45:14 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:45:14 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:45:15 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:45:15 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:45:16 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:45:16 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:45:36 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:52:55 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:52:55 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:53:11 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:53:11 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:53:29 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:53:29 - INFO - New connected socket [id: 705N0rV2BP_i3ZN9AAAL]
+11.9.2024, 16:53:30 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: 705N0rV2BP_i3ZN9AAAL]
+11.9.2024, 16:53:30 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:53:30 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:53:31 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:53:31 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:53:33 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:53:33 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:53:47 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:55:44 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:55:45 - INFO - New connected socket [id: cYNKtBC33d_SMbV4AAAN]
+11.9.2024, 16:55:46 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: cYNKtBC33d_SMbV4AAAN]
+11.9.2024, 16:55:46 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:55:46 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:55:48 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:55:48 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:55:50 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:55:50 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:55:57 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:56:50 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:56:52 - INFO - New connected socket [id: uMBwj3SsKz66cXckAAAP]
+11.9.2024, 16:56:52 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: uMBwj3SsKz66cXckAAAP]
+11.9.2024, 16:56:53 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:56:53 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:56:54 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:56:54 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:57:02 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66e19a710ffb2ced67fc4595
+11.9.2024, 16:58:43 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:58:45 - INFO - New connected socket [id: r6J-iqnHMlgF308XAAAR]
+11.9.2024, 16:58:46 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: r6J-iqnHMlgF308XAAAR]
+11.9.2024, 16:59:44 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:59:48 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 16:59:51 - INFO - New connected socket [id: EfAlV0MtIyBCMI9AAAAT]
+11.9.2024, 16:59:52 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: EfAlV0MtIyBCMI9AAAAT]
+11.9.2024, 17:00:01 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 17:00:14 - INFO - New connected socket [id: JOCPEKR0ajsk7-txAAAV]
+11.9.2024, 17:00:16 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:00:16 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:00:19 - INFO - New connected socket [id: UbfYdlmjvSiHfX-gAAAX]
+11.9.2024, 17:00:20 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: UbfYdlmjvSiHfX-gAAAX]
+11.9.2024, 17:00:57 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 17:02:14 - INFO - New connected socket [id: 0Nw12c-myEyimMdBAAAZ]
+11.9.2024, 17:02:15 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: 0Nw12c-myEyimMdBAAAZ]
+11.9.2024, 17:02:39 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 17:02:40 - INFO - New connected socket [id: Bauiqn5n0wi5zGBnAAAb]
+11.9.2024, 17:02:40 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: Bauiqn5n0wi5zGBnAAAb]
+11.9.2024, 17:02:41 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:41 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:49 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:49 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:52 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:52 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:52 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:52 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:52 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:52 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:53 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:53 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:53 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:53 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:53 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:53 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:53 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:53 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:54 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:02:54 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:03:13 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 17:03:15 - INFO - New connected socket [id: pcwkYoXolwD8b8yIAAAd]
+11.9.2024, 17:03:16 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:03:16 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:03:17 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:03:17 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:03:17 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 17:03:17 - INFO - New connected socket [id: iQ41ZC2CwNtGmKgGAAAf]
+11.9.2024, 17:03:17 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: iQ41ZC2CwNtGmKgGAAAf]
+11.9.2024, 17:03:46 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 17:03:48 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 17:03:51 - INFO - New connected socket [id: 1SYAbKvJAW5TkaL7AAAh]
+11.9.2024, 17:03:51 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: 1SYAbKvJAW5TkaL7AAAh]
+11.9.2024, 17:03:56 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 17:03:59 - INFO - New connected socket [id: cBH1iGADbaFhg3YJAAAj]
+11.9.2024, 17:04:00 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: cBH1iGADbaFhg3YJAAAj]
+11.9.2024, 17:04:03 - INFO - New connected socket [id: prYchsNdqCoVFbk5AAAl]
+11.9.2024, 17:04:05 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:04:05 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:11:44 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:11:44 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:12:00 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:12:00 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 17:52:34 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 17:52:34 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:07:48 - INFO - New connected socket [id: b3aQec_2hxu-VCHvAAAn]
+11.9.2024, 18:07:48 - INFO - New connected socket [id: ytPWJYJGvPLHHCeUAAAp]
+11.9.2024, 18:07:48 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:07:50 - INFO - New connected socket [id: ChLer8ex78oeG2RiAAAr]
+11.9.2024, 18:07:52 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: ChLer8ex78oeG2RiAAAr]
+11.9.2024, 18:07:53 - INFO - New connected socket [id: MESB3hONVUz0TMp6AAAt]
+11.9.2024, 18:07:54 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 18:07:54 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 18:07:58 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 18:07:58 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 18:08:33 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:09:56 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:09:57 - INFO - New connected socket [id: n9cGJdBURuxrSZj3AAAv]
+11.9.2024, 18:09:57 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 18:09:57 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 18:09:58 - INFO - Req was made | / | 66e19a710ffb2ced67fc4595
+11.9.2024, 18:09:58 - DEBUG - Getting Stays | 66e19a710ffb2ced67fc4595
+11.9.2024, 18:10:06 - DEBUG - auth.service - login with username: aaa | 66e19a710ffb2ced67fc4595
+11.9.2024, 18:10:07 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null} | 66e19a710ffb2ced67fc4595
+11.9.2024, 18:10:07 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: n9cGJdBURuxrSZj3AAAv]
+11.9.2024, 18:10:07 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:10:07 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:10:09 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:10:09 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:10:25 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:10:25 - INFO - New connected socket [id: ZZCeS-lVzG8FPlAJAAAx]
+11.9.2024, 18:10:25 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: ZZCeS-lVzG8FPlAJAAAx]
+11.9.2024, 18:11:06 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:11:07 - INFO - New connected socket [id: Q0DtcBrPs0rcJ-1dAAAz]
+11.9.2024, 18:11:07 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: Q0DtcBrPs0rcJ-1dAAAz]
+11.9.2024, 18:11:09 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:11:09 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:13:30 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:13:30 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:14:17 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:14:18 - INFO - New connected socket [id: eUY2-rwyUd0Ig-btAAA1]
+11.9.2024, 18:14:19 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: eUY2-rwyUd0Ig-btAAA1]
+11.9.2024, 18:14:21 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:14:21 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:14:29 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:14:29 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:14:47 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:14:47 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:14:50 - INFO - New connected socket [id: h-35tmZslyAmSJKGAAA3]
+11.9.2024, 18:14:51 - INFO - New connected socket [id: 3ZZ-ELFjmFexOVznAAA5]
+11.9.2024, 18:14:55 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: 3ZZ-ELFjmFexOVznAAA5]
+11.9.2024, 18:14:56 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:14:59 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: h-35tmZslyAmSJKGAAA3]
+11.9.2024, 18:15:04 - INFO - Socket disconnected [id: undefined]
+11.9.2024, 18:15:06 - INFO - New connected socket [id: sD8dFnqESQTHPPlSAAA7]
+11.9.2024, 18:15:08 - INFO - Setting socket.userId = 66e19a710ffb2ced67fc4595 for socket [id: sD8dFnqESQTHPPlSAAA7]
+11.9.2024, 18:15:09 - INFO - New connected socket [id: MRmNbv59dP3eHPXYAAA9]
+11.9.2024, 18:15:11 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: MRmNbv59dP3eHPXYAAA9]
+11.9.2024, 18:15:29 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:15:29 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:15:30 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:15:30 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:15:30 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+11.9.2024, 18:15:30 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+11.9.2024, 18:16:47 - ERROR - Failed to add stay review | TypeError: Cannot read properties of undefined (reading 'txt') | 66db3d6f12177c287fb20efc
