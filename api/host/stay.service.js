@@ -4,7 +4,7 @@ import { dbService } from "../../services/db.service.js"
 import { logger } from "../../services/logger.service.js"
 import { utilService } from "../../services/util.service.js"
 
-export const stayService = {
+export const hostService = {
     query,
     getById,
     remove,
@@ -14,6 +14,51 @@ export const stayService = {
     addStayReview,
     removeStayLike,
     removeStayReview,
+    userStayQuery
+}
+
+
+async function userStayQuery() {
+    const store = asyncLocalStorage.getStore()
+
+    if (!store || !store.loggedinUser) {
+        throw new Error('No logged-in user found in the async local storage context.');
+    }
+
+    const { loggedinUser } = store;
+
+    try {
+        const collection = await dbService.getCollection('stay');
+        console.log('collection', collection);
+
+
+        var hostStays = await collection.aggregate([
+
+            {
+                $match: { "host._id": loggedinUser._id }
+            },
+
+            {
+                $lookup: {
+                    from: 'user',
+                    localField: "host.fullname",
+                    foreignField: 'fullname',
+                    as: 'hoststay',
+                },
+            },
+
+            {
+                $unwind: '$hoststay'
+            },
+        ]).toArray();
+
+        console.log('hostStays', hostStays);
+
+        return hostStays;
+    } catch (err) {
+        logger.error('Cannot find host stays', err);
+        throw err;
+    }
 }
 
 
