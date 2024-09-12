@@ -5766,3 +5766,42 @@
 12.9.2024, 22:16:41 - INFO - Req was made | /listings | 66db3d6f12177c287fb20efc
 12.9.2024, 22:17:04 - INFO - Server is running on port: 3030
 12.9.2024, 22:17:05 - INFO - New connected socket [id: 8i37pHt3vhoAXVqmAAAB]
+12.9.2024, 22:29:36 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:36 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:37 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:37 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:38 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:38 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:38 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:38 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:38 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:38 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:39 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:39 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:39 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:39 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:41 - INFO - Req was made | /listings | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:48 - INFO - Socket disconnected [id: undefined]
+12.9.2024, 22:29:49 - INFO - New connected socket [id: 4hqIbyRkSAeP0qUCAAAD]
+12.9.2024, 22:29:49 - INFO - Req was made | /listings | 66db3d6f12177c287fb20efc
+12.9.2024, 22:29:49 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: 4hqIbyRkSAeP0qUCAAAD]
+12.9.2024, 22:52:12 - INFO - Req was made | /listings | 66db3d6f12177c287fb20efc
+12.9.2024, 22:52:14 - INFO - Socket disconnected [id: undefined]
+12.9.2024, 22:52:15 - INFO - New connected socket [id: qfNte52bKtfHo3FBAAAF]
+12.9.2024, 22:52:15 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: qfNte52bKtfHo3FBAAAF]
+12.9.2024, 22:52:15 - INFO - Req was made | /listings | 66db3d6f12177c287fb20efc
+12.9.2024, 22:59:17 - INFO - Socket disconnected [id: undefined]
+12.9.2024, 22:59:18 - INFO - New connected socket [id: awLyK5jfSRX4bIgvAAAH]
+12.9.2024, 22:59:18 - INFO - Setting socket.userId = 66db3d6f12177c287fb20efc for socket [id: awLyK5jfSRX4bIgvAAAH]
+12.9.2024, 23:06:49 - DEBUG - auth.service - login with username: aaa
+12.9.2024, 23:06:50 - INFO - User login:  | {"_id":"66db3d6f12177c287fb20efc","username":"aaa","fullname":"aaa","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":null}
+12.9.2024, 23:08:50 - INFO - Server is running on port: 3030
+12.9.2024, 23:08:51 - INFO - New connected socket [id: e4ILfmAkClRzMwTtAAAB]
+12.9.2024, 23:09:07 - INFO - Req was made | /listings | 66db3d6f12177c287fb20efc
+12.9.2024, 23:09:34 - INFO - Req was made | /listings | 66db3d6f12177c287fb20efc
+12.9.2024, 23:13:41 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+12.9.2024, 23:13:41 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+12.9.2024, 23:13:41 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+12.9.2024, 23:13:41 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
+12.9.2024, 23:13:41 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
+12.9.2024, 23:13:41 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc

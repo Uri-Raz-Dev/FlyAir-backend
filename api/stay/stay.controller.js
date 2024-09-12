@@ -62,9 +62,9 @@ export async function addStay(req, res) {
         console.log('Received stay data:', stay);
 
         // וודא שהנתונים נשלחים בצורה תקינה (כולל שדות חובה)
-        if (!stay.name || !stay.price || !stay.imgUrl || !stay.street) {
-            return res.status(400).send({ err: 'Missing required fields' });
-        }
+        // if (!stay.name || !stay.price || !stay.imgUrl || !stay.street) {
+        //     return res.status(400).send({ err: 'Missing required fields' });
+        // }
 
         // הוספת המשתמש המחובר כשדה host של הנכס
         stay.host = {
