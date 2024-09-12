@@ -2,3 +2,4 @@ node_modules
 logs
 backend.log
 logs/backend.log
+logs/backend.log

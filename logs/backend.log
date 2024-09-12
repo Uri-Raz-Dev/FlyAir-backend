@@ -5764,3 +5764,5 @@
 12.9.2024, 22:16:34 - INFO - Req was made | / | 66db3d6f12177c287fb20efc
 12.9.2024, 22:16:34 - DEBUG - Getting Stays | 66db3d6f12177c287fb20efc
 12.9.2024, 22:16:41 - INFO - Req was made | /listings | 66db3d6f12177c287fb20efc
+12.9.2024, 22:17:04 - INFO - Server is running on port: 3030
+12.9.2024, 22:17:05 - INFO - New connected socket [id: 8i37pHt3vhoAXVqmAAAB]
