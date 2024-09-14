@@ -21,9 +21,7 @@ export const hostService = {
 async function userStayQuery() {
     const store = asyncLocalStorage.getStore()
 
-    if (!store || !store.loggedinUser) {
-        throw new Error('No logged-in user found in the async local storage context.');
-    }
+
 
     const { loggedinUser } = store;
 
@@ -31,18 +29,18 @@ async function userStayQuery() {
         const collection = await dbService.getCollection('stay');
         console.log('collection', collection);
 
-
+        const userId = new ObjectId(loggedinUser._id)
         var hostStays = await collection.aggregate([
 
             {
-                $match: { "host._id": loggedinUser._id }
+                $match: { "host._id": userId },
             },
 
             {
                 $lookup: {
                     from: 'user',
-                    localField: "host.fullname",
-                    foreignField: 'fullname',
+                    localField: "host._id",
+                    foreignField: '_id',
                     as: 'hoststay',
                 },
             },
@@ -51,8 +49,12 @@ async function userStayQuery() {
                 $unwind: '$hoststay'
             },
         ]).toArray();
+        hostStays = hostStays.map(stay => {
+            delete stay.hoststay.password
 
-        console.log('hostStays', hostStays);
+            return stay
+        })
+        // console.log('hostStays', hostStays);
 
         return hostStays;
     } catch (err) {
@@ -60,7 +62,6 @@ async function userStayQuery() {
         throw err;
     }
 }
-
 
 async function query(filterBy) {
     try {

@@ -50,6 +50,9 @@ export async function getStayById(req, res) {
 export async function addStay(req, res) {
     const { loggedinUser } = req;
 
+    console.log('llllloooogggg', loggedinUser);
+
+    console.log('User:', loggedinUser);
     // בדיקה האם המשתמש המחובר קיים
     if (!loggedinUser) {
         return res.status(401).send({ err: 'User not logged in' });
@@ -69,7 +72,7 @@ export async function addStay(req, res) {
         // הוספת המשתמש המחובר כשדה host של הנכס
         stay.host = {
             _id: loggedinUser._id,
-            fullname: loggedinUser.name,
+            fullname: loggedinUser.fullname,
             // imgUrl: loggedinUser.imgUrl
         };
 

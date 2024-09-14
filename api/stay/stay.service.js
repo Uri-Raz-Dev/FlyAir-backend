@@ -54,12 +54,20 @@ async function remove(stayId) {
 
 async function add(stay) {
     try {
-        const collection = await dbService.getCollection('stay')
-        await collection.insertOne(stay)
-        return stay
+        const collection = await dbService.getCollection('stay');
+
+
+        if (stay.host._id && typeof stay.host._id === 'string') {
+            stay.host._id = new ObjectId(stay.host._id);
+        }
+        console.log(stay.host);
+
+        console.log('Inserting stay with host fullname:', stay.host.fullname)
+        await collection.insertOne(stay);
+        return stay;
     } catch (err) {
-        logger.error('cannot insert stay', err)
-        throw err
+        logger.error('cannot insert stay', err);
+        throw err;
     }
 }
 
