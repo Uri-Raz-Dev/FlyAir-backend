@@ -1,13 +1,13 @@
 
 import { logger } from '../../services/logger.service.js'
-import { stayService } from './stay.service.js'
+import { hostService } from './stay.service.js'
 
 export async function getStays(req, res) {
     const filterBy = req.query
     try {
         logger.debug('Getting Stays')
         console.log('filterBy', filterBy)
-        const stays = await stayService.query(filterBy)
+        const stays = await hostService.query(filterBy)
         res.json(stays)
     } catch (err) {
         logger.error('Failed to get stays', err)
@@ -16,11 +16,19 @@ export async function getStays(req, res) {
 }
 
 
-
+export async function getUserStays(req, res) {
+    try {
+        const userStays = await hostService.userStayQuery(req.query)
+        res.send(userStays)
+    } catch (err) {
+        logger.error('Cannot get user stays', err)
+        res.status(500).send({ err: 'Failed to get user stays' })
+    }
+}
 export async function getStayById(req, res) {
     try {
         const stayId = req.params.id
-        const stay = await stayService.getById(stayId)
+        const stay = await hostService.getById(stayId)
         res.json(stay)
     } catch (err) {
         logger.error('Failed to get stay', err)
@@ -34,7 +42,7 @@ export async function getStayById(req, res) {
 //     try {
 //         const stay = req.body
 //         stay.host = loggedinUser
-//         const addedStay = await stayService.add(stay)
+//         const addedStay = await hostService.add(stay)
 
 //         // if (loggedinUser._id && !loggedinUser.isOwner) {
 //         //     loggedinUser.isOwner = true
@@ -50,9 +58,6 @@ export async function getStayById(req, res) {
 export async function addStay(req, res) {
     const { loggedinUser } = req;
 
-    console.log('llllloooogggg', loggedinUser);
-
-    console.log('User:', loggedinUser);
     // בדיקה האם המשתמש המחובר קיים
     if (!loggedinUser) {
         return res.status(401).send({ err: 'User not logged in' });
@@ -65,21 +70,21 @@ export async function addStay(req, res) {
         console.log('Received stay data:', stay);
 
         // וודא שהנתונים נשלחים בצורה תקינה (כולל שדות חובה)
-        // if (!stay.name || !stay.price || !stay.imgUrl || !stay.street) {
-        //     return res.status(400).send({ err: 'Missing required fields' });
-        // }
+        if (!stay.name || !stay.price || !stay.imgUrl || !stay.street) {
+            return res.status(400).send({ err: 'Missing required fields' });
+        }
 
         // הוספת המשתמש המחובר כשדה host של הנכס
         stay.host = {
             _id: loggedinUser._id,
-            fullname: loggedinUser.fullname,
+            fullname: loggedinUser.name,
             // imgUrl: loggedinUser.imgUrl
         };
 
         // לוג נוסף למעקב אחרי הערכים המעודכנים
         console.log('Stay with host:', stay);
 
-        const addedStay = await stayService.add(stay);
+        const addedStay = await hostService.add(stay);
 
         res.json(addedStay);
     } catch (err) {
@@ -93,7 +98,7 @@ export async function addStay(req, res) {
 export async function updateStay(req, res) {
     try {
         const stay = req.body
-        const updatedStay = await stayService.update(stay)
+        const updatedStay = await hostService.update(stay)
         res.json(updatedStay)
     } catch (err) {
         logger.error('Failed to update stay', err)
@@ -105,7 +110,7 @@ export async function updateStay(req, res) {
 export async function removeStay(req, res) {
     try {
         const stayId = req.params.id
-        const removedId = await stayService.remove(stayId)
+        const removedId = await hostService.remove(stayId)
         res.json(removedId)
     } catch (err) {
         logger.error('Failed to remove stay', err)
@@ -122,7 +127,7 @@ export async function addStayReview(req, res) {
             rate: req.body.review.rate,
             by: loggedinUser
         }
-        const addedReview = await stayService.addStayReview(stayId, review)
+        const addedReview = await hostService.addStayReview(stayId, review)
         res.json(addedReview)
     } catch (err) {
         logger.error('Failed to add stay review', err)
@@ -134,7 +139,7 @@ export async function removeStayReview(req, res) {
     try {
         const stayId = req.body.id
         const { reviewId } = req.params
-        const removedReviewId = await stayService.removeStayReview(stayId, reviewId)
+        const removedReviewId = await hostService.removeStayReview(stayId, reviewId)
         res.send(removedReviewId)
     } catch (err) {
         logger.error('Failed to remove stay review', err)
@@ -145,7 +150,7 @@ export async function removeStayReview(req, res) {
 export async function addStayLike(req, res) {
     try {
         const stayId = req.params.id
-        const addedLike = await stayService.addStayLike(stayId)
+        const addedLike = await hostService.addStayLike(stayId)
         res.json(addedLike)
     } catch (err) {
         logger.error('Failed to add stay like', err)
@@ -156,7 +161,7 @@ export async function addStayLike(req, res) {
 export async function removeStayLike(req, res) {
     try {
         const stayId = req.params.id
-        const removedLike = await stayService.removeStayLike(stayId)
+        const removedLike = await hostService.removeStayLike(stayId)
         res.json(removedLike)
     } catch (err) {
         logger.error('Failed to remove stay like', err)

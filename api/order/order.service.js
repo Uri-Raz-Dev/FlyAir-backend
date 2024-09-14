@@ -18,6 +18,8 @@ export const orderService = {
 
 async function query(filterBy = {}) {
     const store = asyncLocalStorage.getStore()
+    console.log(store);
+
     const { loggedinUser } = store
     try {
         const criteria = _buildCriteria(filterBy)
@@ -27,8 +29,8 @@ async function query(filterBy = {}) {
             {
                 $match: {
                     $or: [
-                        { "buyerId": new ObjectId(loggedinUser._id) },
-                        { "hostId": new ObjectId(loggedinUser._id) }
+                        { "buyerId": new new ObjectId(loggedinUser._id) },
+                        { "hostId": new new ObjectId(loggedinUser._id) }
                     ]
                 }
             },

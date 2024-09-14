@@ -3,6 +3,7 @@ import { asyncLocalStorage } from '../services/als.service.js'
 import { logger } from '../services/logger.service.js'
 export function requireAuth(req, res, next) {
     const { loggedinUser } = asyncLocalStorage.getStore()
+    console.log('requireAuth: ', loggedinUser)
     req.loggedinUser = loggedinUser
     console.log('Logged in user:', loggedinUser);
     if (config.isGuestMode && !loggedinUser) {
@@ -16,7 +17,7 @@ export function requireAuth(req, res, next) {
 
 export function requireAdmin(req, res, next) {
     const { loggedinUser } = asyncLocalStorage.getStore()
-
+    console.log('requireAdmin: ', loggedinUser)
     if (!loggedinUser) return res.status(401).send('Not Authenticated')
     if (!loggedinUser.isAdmin) {
         logger.warn(loggedinUser.fullname + 'attempted to perform admin action')
