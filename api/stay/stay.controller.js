@@ -4,6 +4,7 @@ import { stayService } from './stay.service.js'
 
 export async function getStays(req, res) {
     const filterBy = req.query
+    // console.log('filterBy:', filterBy)
     try {
         logger.debug('Getting Stays')
         console.log('filterBy', filterBy)
@@ -77,7 +78,7 @@ export async function addStay(req, res) {
         };
 
         // לוג נוסף למעקב אחרי הערכים המעודכנים
-        console.log('Stay with host:', stay);
+        console.log('Stay with hosthosthosthosthosthost:', stay);
 
         const addedStay = await stayService.add(stay);
 
