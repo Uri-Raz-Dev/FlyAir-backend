@@ -18,82 +18,48 @@ export const orderService = {
 
 async function query(filterBy = {}) {
     const store = asyncLocalStorage.getStore()
-    console.log(store);
-
     const { loggedinUser } = store
-    console.log('filterBy ORDER SERVICEaaaaaaaaaaaa:', filterBy)
-    console.log('loggedinUser ORDER SERVICE:', loggedinUser)
     try {
         const criteria = _buildCriteria(filterBy)
         const collection = await dbService.getCollection('order')
-        // console.log('collection:', collection)
-        var orders = await collection.find(criteria).toArray()
-
-        // var orders = await collection.aggregate([
-        //     {
-        //         $match: {
-        //             $or: [
-        //                 // { "buyerId": new ObjectId(loggedinUser._id) },
-        //                 // { "hostId": new ObjectId(loggedinUser._id) }
-        //                 // { "buyerId": loggedinUser._id },
-        //                 { "hostId": loggedinUser._id }
-        //             ]
-        //         }
-        //     },
-        //     {
-        //         $match: criteria
-        //     },
-        //     {
-        //         $lookup:
-        //         {
-        //             localField: 'buyerId',
-        //             from: 'user',
-        //             foreignField: '_id',
-        //             as: 'buyer'
-        //         }
-        //     },
-        //     {
-        //         $unwind: '$buyer'
-        //     },
-        //     {
-        //         $lookup:
-        //         {
-        //             localField: 'stayId',
-        //             from: 'stay',
-        //             foreignField: '_id',
-        //             as: 'stay'
-        //         }
-        //     },
-        //     {
-        //         $unwind: '$stay'
-        //     }
-        // ]).toArray()
-
-        // var orders = await collection.aggregate([
-        //     {
-        //         $lookup: {
-        //             localField: 'buyerId',
-        //             from: 'user',
-        //             foreignField: '_id',
-        //             as: 'buyer'
-        //         }
-        //     },
-        //     {
-        //         $unwind: '$buyer'
-        //     },
-        //     {
-        //         $lookup: {
-        //             localField: 'stayId',
-        //             from: 'stay',
-        //             foreignField: '_id',
-        //             as: 'stay'
-        //         }
-        //     },
-        //     {
-        //         $unwind: '$stay'
-        //     }
-        // ]).toArray()
-
+        // var orders = await collection.find(criteria).toArray()
+        var orders = await collection.aggregate([
+            {
+                $match: {
+                    $or: [
+                        { "buyerId": new ObjectId(loggedinUser._id) },
+                        { "hostId": new ObjectId(loggedinUser._id) }
+                    ]
+                }
+            },
+            {
+                $match: criteria
+            },
+            {
+                $lookup:
+                {
+                    localField: 'buyerId',
+                    from: 'user',
+                    foreignField: '_id',
+                    as: 'buyer'
+                }
+            },
+            {
+                $unwind: '$buyer'
+            },
+            {
+                $lookup:
+                {
+                    localField: 'stayId',
+                    from: 'stay',
+                    foreignField: '_id',
+                    as: 'stay'
+                }
+            },
+            {
+                $unwind: '$stay'
+            }
+        ]).toArray()
         orders = orders.map(order => {
             order.buyer = { _id: order.buyer._id, fullname: order.buyer.fullname, imgUrl: order.buyer.imgUrl }
             order.createdAt = order._id.getTimestamp()
@@ -101,13 +67,14 @@ async function query(filterBy = {}) {
             delete order.stayId
             return order
         })
-        console.log('orders:', orders)
         return orders
     } catch (err) {
         logger.error('cannot find orders', err)
         throw err
     }
 }
+
+
 
 
 async function add(order) {
@@ -213,8 +180,8 @@ async function getById(orderId) {
 
 function _buildCriteria(filterBy) {
     const criteria = {}
-    if (filterBy.stayId) criteria.stayId = filterBy.stayId
-    // if (filterBy.orderId) criteria._id = new ObjectId(filterBy.orderId)
+    if (filterBy.stayId) criteria.stayId = new ObjectId(filterBy.stayId)
+    if (filterBy.orderId) criteria._id = new ObjectId(filterBy.orderId)
     return criteria
 }
 

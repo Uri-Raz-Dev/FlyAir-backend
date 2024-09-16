@@ -44,7 +44,7 @@ if (process.env.NODE_ENV === 'production') {
 
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
-app.use('/api/order', orderRoutes)
+app.use('/api', orderRoutes)
 app.use('/api/stay', stayRoutes)
 app.use('/api/hosting', hostRoutes)
 

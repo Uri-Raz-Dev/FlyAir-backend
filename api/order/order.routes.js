@@ -1,13 +1,14 @@
 import { log } from '../../middlewares/logger.middleware.js'
 import { requireAuth } from '../../middlewares/requireAuth.middleware.js'
-import { addOrder, addOrderMsg, deleteOrder, getOrders, removeOrderMsg, updateOrder } from './order.controller.js'
+import { addOrder, addOrderMsg, deleteOrder, getOrderById, getOrders, removeOrderMsg, updateOrder } from './order.controller.js'
 import express from 'express'
 
 export const orderRoutes = express.Router()
 
 
 orderRoutes.get('/', log, getOrders)
-orderRoutes.post('/', log, requireAuth, addOrder)
+orderRoutes.get('/book/*', log, getOrderById)
+orderRoutes.post('/book/*', log, requireAuth, addOrder)
 orderRoutes.put('/:id', log, requireAuth, updateOrder)
 orderRoutes.delete('/:id', requireAuth, deleteOrder)
 
