@@ -9,6 +9,5 @@ export const orderRoutes = express.Router()
 orderRoutes.get('/', log, getOrders)
 orderRoutes.put('/:id', log, requireAuth, updateOrder)
 orderRoutes.delete('/:id', requireAuth, deleteOrder)
-
-orderRoutes.post('/:id/msg', requireAuth, addOrderMsg)
+orderRoutes.post('/:id/msg', requireAuth, addOrder)
 orderRoutes.delete('/:id/msg/:msgId', requireAuth, removeOrderMsg)
