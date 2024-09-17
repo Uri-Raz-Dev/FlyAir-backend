@@ -23,7 +23,7 @@ if (!fs.existsSync(logsDir)) fs.mkdirSync(logsDir)
 function doLog(level, ...args) {
     const store = asyncLocalStorage.getStore()
     const userId = store?.loggedinUser?._id
-
+    console.log('store', store)
     const strs = args.map(arg => (typeof arg === 'string' || _isError(arg) ? arg : JSON.stringify(arg)))
 
     if (userId) strs.push(userId)

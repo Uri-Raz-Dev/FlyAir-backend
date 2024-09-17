@@ -4,7 +4,7 @@ import { dbService } from "../../services/db.service.js"
 import { logger } from "../../services/logger.service.js"
 import { utilService } from "../../services/util.service.js"
 
-export const stayService = {
+export const hostService = {
     query,
     getById,
     remove,
@@ -14,8 +14,54 @@ export const stayService = {
     addStayReview,
     removeStayLike,
     removeStayReview,
+    userStayQuery
 }
 
+
+async function userStayQuery() {
+    const store = asyncLocalStorage.getStore()
+
+
+
+    const { loggedinUser } = store;
+
+    try {
+        const collection = await dbService.getCollection('stay');
+        console.log('collection', collection);
+
+        const userId = new ObjectId(loggedinUser._id)
+        var hostStays = await collection.aggregate([
+
+            {
+                $match: { "host._id": userId },
+            },
+
+            {
+                $lookup: {
+                    from: 'user',
+                    localField: "host._id",
+                    foreignField: '_id',
+                    as: 'hoststay',
+                },
+            },
+
+            {
+                $unwind: '$hoststay'
+            },
+        ]).toArray();
+        hostStays = hostStays.map(stay => {
+            delete stay.hoststay.password
+
+            return stay
+        })
+        // console.log('hostStays', hostStays);
+
+        return hostStays;
+    } catch (err) {
+        logger.error('Cannot find host stays', err);
+        throw err;
+    }
+}
 
 async function query(filterBy) {
     try {
@@ -54,20 +100,12 @@ async function remove(stayId) {
 
 async function add(stay) {
     try {
-        const collection = await dbService.getCollection('stay');
-
-
-        if (stay.host._id && typeof stay.host._id === 'string') {
-            stay.host._id = new ObjectId(stay.host._id);
-        }
-        console.log(stay.host);
-
-        console.log('Inserting stay with host fullname:', stay.host.fullname)
-        await collection.insertOne(stay);
-        return stay;
+        const collection = await dbService.getCollection('stay')
+        await collection.insertOne(stay)
+        return stay
     } catch (err) {
-        logger.error('cannot insert stay', err);
-        throw err;
+        logger.error('cannot insert stay', err)
+        throw err
     }
 }
 
@@ -141,12 +179,9 @@ function _buildCriteria(filterBy) {
     if (filterBy.region) {
         criteria.region = { $regex: filterBy.region, $options: 'i' }
     }
-    if (filterBy.label) {
-        criteria.type = { $regex: filterBy.label, $options: 'i' }
+    if (filterBy.labels && filterBy.labels.length > 0) {
+        criteria.labels = { $regex: filterBy.labels[0], $options: 'i' }
     }
-    // if (filterBy.labels && filterBy.labels.length > 0) {
-    //     criteria.labels = { $regex: filterBy.labels[0], $options: 'i' }
-    // }
     if (filterBy.startDate && filterBy.endDate) {
         criteria.startDate = { $gte: filterBy.startDate }
         criteria.endDate = { $lte: filterBy.endDate }
@@ -157,8 +192,6 @@ function _buildCriteria(filterBy) {
     //     criteria.guests.infants = { $eq: filterBy.guests.infants }
     //     criteria.guests.pets = { $eq: filterBy.guests.pets }
     // }
-    // console.log( criteria.guests.adults);
-    
     return criteria
 }
 
