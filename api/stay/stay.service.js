@@ -141,9 +141,12 @@ function _buildCriteria(filterBy) {
     if (filterBy.region) {
         criteria.region = { $regex: filterBy.region, $options: 'i' }
     }
-    if (filterBy.labels && filterBy.labels.length > 0) {
-        criteria.labels = { $regex: filterBy.labels[0], $options: 'i' }
+    if (filterBy.label) {
+        criteria.type = { $regex: filterBy.label, $options: 'i' }
     }
+    // if (filterBy.labels && filterBy.labels.length > 0) {
+    //     criteria.labels = { $regex: filterBy.labels[0], $options: 'i' }
+    // }
     if (filterBy.startDate && filterBy.endDate) {
         criteria.startDate = { $gte: filterBy.startDate }
         criteria.endDate = { $lte: filterBy.endDate }
@@ -154,6 +157,8 @@ function _buildCriteria(filterBy) {
     //     criteria.guests.infants = { $eq: filterBy.guests.infants }
     //     criteria.guests.pets = { $eq: filterBy.guests.pets }
     // }
+    // console.log( criteria.guests.adults);
+    
     return criteria
 }
 
