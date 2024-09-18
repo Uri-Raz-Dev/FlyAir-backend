@@ -18,7 +18,7 @@ async function getCollection(collectionName) {
 		throw err
 	}
 }
-
+//test2
 async function _connect() {
 	if (dbConn) return dbConn
 	try {

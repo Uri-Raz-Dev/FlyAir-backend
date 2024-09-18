@@ -33,15 +33,15 @@ async function query(filterBy = {}) {
 async function getById(userId) {
 	try {
 		const collection = await dbService.getCollection('user')
-		const user = await collection.findOne({ _id: new ObjectId.createFromHexString(userId) })
+		const user = await collection.findOne({ _id: new ObjectId(userId) })
 		delete user.password
-		criteria = { byUserId: userId }
+		// const criteria = { byUserId: userId }
 
-		user.givenReviews = await reviewService.query(criteria)
-		user.givenReviews = user.givenReviews.map(review => {
-			delete review.byUser
-			return review
-		})
+		// user.givenReviews = await reviewService.query(criteria)
+		// user.givenReviews = user.givenReviews.map(review => {
+		// 	delete review.byUser
+		// 	return review //TODO add reviews
+		// })
 		return user
 	} catch (err) {
 		logger.error(`while finding user ${userId}`, err)
@@ -62,7 +62,7 @@ async function getByUsername(username) {
 async function remove(userId) {
 	try {
 		const collection = await dbService.getCollection('user')
-		await collection.deleteOne({ _id: new ObjectId.createFromHexString(userId) })
+		await collection.deleteOne({ _id: new ObjectId(userId) })
 	} catch (err) {
 		logger.error(`cannot remove user ${userId}`, err)
 		throw err
@@ -73,7 +73,7 @@ async function update(user) {
 	try {
 		// peek only updatable fields!
 		const userToSave = {
-			_id: new ObjectId.createFromHexString(user._id),
+			_id: new ObjectId(user._id),
 			username: user.username,
 			fullname: user.fullname,
 			password: user.password,

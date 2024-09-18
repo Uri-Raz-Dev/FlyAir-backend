@@ -18,6 +18,17 @@ export async function getOrders(req, res) {
     }
 }
 
+export async function getOrderById(req, res) {
+    try {
+        const orderId = req.params.id
+        const order = await orderService.getById(orderId)
+        res.json(order)
+    } catch (err) {
+        logger.error('Failed to get order', err)
+        res.status(500).send({ err: 'Failed to get order' })
+    }
+}
+
 export async function addOrder(req, res) {
     const store = asyncLocalStorage.getStore()
     const { loggedinUser } = store

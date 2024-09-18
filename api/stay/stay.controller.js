@@ -51,10 +51,7 @@ export async function getStayById(req, res) {
 export async function addStay(req, res) {
     const { loggedinUser } = req;
 
-    console.log('llllloooogggg', loggedinUser);
 
-    console.log('User:', loggedinUser);
-    // בדיקה האם המשתמש המחובר קיים
     if (!loggedinUser) {
         return res.status(401).send({ err: 'User not logged in' });
     }
@@ -63,7 +60,6 @@ export async function addStay(req, res) {
         const stay = req.body;
 
         // לוגים כדי לעקוב אחר הערכים שנשלחים לשרת
-        console.log('Received stay data:', stay);
 
         // וודא שהנתונים נשלחים בצורה תקינה (כולל שדות חובה)
         // if (!stay.name || !stay.price || !stay.imgUrl || !stay.street) {
@@ -78,7 +74,6 @@ export async function addStay(req, res) {
         };
 
         // לוג נוסף למעקב אחרי הערכים המעודכנים
-        console.log('Stay with hosthosthosthosthosthost:', stay);
 
         const addedStay = await stayService.add(stay);
 
