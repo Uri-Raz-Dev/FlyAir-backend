@@ -8165,3 +8165,53 @@
 18.9.2024, 20:56:24 - INFO - New connected socket [id: X7G8OdHqvdu03DIxAAAB]
 18.9.2024, 20:56:56 - INFO - Server is running on port: 3030
 18.9.2024, 20:56:57 - INFO - New connected socket [id: sskKlAFoGJgriGmOAAAB]
+18.9.2024, 20:58:27 - INFO - Socket disconnected [id: undefined]
+18.9.2024, 20:58:28 - INFO - New connected socket [id: ZGJ0HsUxXFLg2HbGAAAD]
+18.9.2024, 20:58:28 - INFO - Req was made | /
+18.9.2024, 20:58:28 - DEBUG - Getting Stays
+18.9.2024, 20:58:44 - INFO - Server is running on port: 3030
+18.9.2024, 20:58:44 - INFO - New connected socket [id: zUu4NpWLKUlHZbf4AAAB]
+18.9.2024, 20:58:48 - INFO - Socket disconnected [id: undefined]
+18.9.2024, 20:58:48 - INFO - New connected socket [id: p51A_BoHVzPZcCLLAAAD]
+18.9.2024, 20:58:48 - INFO - Req was made | /
+18.9.2024, 20:58:48 - DEBUG - Getting Stays
+18.9.2024, 20:58:51 - DEBUG - Getting Stays
+18.9.2024, 20:58:51 - INFO - Req was made | /
+18.9.2024, 20:58:53 - INFO - Req was made | /
+18.9.2024, 20:58:53 - DEBUG - Getting Stays
+18.9.2024, 20:58:54 - DEBUG - Getting Stays
+18.9.2024, 20:58:54 - INFO - Req was made | /
+18.9.2024, 20:58:59 - INFO - Req was made | /
+18.9.2024, 20:58:59 - DEBUG - Getting Stays
+18.9.2024, 20:58:59 - INFO - Req was made | /
+18.9.2024, 20:58:59 - DEBUG - Getting Stays
+18.9.2024, 20:59:00 - INFO - Req was made | /
+18.9.2024, 20:59:00 - DEBUG - Getting Stays
+18.9.2024, 20:59:01 - INFO - Req was made | /
+18.9.2024, 20:59:01 - DEBUG - Getting Stays
+18.9.2024, 20:59:01 - INFO - Req was made | /
+18.9.2024, 20:59:01 - DEBUG - Getting Stays
+18.9.2024, 20:59:02 - DEBUG - Getting Stays
+18.9.2024, 20:59:02 - INFO - Req was made | /
+18.9.2024, 20:59:02 - INFO - Req was made | /
+18.9.2024, 20:59:02 - DEBUG - Getting Stays
+18.9.2024, 20:59:03 - INFO - Req was made | /
+18.9.2024, 20:59:03 - DEBUG - Getting Stays
+18.9.2024, 20:59:04 - INFO - Req was made | /
+18.9.2024, 20:59:04 - DEBUG - Getting Stays
+18.9.2024, 21:09:30 - INFO - Socket disconnected [id: undefined]
+18.9.2024, 21:54:40 - INFO - New connected socket [id: yD3D7eeYU-xoFc7fAAAF]
+18.9.2024, 21:54:41 - INFO - Socket disconnected [id: undefined]
+18.9.2024, 21:54:42 - INFO - New connected socket [id: _NG0BjYF7ZiTt32-AAAH]
+18.9.2024, 21:54:42 - INFO - Req was made | /
+18.9.2024, 21:54:42 - DEBUG - Getting Stays
+18.9.2024, 21:55:07 - INFO - Socket disconnected [id: undefined]
+18.9.2024, 21:55:07 - INFO - New connected socket [id: Fg6k6nLhFWzRvsSKAAAJ]
+18.9.2024, 21:55:07 - INFO - Req was made | /
+18.9.2024, 21:55:07 - DEBUG - Getting Stays
+18.9.2024, 21:55:12 - ERROR - cannot find stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net
+18.9.2024, 21:55:12 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net
+18.9.2024, 21:55:37 - ERROR - cannot find stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net
+18.9.2024, 21:55:37 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net
+18.9.2024, 21:55:43 - DEBUG - Getting Stays
+18.9.2024, 21:55:43 - INFO - Req was made | /
