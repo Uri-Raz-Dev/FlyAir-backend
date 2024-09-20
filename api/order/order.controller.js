@@ -72,8 +72,20 @@ export async function updateOrder(req, res) {
         }
         console.log('other party:' + otherPartyId)
         console.log('loggedinUser:' + loggedinUser._id)
-        socketService.emitToUser({ type: 'order-status-update', data: updatedOrder, userId: otherPartyId })
+        socketService.emitToUser({
+            type: 'order-status-update',
+            data: updatedOrder,
+            userId: otherPartyId
+        });
 
+        // Check if the order is approved and emit reservation-approved event
+        if (updatedOrder.status === 'Approved') {
+            socketService.emitToUser({
+                type: 'reservation-approved',
+                data: updatedOrder,
+                userId: updatedOrder.buyerId
+            });
+        }
         res.json(updatedOrder)
     } catch (err) {
         logger.error('Failed to update order', err)
