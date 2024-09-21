@@ -45,8 +45,8 @@ export async function addOrder(req, res) {
         delete order.buyerId
         delete order.stayId
 
-        socketService.emitToUser({ type: 'order-for-you', data: order, userId: order.hostId })
-
+        socketService.emitToUser({ type: 'new-order', data: order, userId: order.hostId })
+        console.log('order.hostId', order.hostId)
         const fullUser = await userService.getById(loggedinUser._id)
         res.json(order)
     } catch (err) {

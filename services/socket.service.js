@@ -51,6 +51,11 @@ export function setupSocketAPI(http) {
         })
 
 
+        socket.on('new-order', userId => {
+            logger.info(`user-unwatch from socket [id: ${socket.id}], on user ${userId}`)
+            socket.leave('watching:' + userId)
+        })
+
         //LOGIN-LOGOUT
         socket.on('set-user-socket', userId => {
             logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
