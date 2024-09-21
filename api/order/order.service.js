@@ -17,49 +17,32 @@ export const orderService = {
 }
 
 async function query(filterBy = {}) {
-    const store = asyncLocalStorage.getStore()
-    const { loggedinUser } = store
     try {
         const criteria = _buildCriteria(filterBy)
         const collection = await dbService.getCollection('order')
-        // var orders = await collection.find(criteria).toArray()
+
         var orders = await collection.aggregate([
+            { $match: criteria },
             {
-                $match: {
-                    $or: [
-                        { "buyerId": new ObjectId(loggedinUser._id) },
-                        { "hostId": new ObjectId(loggedinUser._id) }
-                    ]
-                }
-            },
-            {
-                $match: criteria
-            },
-            {
-                $lookup:
-                {
+                $lookup: {
                     localField: 'buyerId',
                     from: 'user',
                     foreignField: '_id',
                     as: 'buyer'
                 }
             },
+            { $unwind: '$buyer' },
             {
-                $unwind: '$buyer'
-            },
-            {
-                $lookup:
-                {
+                $lookup: {
                     localField: 'stayId',
                     from: 'stay',
                     foreignField: '_id',
                     as: 'stay'
                 }
             },
-            {
-                $unwind: '$stay'
-            }
+            { $unwind: '$stay' }
         ]).toArray()
+
         orders = orders.map(order => {
             order.buyer = { _id: order.buyer._id, fullname: order.buyer.fullname, imgUrl: order.buyer.imgUrl }
             order.createdAt = order._id.getTimestamp()
@@ -67,14 +50,13 @@ async function query(filterBy = {}) {
             delete order.stayId
             return order
         })
+
         return orders
     } catch (err) {
         logger.error('cannot find orders', err)
         throw err
     }
 }
-
-
 
 
 async function add(order) {
