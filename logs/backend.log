@@ -8215,3 +8215,2127 @@
 18.9.2024, 21:55:37 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net
 18.9.2024, 21:55:43 - DEBUG - Getting Stays
 18.9.2024, 21:55:43 - INFO - Req was made | /
+20.9.2024, 19:36:00 - INFO - Server is running on port: 3030
+20.9.2024, 19:36:02 - INFO - New connected socket [id: MMpgzxdBev4A_fTkAAAB]
+20.9.2024, 19:36:07 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 19:36:08 - INFO - New connected socket [id: YPeRmyH2i8jr4rTsAAAD]
+20.9.2024, 19:36:08 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 19:36:08 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 19:36:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 19:36:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 19:36:28 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 19:36:28 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 19:44:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 19:44:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 19:52:35 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 19:52:35 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 20:41:02 - INFO - Server is running on port: 3030
+20.9.2024, 20:41:03 - INFO - New connected socket [id: rl6qMZH2dO1p07wBAAAB]
+20.9.2024, 20:41:08 - INFO - Server is running on port: 3030
+20.9.2024, 20:41:10 - INFO - New connected socket [id: 0Ef4GaS4heinyGzPAAAB]
+20.9.2024, 20:45:00 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 20:45:01 - INFO - New connected socket [id: Y9eTAw81x3WKuv0-AAAD]
+20.9.2024, 20:45:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 20:45:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 20:45:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 20:45:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:06:57 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 21:06:57 - INFO - New connected socket [id: RaEWDuIPtqZleZWDAAAF]
+20.9.2024, 21:06:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:06:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:06:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:06:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:08:29 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:08:29 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:08:36 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:08:36 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:08:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:08:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:08:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:08:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:08:46 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:08:46 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:08:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:08:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:08:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:08:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:07 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:07 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:11 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:11 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:30 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:30 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:33 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:33 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:34 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:34 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:09:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:10:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:10:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:10:05 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:10:05 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:10:08 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:10:08 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:10:19 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:10:19 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:10:21 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:10:21 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:10:30 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 21:10:31 - INFO - New connected socket [id: ynz-uIqaDvdeODoyAAAH]
+20.9.2024, 21:10:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:10:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:10:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:10:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:36:19 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 21:38:02 - INFO - New connected socket [id: ze2fPx6ok02VskFDAAAJ]
+20.9.2024, 21:38:24 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 21:38:25 - INFO - New connected socket [id: _JV5a88sCrIJZkGVAAAL]
+20.9.2024, 21:38:32 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:38:32 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:38:32 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:38:32 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:38:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:38:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:38:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:38:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:39:12 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 21:39:12 - INFO - New connected socket [id: ew-tQ3QG4RKl5xP7AAAN]
+20.9.2024, 21:39:12 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:39:12 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:39:13 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:39:13 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:39:28 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 21:39:40 - INFO - Server is running on port: 3030
+20.9.2024, 21:39:52 - INFO - New connected socket [id: 8ODltDJmK_-CIr22AAAB]
+20.9.2024, 21:39:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:39:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:39:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:39:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:41:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:41:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:41:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:41:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:46:44 - INFO - Server is running on port: 3030
+20.9.2024, 21:46:45 - INFO - New connected socket [id: RZZY55QeS9lbcDOkAAAB]
+20.9.2024, 21:49:58 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 21:49:58 - INFO - New connected socket [id: N2Udph59Ijq6HRINAAAD]
+20.9.2024, 21:49:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:49:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:50:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:50:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 21:55:45 - INFO - Server is running on port: 3030
+20.9.2024, 21:55:46 - INFO - New connected socket [id: ZF1-VRPXJS9e2X9uAAAB]
+20.9.2024, 21:57:51 - INFO - Server is running on port: 3030
+20.9.2024, 21:57:53 - INFO - New connected socket [id: Ulvf74hYzv6sJi_kAAAB]
+20.9.2024, 21:58:36 - INFO - Server is running on port: 3030
+20.9.2024, 21:58:37 - INFO - New connected socket [id: zd8-ALj4ITAINLdCAAAB]
+20.9.2024, 22:02:39 - INFO - Server is running on port: 3030
+20.9.2024, 22:02:41 - INFO - New connected socket [id: knD53MEyOZnPbet-AAAB]
+20.9.2024, 22:02:45 - INFO - Server is running on port: 3030
+20.9.2024, 22:02:46 - INFO - New connected socket [id: 72F0TAuOGof1EvGkAAAB]
+20.9.2024, 22:04:28 - INFO - Server is running on port: 3030
+20.9.2024, 22:04:30 - INFO - New connected socket [id: x7oEf6erD_He0IPDAAAB]
+20.9.2024, 22:07:11 - INFO - Server is running on port: 3030
+20.9.2024, 22:07:13 - INFO - New connected socket [id: zxp8w-NDtUmtfQEUAAAB]
+20.9.2024, 22:08:02 - INFO - New connected socket [id: Y0pOhUQ_aIaJqO6dAAAD]
+20.9.2024, 22:08:02 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 22:08:02 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 22:08:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 22:08:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 22:08:10 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 22:22:28 - INFO - Server is running on port: 3030
+20.9.2024, 22:22:29 - INFO - New connected socket [id: 0uu9oc96uQFPRLA_AAAB]
+20.9.2024, 22:31:57 - INFO - Server is running on port: 3030
+20.9.2024, 22:31:58 - INFO - New connected socket [id: 0_zLTgGoq6yUU85dAAAB]
+20.9.2024, 22:40:00 - INFO - Server is running on port: 3030
+20.9.2024, 22:40:01 - INFO - New connected socket [id: MGSzSW1L-ll3mX7PAAAB]
+20.9.2024, 22:43:44 - INFO - Server is running on port: 3030
+20.9.2024, 22:43:45 - INFO - New connected socket [id: UEYeaLYiIKpr40kSAAAB]
+20.9.2024, 22:43:46 - INFO - Server is running on port: 3030
+20.9.2024, 22:43:47 - INFO - New connected socket [id: 3YMeVS0PsrzHqIfjAAAB]
+20.9.2024, 22:53:47 - INFO - Server is running on port: 3030
+20.9.2024, 22:53:48 - INFO - New connected socket [id: TjC2k8fUdA5pstT2AAAB]
+20.9.2024, 22:57:13 - INFO - Server is running on port: 3030
+20.9.2024, 22:57:15 - INFO - New connected socket [id: wC3YAh4469GOaqfFAAAB]
+20.9.2024, 22:59:30 - INFO - Server is running on port: 3030
+20.9.2024, 22:59:32 - INFO - New connected socket [id: zvkB1K_moVHyB-vYAAAB]
+20.9.2024, 23:00:18 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 23:00:18 - INFO - New connected socket [id: n_5Z57RvtLvj6g2bAAAD]
+20.9.2024, 23:00:26 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 23:00:26 - INFO - New connected socket [id: t-VIldt3EP4wuzKBAAAF]
+20.9.2024, 23:00:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:00:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:00:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:00:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:01:04 - ERROR - Failed to get stay | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:01:04 - ERROR - while finding stay 4 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:01:58 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 23:01:58 - INFO - New connected socket [id: vBQHtzuWn7_xqSidAAAH]
+20.9.2024, 23:01:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:01:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:01:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:01:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:02:24 - ERROR - Failed to get stay | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:02:24 - ERROR - while finding stay 2 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:02:35 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:02:35 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:02:35 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:02:35 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:02:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:02:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:02:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:02:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:11 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:11 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:11 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:11 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:17 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:17 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:17 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:17 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:25 - ERROR - while finding stay 30 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:25 - ERROR - Failed to get stay | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:40 - ERROR - while finding stay 4 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:40 - ERROR - Failed to get stay | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:44 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:44 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:44 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:44 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:48 - ERROR - while finding stay 5 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:48 - ERROR - Failed to get stay | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:54 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 23:03:54 - INFO - New connected socket [id: nMUXFP9-714oaApgAAAJ]
+20.9.2024, 23:03:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:55 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:03:55 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:06 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:06 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:19 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:19 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:20 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:20 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:29 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:29 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:33 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:33 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:44 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:44 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:04:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:11 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:11 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:17 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:17 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:17 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:17 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:20 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:20 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:21 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:21 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:22 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:05:22 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:06:37 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:06:37 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:06:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:06:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:06:44 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:06:44 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:06:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:06:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:06:48 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 23:06:48 - INFO - New connected socket [id: g8ZFrej8mRhOr_nCAAAL]
+20.9.2024, 23:06:48 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:06:48 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:06:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:06:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:08:00 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 23:08:01 - INFO - New connected socket [id: Jj5AwcBBYHnCwk_hAAAN]
+20.9.2024, 23:08:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:08:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:08:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:08:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:10:45 - INFO - Server is running on port: 3030
+20.9.2024, 23:10:45 - INFO - New connected socket [id: oCFpEIV7SL5tIbomAAAB]
+20.9.2024, 23:10:52 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 23:10:52 - INFO - New connected socket [id: MyGGENCUl6F1pfAtAAAD]
+20.9.2024, 23:10:52 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:10:52 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:10:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:10:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:16:53 - INFO - Server is running on port: 3030
+20.9.2024, 23:16:55 - INFO - New connected socket [id: kKfonlI7TmLEIirvAAAB]
+20.9.2024, 23:17:13 - INFO - Server is running on port: 3030
+20.9.2024, 23:17:14 - INFO - New connected socket [id: k_Av1WY4SWlmfbmoAAAB]
+20.9.2024, 23:19:31 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 23:19:32 - INFO - New connected socket [id: tLGqKxTXvDvD6MBEAAAD]
+20.9.2024, 23:19:32 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:19:32 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:19:33 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:19:33 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:26:05 - INFO - Server is running on port: 3030
+20.9.2024, 23:26:06 - INFO - New connected socket [id: RlqZ5zX3D8fJQm1CAAAB]
+20.9.2024, 23:29:39 - INFO - Server is running on port: 3030
+20.9.2024, 23:29:40 - INFO - New connected socket [id: sJ47shz41JW-A62OAAAB]
+20.9.2024, 23:31:11 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 23:31:12 - INFO - New connected socket [id: 092zOxp3bahO-wXkAAAD]
+20.9.2024, 23:31:12 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:31:12 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:31:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:31:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:32:05 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:32:05 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:32:08 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:32:08 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:04 - INFO - Server is running on port: 3030
+20.9.2024, 23:33:06 - INFO - New connected socket [id: alwNva7lBNFSJazIAAAB]
+20.9.2024, 23:33:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:18 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:18 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:25 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:25 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:29 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:29 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:30 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:30 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:32 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:32 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:37 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:37 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:43 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:33:43 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:34:11 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:34:11 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:34:18 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:34:18 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:34:21 - INFO - Socket disconnected [id: undefined]
+20.9.2024, 23:34:21 - INFO - New connected socket [id: l2uY5acm3p-oDXCAAAAD]
+20.9.2024, 23:34:22 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:34:22 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:34:22 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:34:22 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:34:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:34:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:37:12 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:37:12 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:37:13 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:37:13 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:37:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:37:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:37:41 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:37:41 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:37:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:37:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:37:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:37:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:40:59 - INFO - Server is running on port: 3030
+20.9.2024, 23:41:01 - INFO - New connected socket [id: 7noHGtHAdaGRFiPnAAAB]
+20.9.2024, 23:46:44 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:46:44 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:46:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:46:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+20.9.2024, 23:53:55 - INFO - Server is running on port: 3030
+20.9.2024, 23:53:56 - INFO - New connected socket [id: NeGTqmIjop4vfZKxAAAB]
+20.9.2024, 23:56:34 - INFO - Server is running on port: 3030
+20.9.2024, 23:56:35 - INFO - New connected socket [id: FGz-t-VTi-N-Z3BWAAAB]
+20.9.2024, 23:58:15 - INFO - Server is running on port: 3030
+20.9.2024, 23:58:16 - INFO - New connected socket [id: 8vnLvhWEm_c3NO79AAAB]
+21.9.2024, 0:00:05 - INFO - Server is running on port: 3030
+21.9.2024, 0:00:07 - INFO - New connected socket [id: Tc-hqjajR8OhUstOAAAB]
+21.9.2024, 0:02:00 - INFO - Server is running on port: 3030
+21.9.2024, 0:02:02 - INFO - New connected socket [id: Pb9oasU2188MWHq0AAAB]
+21.9.2024, 0:03:51 - INFO - Server is running on port: 3030
+21.9.2024, 0:03:52 - INFO - New connected socket [id: bDW99NGrODVykFOZAAAB]
+21.9.2024, 0:05:29 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 0:05:30 - INFO - New connected socket [id: 7jcdTxVmGkHC3MEvAAAD]
+21.9.2024, 0:05:30 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:05:30 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:05:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:05:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:06:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:06:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:06:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:06:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:09:52 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:09:52 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:09:52 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:09:52 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:10:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:10:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:10:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:10:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:10:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:10:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:10:05 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:10:05 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:10:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:10:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:10:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:10:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:12:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:12:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:12:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:12:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:12:51 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:12:51 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:12:51 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:12:51 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:17:41 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 0:17:42 - INFO - New connected socket [id: wiEufzKj7zF_PnEbAAAF]
+21.9.2024, 0:17:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:17:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:17:43 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:17:43 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:19:52 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:19:52 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:19:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:19:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:25 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:25 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:29 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:29 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:36 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:36 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:20:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:21:07 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:21:07 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:21:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:21:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:21:13 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:21:13 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:21:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:21:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:21:29 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:21:29 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:22:03 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 0:22:03 - INFO - New connected socket [id: BF4aabjtx7QVsQeOAAAH]
+21.9.2024, 0:22:04 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:22:04 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:22:04 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:22:04 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:22:09 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:22:09 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:27:06 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 0:27:06 - INFO - New connected socket [id: jubkNazsjAy2403tAAAJ]
+21.9.2024, 0:27:07 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:27:07 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:27:07 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:27:07 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:32:45 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 0:50:13 - INFO - New connected socket [id: IuLSTOESZ7PCg93JAAAL]
+21.9.2024, 0:50:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:50:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:50:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:50:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:50:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:50:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:15 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 0:51:15 - INFO - New connected socket [id: zgeCPrk_XqO_LGF8AAAN]
+21.9.2024, 0:51:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:16 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:16 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:21 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 0:51:21 - INFO - New connected socket [id: vatI9OK_FP3EN9hsAAAP]
+21.9.2024, 0:51:21 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:21 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:22 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:22 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:32 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:32 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:39 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 0:51:40 - INFO - New connected socket [id: Zd3q8BWtOQHNCQ7tAAAR]
+21.9.2024, 0:51:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:51:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:52:23 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:52:23 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:52:24 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:52:24 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:52:25 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:52:25 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:53:30 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:53:30 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:53:37 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 0:53:38 - INFO - New connected socket [id: z6Sgb2UhFCXE4a8JAAAT]
+21.9.2024, 0:53:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:53:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:53:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:53:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:53:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:53:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:54:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:54:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:54:16 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 0:54:16 - INFO - New connected socket [id: WcipIgj6iaPgFqcjAAAV]
+21.9.2024, 0:54:16 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:54:16 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:54:17 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:54:17 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:54:24 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:54:24 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:57:32 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:57:32 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:57:40 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 0:57:41 - INFO - New connected socket [id: dTjkm_cjxc8fUHufAAAX]
+21.9.2024, 0:57:41 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:57:41 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:57:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:57:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:57:51 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:57:51 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:58:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:58:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:58:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 0:58:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:03:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:03:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:05:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:05:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:06:24 - INFO - Server is running on port: 3030
+21.9.2024, 1:06:26 - INFO - New connected socket [id: 35-t7rQhOLMHxpveAAAB]
+21.9.2024, 1:06:37 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 1:06:39 - INFO - New connected socket [id: UI5uAItGsALt9wWyAAAD]
+21.9.2024, 1:06:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:06:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:06:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:06:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:09:45 - INFO - New connected socket [id: i5hwG4UChIjCcguNAAAF]
+21.9.2024, 1:09:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:09:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:09:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:09:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:09:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:09:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:02 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:02 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:02 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:02 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:02 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:02 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:02 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:02 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:04 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:04 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:04 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:04 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:09 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:09 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:09 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:09 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:12 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:12 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:12 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:10:12 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:11:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:11:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:11:01 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:11:01 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:11:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:11:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:11:03 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:11:03 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:11:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:11:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:11:40 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:11:40 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:13:29 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 1:13:30 - INFO - New connected socket [id: iXoYi8y0ZBRP7D51AAAH]
+21.9.2024, 1:13:30 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:13:30 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:13:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:13:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:16:21 - INFO - Server is running on port: 3030
+21.9.2024, 1:16:22 - INFO - New connected socket [id: Nia6U2cGBjdofh0tAAAC]
+21.9.2024, 1:16:22 - INFO - New connected socket [id: N79zbzC-sK9Cr6RIAAAD]
+21.9.2024, 1:16:36 - INFO - Server is running on port: 3030
+21.9.2024, 1:16:36 - INFO - New connected socket [id: 1-g4mr4bRoqdBBmNAAAC]
+21.9.2024, 1:16:36 - INFO - New connected socket [id: JiqxNCnB9ErpV5R9AAAD]
+21.9.2024, 1:16:46 - INFO - New connected socket [id: MK6aLXp-twunii92AAAF]
+21.9.2024, 1:16:46 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:16:46 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:16:48 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:16:48 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:17:13 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:17:13 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:17:25 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:17:25 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:17:25 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:17:25 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:19:18 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:19:18 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:19:18 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:19:18 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:19:18 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:19:18 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:19:18 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:19:18 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:19:20 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:19:20 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:19:20 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:19:20 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:19:42 - INFO - Server is running on port: 3030
+21.9.2024, 1:19:43 - INFO - New connected socket [id: WrpBPUyQDqQ43QwfAAAE]
+21.9.2024, 1:19:43 - INFO - New connected socket [id: awOHTzOTfbiNaLyhAAAD]
+21.9.2024, 1:19:43 - INFO - New connected socket [id: nGOAMDlT_o0m0SltAAAF]
+21.9.2024, 1:26:33 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 1:27:22 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:27:22 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:27:23 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:27:23 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:27:29 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 1:27:29 - INFO - New connected socket [id: 9sH4INioyaOPnEpQAAAH]
+21.9.2024, 1:27:30 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:27:30 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:27:30 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:27:30 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:27:41 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:27:41 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:29:37 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:29:37 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:29:44 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 1:29:44 - INFO - New connected socket [id: LO7XCAL9qj_ujQLHAAAJ]
+21.9.2024, 1:29:44 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:29:44 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:29:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:29:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:29:55 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:29:55 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:31:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:31:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:32:13 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 1:32:14 - INFO - New connected socket [id: 5LbCRMm_E38jMroeAAAL]
+21.9.2024, 1:32:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:32:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:32:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:32:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:32:29 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:32:29 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 1:55:15 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 1:55:15 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:02:17 - INFO - New connected socket [id: wWROIzI6kw3FgLRsAAAO]
+21.9.2024, 9:02:17 - INFO - New connected socket [id: Z7BoeHQlyfOGCgxxAAAP]
+21.9.2024, 9:16:06 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:16:07 - INFO - New connected socket [id: 0XK2MfoGOw70Os2KAAAR]
+21.9.2024, 9:16:08 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:16:08 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:16:16 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:16:17 - INFO - New connected socket [id: jzTZ9d4guM_TxbP7AAAT]
+21.9.2024, 9:16:17 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:16:17 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:16:23 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:16:23 - INFO - New connected socket [id: q8nZPdVNd8FQu2CkAAAV]
+21.9.2024, 9:16:31 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:16:34 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:16:35 - INFO - New connected socket [id: lVPHQ5t3Bk67zAfcAAAX]
+21.9.2024, 9:16:35 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:16:35 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:16:38 - ERROR - cannot find stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:16:38 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:16:47 - ERROR - cannot find stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:16:47 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:16:56 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:16:56 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:17:05 - ERROR - cannot find stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:17:05 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:17:48 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:17:48 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:25:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:25:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:25:09 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:25:10 - INFO - New connected socket [id: pppb9Kw8slV7YSPcAAAZ]
+21.9.2024, 9:25:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:25:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:25:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:25:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:25:21 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:25:21 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:02 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:02 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:02 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:02 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:03 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:03 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:07 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:07 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:07 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:07 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:19 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:19 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:20 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:20 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:24 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:24 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:24 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:26:24 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:29:13 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:29:13 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:29:13 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:29:13 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:29:20 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:29:20 - INFO - New connected socket [id: TNEQqAa9ypIdWCNuAAAb]
+21.9.2024, 9:29:20 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:29:20 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:29:21 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:29:21 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:29:33 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:29:33 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:05 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:05 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:05 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:05 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:06 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:06 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:06 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:06 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:08 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:08 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:08 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:08 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:15 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:15 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:18 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:18 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:18 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:18 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:28 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:28 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:28 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:30:28 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:13 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:33:14 - INFO - New connected socket [id: gnSZOIvd6tj6fCJrAAAd]
+21.9.2024, 9:33:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:33 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:33 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:33 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:33 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:36 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:36 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:36 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:36 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:40 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:40 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:45 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:45 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:45 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:45 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:46 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:46 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:46 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:33:46 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:29 - INFO - Server is running on port: 3030
+21.9.2024, 9:36:29 - INFO - New connected socket [id: fQl4l6nzVoIC9x-5AAAB]
+21.9.2024, 9:36:31 - INFO - New connected socket [id: Le1a5ttSnLe1dUG-AAAD]
+21.9.2024, 9:36:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:32 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:36:32 - INFO - New connected socket [id: Qkm7akD7Jwrig4d4AAAF]
+21.9.2024, 9:36:32 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:32 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:33 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:33 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:44 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:44 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:48 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:48 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:55 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:36:55 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:37:11 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:37:11 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:37:12 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:37:12 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:37:25 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:37:25 - INFO - New connected socket [id: KUggVc3UnsVzzx8RAAAH]
+21.9.2024, 9:37:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:37:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:37:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:37:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:37:39 - INFO - Server is running on port: 3030
+21.9.2024, 9:37:40 - INFO - New connected socket [id: dgRrDk9EZIHYnmNbAAAC]
+21.9.2024, 9:37:40 - INFO - New connected socket [id: HppkMjSaqAddBww4AAAD]
+21.9.2024, 9:40:28 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:40:28 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:02 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:41:03 - INFO - New connected socket [id: pg_CKAnYWUj-bw1_AAAF]
+21.9.2024, 9:41:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:09 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:09 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:14 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:14 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:15 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:15 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:19 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:19 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:19 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:19 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:23 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:23 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:23 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:23 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:26 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:26 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:26 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:26 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:27 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:41:27 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:42:09 - INFO - Server is running on port: 3030
+21.9.2024, 9:42:09 - INFO - New connected socket [id: NQEp4uqROs4uJavbAAAC]
+21.9.2024, 9:42:09 - INFO - New connected socket [id: PsnQ501Se89U-L8NAAAD]
+21.9.2024, 9:44:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:44:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:44:40 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:44:40 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:47:20 - INFO - Server is running on port: 3030
+21.9.2024, 9:47:21 - INFO - New connected socket [id: b0KCrXXr_-198L6QAAAC]
+21.9.2024, 9:47:21 - INFO - New connected socket [id: bVABd_a2fdTxXDAzAAAD]
+21.9.2024, 9:47:31 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:47:31 - INFO - New connected socket [id: hUxVHd4Uv5usDo-UAAAF]
+21.9.2024, 9:47:32 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:47:32 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:47:36 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:47:36 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:47:44 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:47:44 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:18 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:18 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:18 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:18 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:19 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:19 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:19 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:19 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:20 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:20 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:20 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:20 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:33 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:33 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:33 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:33 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:48:54 - INFO - Server is running on port: 3030
+21.9.2024, 9:48:55 - INFO - New connected socket [id: NT2kJ8EaQft4pD90AAAB]
+21.9.2024, 9:48:55 - INFO - New connected socket [id: -UMBRQhP3xL6BeZHAAAD]
+21.9.2024, 9:49:08 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:49:09 - INFO - New connected socket [id: KqsaS_-avvXcUi4LAAAF]
+21.9.2024, 9:49:09 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:49:09 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:49:11 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:49:11 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:10 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:10 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:17 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:53:18 - INFO - New connected socket [id: XyOjJYcezBg4xxbqAAAH]
+21.9.2024, 9:53:18 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:18 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:19 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:19 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:23 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:53:24 - INFO - New connected socket [id: 5-69o5xDQXQS_i2qAAAJ]
+21.9.2024, 9:53:24 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:24 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:24 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:24 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:34 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:34 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:47 - INFO - New connected socket [id: 9cuR9yUmDyiYJXnXAAAL]
+21.9.2024, 9:53:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:47 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:53:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:53:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:04 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:04 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:39 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:54:39 - INFO - New connected socket [id: -2Zp2XFX3yUk2gxMAAAN]
+21.9.2024, 9:54:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:58 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:54:58 - INFO - New connected socket [id: _pffWfI_ftCQHU6UAAAP]
+21.9.2024, 9:54:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:54:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:07 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:55:07 - INFO - New connected socket [id: Nd9CLM249OjyyBBqAAAR]
+21.9.2024, 9:55:07 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:07 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:08 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:08 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:09 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:55:09 - INFO - New connected socket [id: ognhLFve9mw6aQpMAAAT]
+21.9.2024, 9:55:09 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:09 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:39 - INFO - New connected socket [id: XAc1KsoLOsPOTJ0DAAAV]
+21.9.2024, 9:55:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:52 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:52 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:55:54 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 9:56:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:56:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:56:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:56:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:59:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 9:59:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:08:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:08:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:10:40 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 10:10:40 - INFO - New connected socket [id: NvYTc7TZliZbI4jsAAAX]
+21.9.2024, 10:10:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:10:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:10:41 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:10:41 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:10:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:10:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:11:52 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:11:52 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:11:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:11:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:11:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:11:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:11:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:11:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:12:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:12:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:12:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:12:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:12:04 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:12:04 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:12:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:12:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:13:17 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:13:17 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:13:22 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 10:13:22 - INFO - New connected socket [id: HCdSD8bJVrSt4U4cAAAZ]
+21.9.2024, 10:13:22 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:13:22 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:13:23 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:13:23 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:13:32 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 10:14:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:14:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:14:16 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:14:16 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:15:02 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:15:02 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:15:10 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 10:15:11 - INFO - New connected socket [id: SZZrGkQdBCSlS6DoAAAb]
+21.9.2024, 10:15:11 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:15:11 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:15:11 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:15:11 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:15:17 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:15:17 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:15:30 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:15:30 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:19:40 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 10:19:40 - INFO - New connected socket [id: QO-R8GXjqjrVtOUyAAAd]
+21.9.2024, 10:19:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:19:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:19:41 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:19:41 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:20:23 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:20:23 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:20:24 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:20:24 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:20:33 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 10:20:33 - INFO - New connected socket [id: JzrNCf9QDvDVIj8NAAAf]
+21.9.2024, 10:20:33 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:20:33 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:20:34 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:20:34 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:24:56 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 10:24:56 - INFO - New connected socket [id: fJc4FSvvcTM85RsyAAAh]
+21.9.2024, 10:24:56 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:24:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:24:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:24:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:28:51 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 10:28:51 - INFO - New connected socket [id: -QdmbMKknHgAuCFEAAAj]
+21.9.2024, 10:28:51 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:28:51 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:28:52 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:28:52 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:29:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:29:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:29:43 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:29:43 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:29:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:29:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:29:46 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:29:46 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:29:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:29:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:29:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:29:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:29:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:29:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:30:05 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:30:05 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:30:14 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 10:30:15 - INFO - New connected socket [id: mCc36QRjYkZwp3nXAAAl]
+21.9.2024, 10:30:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:30:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:30:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:30:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:30:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:30:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:30:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:30:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:31:11 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:31:11 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:31:30 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:31:30 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:31:46 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:31:46 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:31:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:31:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:31:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:31:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:31:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:31:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:31:55 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:31:55 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:32:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:32:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:32:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:32:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:32:07 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:32:07 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:32:07 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:32:07 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:32:17 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:32:17 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:32:37 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:32:37 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:33:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:33:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:34:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:34:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:34:02 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:34:02 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:34:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:34:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:34:05 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:34:05 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:34:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:34:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:49:58 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 10:52:40 - INFO - New connected socket [id: rCjc9eMmAqWV7LMWAAAn]
+21.9.2024, 10:52:40 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 10:52:53 - INFO - New connected socket [id: cTMjDOehHi850VU_AAAp]
+21.9.2024, 10:52:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:52:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:53:13 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:53:13 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:53:24 - ERROR - cannot find stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:53:24 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:53:43 - ERROR - cannot find stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:53:43 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:57:41 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 10:57:41 - INFO - New connected socket [id: s809seyqygU_7NyvAAAr]
+21.9.2024, 10:57:41 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:57:41 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:57:48 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 10:57:48 - INFO - New connected socket [id: Cmyw1gz1sSCmeJAXAAAt]
+21.9.2024, 10:57:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:57:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:57:57 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 10:57:58 - INFO - New connected socket [id: nwc0ID0e8YxH1vAFAAAv]
+21.9.2024, 10:57:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:57:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:58:12 - ERROR - cannot find stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:58:12 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:58:19 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:58:19 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:58:19 - ERROR - cannot find stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:58:19 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:29 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:29 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:32 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:32 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:36 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:36 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:43 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:43 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:44 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:44 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:48 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:48 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:48 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:48 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 10:59:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:11:42 - INFO - Server is running on port: 3030
+21.9.2024, 11:11:43 - INFO - New connected socket [id: g3P8bo3efyPAnF5wAAAB]
+21.9.2024, 11:11:45 - INFO - Server is running on port: 3030
+21.9.2024, 11:11:46 - INFO - New connected socket [id: 24gWsP0INVsCDQevAAAB]
+21.9.2024, 11:11:54 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:11:54 - INFO - New connected socket [id: D7FHzFmP3ZEEJQxuAAAD]
+21.9.2024, 11:11:55 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:11:55 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:11:56 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:11:56 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:12:54 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:12:54 - INFO - New connected socket [id: Wj5I0p2-X2-KAKEYAAAF]
+21.9.2024, 11:12:55 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:12:55 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:12:55 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:12:55 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:13:04 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:13:05 - INFO - New connected socket [id: 761-wpPBGQT-S7r1AAAH]
+21.9.2024, 11:13:05 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:13:05 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:13:05 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:13:05 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:14:24 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:14:24 - INFO - New connected socket [id: qjJ2dWbrqhQ-tmhCAAAJ]
+21.9.2024, 11:14:24 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:14:24 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:14:25 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:14:25 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:14:31 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:14:31 - INFO - New connected socket [id: -hkP2xT5xmB_ZAPnAAAL]
+21.9.2024, 11:14:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:14:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:14:32 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:14:32 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:15:52 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:15:52 - INFO - New connected socket [id: NVnmtlUJf4-hvP8RAAAN]
+21.9.2024, 11:15:52 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:15:52 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:15:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:15:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:16:04 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:16:04 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:16:06 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:16:06 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:16:07 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:16:07 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:16:09 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:16:09 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:18:55 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:18:55 - INFO - New connected socket [id: Ldz4VnHkstyjTUSaAAAP]
+21.9.2024, 11:18:55 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:18:55 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:18:55 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:18:55 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:19:38 - INFO - Server is running on port: 3030
+21.9.2024, 11:19:39 - INFO - New connected socket [id: jottQ54TW4AGfOcxAAAB]
+21.9.2024, 11:19:51 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:19:52 - INFO - New connected socket [id: QX-SP6c7DFk3uaGiAAAD]
+21.9.2024, 11:19:52 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:19:52 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:19:53 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:19:53 - INFO - New connected socket [id: Hrtkr9HSm07eCR3XAAAF]
+21.9.2024, 11:19:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:19:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:19:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:19:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:20:24 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:20:24 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:20:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:20:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:20:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:20:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:20:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:20:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:20:28 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:20:28 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:23:56 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:23:56 - INFO - New connected socket [id: rzDr-_smscLO2jIvAAAH]
+21.9.2024, 11:23:56 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:23:56 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:23:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:23:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:24:07 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:24:07 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:24:08 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:24:08 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:24:09 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:24:09 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:24:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:24:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:24:13 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:24:13 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:24:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:24:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:24:17 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:24:17 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:26:56 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:26:57 - INFO - New connected socket [id: ketEf3tpC4kyOF4KAAAJ]
+21.9.2024, 11:26:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:26:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:26:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:26:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:23 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:23 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:30 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:30 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:33 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:33 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:35 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:35 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:36 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:36 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:41 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:41 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:43 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:43 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:44 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:44 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:46 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:46 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:48 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:48 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:51 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:51 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:52 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:52 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:55 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:55 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:58 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:27:58 - INFO - New connected socket [id: foXavatsCNiNzjb9AAAL]
+21.9.2024, 11:27:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:27:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:35:41 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:35:41 - INFO - New connected socket [id: AZjp_sJLFJllLCSQAAAN]
+21.9.2024, 11:35:41 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:35:41 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:35:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:35:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:36:02 - INFO - Server is running on port: 3030
+21.9.2024, 11:36:04 - INFO - New connected socket [id: hlCMwF_-0T-2aBjsAAAB]
+21.9.2024, 11:36:11 - INFO - Server is running on port: 3030
+21.9.2024, 11:36:12 - INFO - New connected socket [id: BdBIHqzzCRAN9r6GAAAB]
+21.9.2024, 11:36:19 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:36:19 - INFO - New connected socket [id: 2U6OP2ctH7lDeEEDAAAD]
+21.9.2024, 11:36:19 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:36:19 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:36:21 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:36:21 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:37:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:37:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:37:28 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:37:28 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:37:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:37:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:37:33 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:37:33 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:37:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:37:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:37:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:37:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:37:55 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:37:55 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:43:26 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:43:27 - INFO - New connected socket [id: ekzciMsmTHrCkj9TAAAF]
+21.9.2024, 11:43:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:43:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:43:28 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:43:28 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:06 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:06 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:06 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:44:06 - INFO - New connected socket [id: 5cKMawdGWIHDD1uQAAAH]
+21.9.2024, 11:44:06 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:06 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:07 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:07 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:19 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:19 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:19 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:44:19 - INFO - New connected socket [id: uuek7pxKj4KbwWXpAAAJ]
+21.9.2024, 11:44:19 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:19 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:22 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:44:22 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:45:32 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:45:32 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:45:32 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:45:32 - INFO - New connected socket [id: 35H-pu6No-AeCRQMAAAL]
+21.9.2024, 11:45:32 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:45:32 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:45:33 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:45:33 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:47:21 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:47:22 - INFO - New connected socket [id: oOAunRKgQF3fI3EcAAAN]
+21.9.2024, 11:47:22 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:47:22 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:47:22 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:47:22 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:47:53 - INFO - New connected socket [id: G9ScbEbtwDBIAVWHAAAP]
+21.9.2024, 11:47:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:47:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:47:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:47:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:47:54 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:47:54 - INFO - New connected socket [id: jIspFVbcJuHhXfgSAAAR]
+21.9.2024, 11:47:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:47:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:47:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:47:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:47:55 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:48:37 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:48:37 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:48:37 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:48:37 - INFO - New connected socket [id: MuEbf1afF-JgNsnwAAAT]
+21.9.2024, 11:48:37 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:48:37 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:48:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:48:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:49:30 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:49:30 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:49:30 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:49:30 - INFO - New connected socket [id: JgO8XbrsTZJcY71mAAAV]
+21.9.2024, 11:49:30 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:49:30 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:49:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:49:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:52:13 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:52:13 - INFO - New connected socket [id: kMiCIc2nMa0TSLEbAAAX]
+21.9.2024, 11:52:13 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:52:13 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:52:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:52:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:54:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:54:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:54:54 - ERROR - cannot find stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:54:54 - ERROR - Failed to get stays | MongoServerError: $regex has to be a string | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:54:57 - INFO - New connected socket [id: YYYZH98vINXrq4BvAAAZ]
+21.9.2024, 11:54:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:54:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:54:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:54:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:55:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:55:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:55:58 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 11:55:58 - INFO - New connected socket [id: qWfAlGoN_gyY6FmiAAAb]
+21.9.2024, 11:55:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:55:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:55:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 11:55:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:02:00 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:02:00 - INFO - New connected socket [id: AelO8WNO2E4VAwgSAAAd]
+21.9.2024, 12:02:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:02:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:02:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:02:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:04:20 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:04:21 - INFO - New connected socket [id: LR0wrPi_AVEe-MBrAAAf]
+21.9.2024, 12:04:21 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:04:21 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:04:22 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:04:22 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:04:37 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:04:38 - INFO - New connected socket [id: 3eKsE_9MjEeeyt4-AAAh]
+21.9.2024, 12:04:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:04:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:04:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:04:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:09:20 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:09:21 - INFO - New connected socket [id: ata9M_fYfr6qPYdRAAAj]
+21.9.2024, 12:09:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:09:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:09:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:09:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:09:28 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:09:29 - INFO - New connected socket [id: PVUbYyGjwXAdj4fiAAAl]
+21.9.2024, 12:09:29 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:09:29 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:09:29 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:09:29 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:09:46 - INFO - Server is running on port: 3030
+21.9.2024, 12:09:47 - INFO - New connected socket [id: 1pD1uSWaLOSHnPRDAAAC]
+21.9.2024, 12:09:47 - INFO - New connected socket [id: hWJJu_TA8pmohNK4AAAD]
+21.9.2024, 12:09:59 - INFO - New connected socket [id: ovZR-o_EujU6nKvuAAAF]
+21.9.2024, 12:09:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:09:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:10:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:10:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:10:24 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:10:24 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:10:24 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:10:24 - INFO - New connected socket [id: RHxZsNAIdaxBRFlmAAAH]
+21.9.2024, 12:10:25 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:10:25 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:10:25 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:10:25 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:10:30 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:10:30 - INFO - New connected socket [id: 3BvKilJZJAb8zOZQAAAJ]
+21.9.2024, 12:10:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:10:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:10:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:10:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:12:56 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:12:58 - INFO - New connected socket [id: egHPLF5m4qo5cXSWAAAL]
+21.9.2024, 12:12:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:12:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:12:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:12:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:13:04 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:13:10 - INFO - New connected socket [id: sg_MTttFmD0gB_NUAAAN]
+21.9.2024, 12:13:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:13:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:13:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:13:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:13:14 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:13:15 - INFO - New connected socket [id: OA2NrgD-NfV-mJhDAAAP]
+21.9.2024, 12:13:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:13:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:13:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:13:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:13:16 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:16:29 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:16:30 - INFO - New connected socket [id: bveNb1DO61k2s1P1AAAR]
+21.9.2024, 12:16:30 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:16:30 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:16:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:16:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:16:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:16:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:17:02 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:17:48 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:17:49 - INFO - New connected socket [id: -b2cNW1K1MF_rbSfAAAT]
+21.9.2024, 12:17:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:17:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:17:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:17:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:17:59 - INFO - New connected socket [id: vXSYvZEujU5ihKyLAAAV]
+21.9.2024, 12:18:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:18:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:18:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:18:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:18:01 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:18:01 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:18:01 - INFO - New connected socket [id: i6uW8tf96T9upKQSAAAX]
+21.9.2024, 12:18:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:18:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:18:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:18:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:18:08 - INFO - New connected socket [id: BJWfSFCDK3lYvQ9EAAAZ]
+21.9.2024, 12:18:08 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:18:08 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:18:09 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:18:09 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:18:12 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:18:37 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:18:37 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:18:40 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:54:56 - INFO - New connected socket [id: qqqs0yllshq4c2YjAAAb]
+21.9.2024, 12:54:56 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:54:56 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:54:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:54:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:51 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:51 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:55 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:55 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:56 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:56 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:55:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:02 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:04 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:04 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:05 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:05 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:05 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:05 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:07 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 12:56:07 - INFO - New connected socket [id: UXNi-KSIHMY8KnwcAAAd]
+21.9.2024, 12:56:08 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:08 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:08 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:08 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:24 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:24 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 12:56:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:02:46 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:02:46 - INFO - New connected socket [id: 3IYPIcf76q66x1IhAAAf]
+21.9.2024, 13:02:46 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:02:46 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:02:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:02:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:03:12 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:03:13 - INFO - New connected socket [id: OJ5Mf20jOpQjxpV1AAAh]
+21.9.2024, 13:03:13 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:03:13 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:03:13 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:03:13 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:05:43 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:05:49 - INFO - New connected socket [id: _gzMQvnV7gW_PmH3AAAj]
+21.9.2024, 13:05:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:05:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:05:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:05:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:08:38 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:08:39 - INFO - New connected socket [id: vsCngZ8a4Wh2BgvhAAAl]
+21.9.2024, 13:08:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:08:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:08:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:08:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:09:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:09:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:09:18 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:09:18 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:09:19 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:09:19 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:09:19 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:09:19 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:09:21 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:09:21 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:09:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:09:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:12:41 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:12:42 - INFO - New connected socket [id: oQelCTVdDHisF4SEAAAn]
+21.9.2024, 13:12:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:12:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:12:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:12:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:12:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:12:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:13:18 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:13:18 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:13:56 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:13:56 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:13:59 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:13:59 - INFO - New connected socket [id: Xd7kiJabW18BNXJgAAAp]
+21.9.2024, 13:13:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:13:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:14:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:14:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:16:40 - INFO - Server is running on port: 3030
+21.9.2024, 13:16:40 - INFO - New connected socket [id: D22q7OjsTS6k6V5lAAAB]
+21.9.2024, 13:16:43 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:16:43 - INFO - New connected socket [id: 6RHbPtmKB6jK88r4AAAD]
+21.9.2024, 13:16:44 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:16:44 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:17:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:17:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:17:18 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:17:18 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:22:42 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:22:42 - INFO - New connected socket [id: LsFteLo7oFuELs8-AAAF]
+21.9.2024, 13:22:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:22:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:23:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:23:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:23:53 - INFO - Server is running on port: 3030
+21.9.2024, 13:23:53 - INFO - New connected socket [id: fcIjFUW6MiUHGDD0AAAB]
+21.9.2024, 13:24:01 - INFO - New connected socket [id: _2jXdla_cfz7BsqRAAAD]
+21.9.2024, 13:24:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:24:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:24:38 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:24:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:24:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:43 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:43 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:46 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:46 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:46 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:46 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:49 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:25:49 - INFO - New connected socket [id: GsIHfaBkm33XpZDaAAAF]
+21.9.2024, 13:25:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:25:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:29:23 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:29:24 - INFO - New connected socket [id: u6a4r5P6MvFcNDYBAAAH]
+21.9.2024, 13:29:24 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:29:24 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:29:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:29:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:29:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:29:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:29:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:29:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:30:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:30:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:30:02 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:30:02 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:35:26 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:35:30 - INFO - New connected socket [id: SFs0pDl7O9doPshXAAAJ]
+21.9.2024, 13:35:30 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:35:30 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:35:35 - INFO - Server is running on port: 3030
+21.9.2024, 13:35:36 - INFO - New connected socket [id: udy1oSEKNJHUU3jjAAAB]
+21.9.2024, 13:35:49 - INFO - New connected socket [id: ykUcyoxm3kErFVYZAAAD]
+21.9.2024, 13:35:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:35:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:08 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:08 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:17 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:17 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:18 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:18 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:20 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:20 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:21 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:21 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:21 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:21 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:22 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:22 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:22 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:36:22 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:38:58 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:38:59 - INFO - New connected socket [id: ZcA7TMa10mW1wPegAAAF]
+21.9.2024, 13:38:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:38:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:39:00 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:39:01 - INFO - New connected socket [id: rHPtp1Qh9RkPJNo5AAAH]
+21.9.2024, 13:39:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:39:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:39:44 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:45:25 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 13:45:25 - INFO - New connected socket [id: gMAn3ylwRx5SF5yYAAAJ]
+21.9.2024, 13:45:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:45:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:45:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 13:45:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:05:10 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 14:19:06 - INFO - New connected socket [id: uzElEu-BVTP2el3YAAAL]
+21.9.2024, 14:28:19 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 14:28:20 - INFO - New connected socket [id: 7_MtHbOkiYE33be_AAAN]
+21.9.2024, 14:28:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:28:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:28:36 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 14:28:37 - INFO - New connected socket [id: tQU8vAHB5cSBlBh3AAAP]
+21.9.2024, 14:28:37 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:28:37 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:28:57 - ERROR - cannot find stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:28:57 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:29:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:29:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:30:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:30:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:30:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:30:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:33:48 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 14:33:49 - INFO - New connected socket [id: brpr9XjZNuw4sFeIAAAR]
+21.9.2024, 14:33:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:33:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:41:33 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 14:41:35 - INFO - New connected socket [id: pwcK3F01wN9FsGqLAAAT]
+21.9.2024, 14:41:35 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:41:35 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:42:04 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:42:04 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:42:05 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:42:05 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:42:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:42:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:42:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:42:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:42:35 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:42:35 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:42:46 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 14:42:47 - INFO - New connected socket [id: 6BeNLcJlsSvNk7rQAAAV]
+21.9.2024, 14:42:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:42:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:44:52 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:44:52 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:44:55 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:44:55 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:45:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:45:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:45:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:45:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:59:32 - INFO - Server is running on port: 3030
+21.9.2024, 14:59:32 - INFO - New connected socket [id: ai0N7k2KTpRSMei6AAAB]
+21.9.2024, 14:59:48 - INFO - New connected socket [id: AbZ_9HAzOqbf0i3PAAAD]
+21.9.2024, 14:59:48 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:59:48 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 14:59:49 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:00:43 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:00:43 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:00:43 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:00:44 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:00:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:00:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:02:17 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:02:17 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:02:23 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:02:23 - INFO - New connected socket [id: io1mleTKgKhw-d-uAAAF]
+21.9.2024, 15:02:23 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:02:23 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:03:32 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:03:32 - INFO - New connected socket [id: 15StjHIUiGwWijO8AAAH]
+21.9.2024, 15:03:33 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:03:33 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:04:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:04:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:04:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:04:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:05:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:05:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:05:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:05:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:05:07 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:05:07 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:05:27 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:05:27 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:07:33 - INFO - Server is running on port: 3030
+21.9.2024, 15:07:34 - INFO - New connected socket [id: 96xb0z4XPIVQGftOAAAB]
+21.9.2024, 15:11:27 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:11:27 - INFO - New connected socket [id: P64EquQgNk9epG3FAAAD]
+21.9.2024, 15:12:09 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:12:10 - INFO - New connected socket [id: DKU8QtsOP2y98vDGAAAF]
+21.9.2024, 15:12:11 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:12:11 - INFO - New connected socket [id: ZYRG_YWTxFSk8XKsAAAH]
+21.9.2024, 15:12:14 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:12:14 - INFO - New connected socket [id: e1TANhjtncu4gcwwAAAJ]
+21.9.2024, 15:13:15 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:13:15 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:21:10 - INFO - New connected socket [id: kOs47HNPK85Gk8TMAAAL]
+21.9.2024, 15:21:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:21:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:22:06 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:22:06 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:22:06 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:22:06 - INFO - New connected socket [id: eLFoLIDYmJrXtOhEAAAN]
+21.9.2024, 15:22:06 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:22:06 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:22:34 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:22:35 - INFO - New connected socket [id: bpUt-5gNrSaAx7uaAAAP]
+21.9.2024, 15:22:35 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:22:35 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:22:53 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:22:53 - INFO - New connected socket [id: McARMPjIz0pByIWaAAAR]
+21.9.2024, 15:22:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:22:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:24:05 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:24:05 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:24:09 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:24:09 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:24:37 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:24:37 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:24:41 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:24:41 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:24:46 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:24:46 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:44 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:44 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:50 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:50 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:51 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:51 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:25:59 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:25:59 - INFO - New connected socket [id: FJmshHOVY7s8d4FFAAAT]
+21.9.2024, 15:26:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:26:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:38:52 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:38:55 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:38:56 - INFO - New connected socket [id: LcWacxBfefY7IzgfAAAV]
+21.9.2024, 15:39:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:39:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:39:20 - INFO - New connected socket [id: xe8x2-jgsUcwqNEyAAAX]
+21.9.2024, 15:39:20 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:39:20 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:40:42 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:40:42 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:40:42 - INFO - New connected socket [id: WwxPwM0ynnjb4DSsAAAZ]
+21.9.2024, 15:40:43 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:40:43 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:40:43 - INFO - New connected socket [id: G_UeuRcHlOQKMViSAAAb]
+21.9.2024, 15:40:43 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:40:43 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:42:24 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:42:24 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:42:25 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:42:25 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:42:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:42:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:42:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:42:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:43:58 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:43:58 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:43:59 - INFO - New connected socket [id: n3OSV3gHqRh-9gZXAAAe]
+21.9.2024, 15:43:59 - INFO - New connected socket [id: nlSwYbKq_PME_dg8AAAf]
+21.9.2024, 15:43:59 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:43:59 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:44:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:44:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:44:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:44:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:44:01 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:44:01 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:46:06 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:46:07 - INFO - New connected socket [id: HPRk81ZgV4ZbH7xVAAAh]
+21.9.2024, 15:46:08 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:46:08 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:46:08 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:46:08 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:48:35 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:48:35 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:48:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:48:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:49:11 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:49:11 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:50:38 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:50:40 - INFO - New connected socket [id: MX77s8gE1jzsweRTAAAj]
+21.9.2024, 15:50:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:50:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:50:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:50:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:50:52 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 15:52:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:52:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:52:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:52:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:52:56 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:52:56 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:52:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:52:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:52:58 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:52:58 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:53:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:53:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:54:28 - INFO - New connected socket [id: KPrTgEpnKOPO6oq9AAAl]
+21.9.2024, 15:54:29 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:54:29 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:54:29 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 15:54:29 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:05:29 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 16:05:30 - INFO - New connected socket [id: 6inw3lH-mIynBFZ6AAAn]
+21.9.2024, 16:05:32 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 16:05:32 - INFO - New connected socket [id: mIsQTF8BMuxumVlAAAAp]
+21.9.2024, 16:05:36 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 16:05:51 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 16:05:52 - INFO - New connected socket [id: r9aJ2xh3uYSOFQA9AAAr]
+21.9.2024, 16:05:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:05:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:05:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:05:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:06:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:06:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:06:44 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:06:44 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:06:51 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:06:51 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:06:51 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:06:51 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:06:53 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:06:53 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:09:29 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 16:09:30 - INFO - New connected socket [id: tP3VwHmFvgvW37g6AAAt]
+21.9.2024, 16:09:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:09:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:09:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:09:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:06 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 16:10:08 - INFO - New connected socket [id: Zz6pZH5wePo5A8LXAAAv]
+21.9.2024, 16:10:08 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:08 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:09 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:09 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:46 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:46 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:51 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:51 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:55 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 16:10:56 - INFO - New connected socket [id: Wit8K7bHOdK6yqCcAAAx]
+21.9.2024, 16:10:56 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:56 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:10:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:13:11 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 16:13:13 - INFO - New connected socket [id: xM5aKBTCsdFgZGs2AAAz]
+21.9.2024, 16:13:13 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:13:13 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:13:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:13:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:13:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:13:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:13:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:13:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:14:18 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:14:18 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:16:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:16:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:16:05 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:16:05 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:16:29 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 16:16:31 - INFO - New connected socket [id: 0CBfKedK_n8eupbqAAA1]
+21.9.2024, 16:16:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:16:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:16:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:16:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:24 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:24 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:43 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:43 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:45 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:45 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:46 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:46 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:47 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:47 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:48 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:48 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:51 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:51 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:52 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:52 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:54 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:54 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:56 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:17:56 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:00 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:00 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:03 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:03 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:10 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:10 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:16 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:16 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:17 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:17 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:19 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:19 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:20 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:20 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:21 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:21 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:23 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:23 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:24 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:24 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:26 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:26 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:18:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:31 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:31 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:32 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:32 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:33 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:33 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:34 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:34 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:36 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:36 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:36 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:36 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:38 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:38 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:39 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:39 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:40 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:40 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:42 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:42 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:43 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:19:43 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:20:05 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:20:05 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:20:12 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:20:12 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:20:13 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:20:13 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:20:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:20:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:20:14 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:20:14 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:31:35 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 16:55:29 - INFO - New connected socket [id: BMz8peWVwuXM4fO8AAA3]
+21.9.2024, 16:56:36 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 16:56:36 - INFO - New connected socket [id: 78HJ_q_N-PoRWt1rAAA5]
+21.9.2024, 16:56:37 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:56:37 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:56:57 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:56:57 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:57:07 - ERROR - cannot find stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 16:57:07 - ERROR - Failed to get stays | MongoServerSelectionError: getaddrinfo ENOTFOUND flyair-shard-00-00.z5kqa.mongodb.net | 66eb2afb46530f7fb70cef13
+21.9.2024, 17:07:13 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 17:07:48 - INFO - New connected socket [id: ommLDyEMEOtJZdbzAAA7]
+21.9.2024, 17:07:48 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 17:07:48 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 17:07:49 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 17:07:49 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 17:07:55 - INFO - Socket disconnected [id: undefined]
+21.9.2024, 17:10:27 - INFO - New connected socket [id: XBXmjckYrq3bHWxsAAA9]
+21.9.2024, 17:10:28 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 17:10:28 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13
+21.9.2024, 17:10:28 - INFO - Req was made | / | 66eb2afb46530f7fb70cef13
+21.9.2024, 17:10:28 - DEBUG - Getting Stays | 66eb2afb46530f7fb70cef13

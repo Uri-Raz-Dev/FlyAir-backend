@@ -4,10 +4,9 @@ import { stayService } from './stay.service.js'
 
 export async function getStays(req, res) {
     const filterBy = req.query
-    // console.log('filterBy:', filterBy)
+    console.log('filterBy:', filterBy)
     try {
         logger.debug('Getting Stays')
-        console.log('filterBy', filterBy)
         const stays = await stayService.query(filterBy)
         res.json(stays)
     } catch (err) {

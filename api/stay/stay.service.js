@@ -137,51 +137,47 @@ async function removeStayLike(stayId) {
 }
 
 function _buildCriteria(filterBy) {
-      const criteria = {}
+    const criteria = {}
 
-    function ensureValidGuestNumber  (value)  {
-        if (value === null || value === undefined || value === '' || value==='0') {
-          return 0;
-        }
-        const number = Number(value);
-        return isNaN(number) ? 0 : number;
+    if (filterBy.region) {
+        criteria.region = { $regex: filterBy.region, $options: 'i' }
     }
-    function isGuestsDefault (guests)  {
-      return (
-        ensureValidGuestNumber(guests.adults) === 0 &&
-        ensureValidGuestNumber(guests.children) === 0 &&
-        ensureValidGuestNumber(guests.infants) === 0 &&
-        ensureValidGuestNumber(guests.pets) === 0
-      )
-    }
-    if(!isGuestsDefault(filterBy.guests)){
-        criteria["guests.adults"] = { $eq: ensureValidGuestNumber(filterBy.guests.adults) };
-        criteria["guests.children"] = { $eq: ensureValidGuestNumber(filterBy.guests.children) };
-        criteria["guests.infants"] = { $eq: ensureValidGuestNumber(filterBy.guests.infants) };
-        criteria["guests.pets"] = { $eq: ensureValidGuestNumber(filterBy.guests.pets) };
-    }
-    
-    //   const criteria = {}
-      if (filterBy.region) {
-          criteria.region = { $regex: filterBy.region, $options: 'i' }
-        }
     if (filterBy.label) {
         criteria.type = { $regex: filterBy.label, $options: 'i' }
     }
-    
+
     if (filterBy.startDate && filterBy.endDate) {
         criteria.startDate = { $gte: filterBy.startDate }
         criteria.endDate = { $lte: filterBy.endDate }
     }
-    
-    // if (+filterBy.guests.adults > 0 || +filterBy.guests.children > 0 ||
-    //     +filterBy.guests.infants > 0 || +filterBy.guests.pets > 0) {
-            
-            // Check if all guest values are 0 or undefined
-            
+
+    if (+filterBy.capacity) {
+        criteria.capacity = { $eq: +filterBy.capacity }
+    }
+
+    // function ensureValidGuestNumber  (value)  {
+    //     if (value === null || value === undefined || value === '' || value==='0') {
+    //       return 0;
+    //     }
+    //     const number = Number(value);
+    //     return isNaN(number) ? 0 : number;
+    // }
+    // function isGuestsDefault (guests)  {
+    //   return (
+    //     ensureValidGuestNumber(guests.adults) === 0 &&
+    //     ensureValidGuestNumber(guests.children) === 0 &&
+    //     ensureValidGuestNumber(guests.infants) === 0 &&
+    //     ensureValidGuestNumber(guests.pets) === 0
+    //   )
+    // }
+    // if(!isGuestsDefault(filterBy.guests)){
+    //     criteria["guests.adults"] = { $eq: ensureValidGuestNumber(filterBy.guests.adults) };
+    //     criteria["guests.children"] = { $eq: ensureValidGuestNumber(filterBy.guests.children) };
+    //     criteria["guests.infants"] = { $eq: ensureValidGuestNumber(filterBy.guests.infants) };
+    //     criteria["guests.pets"] = { $eq: ensureValidGuestNumber(filterBy.guests.pets) };
+    // }
 
 
-        // }
 
     return criteria
 }
