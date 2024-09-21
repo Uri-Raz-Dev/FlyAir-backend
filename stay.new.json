@@ -1,0 +1,1544 @@
+[
+    {
+        "name": "Cozy Mountain Cabin",
+        "summary": "A perfect getaway in the mountains.",
+        "type": "rooms",
+        "price": 150,
+        "capacity": 3,
+        "description": "Enjoy breathtaking views and the serenity of nature.",
+        "amenities": [
+            "Fireplace",
+            "Wifi",
+            "Kitchen",
+            "Free parking",
+            "Private entrance"
+        ],
+        "labels": [
+            "mountain",
+            "cozy",
+            "nature"
+        ],
+        "host": {
+            "_id": "66d9e88c07eaf10748002313",
+            "fullname": "idan Elfasi",
+            "imgurl": "https://randomuser.me/api/portraits/men/9.jpg"
+        },
+        "region": "US",
+        "location": {
+            "city": "Aspen",
+            "country": "USA",
+            "lat": 39.1911,
+            "lng": -106.8175,
+            "countryCode": "US",
+            "address": "123 Mountain Rd, Aspen, CO 81611"
+        },
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a02b96f3c7a",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a03",
+                    "name": "Alice Johnson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649264/4d81e4f3-f225-43e7-bbed-076f88f2b459_qaneuh.jpg"
+                },
+                "txt": "Absolutely loved this apartment! The location was perfect for exploring Paris.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.7,
+                    "check-in": 4.8,
+                    "accuracy": 4.7,
+                    "location": 4.6,
+                    "value": 4.8
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a04b96f3c7b",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a05",
+                    "name": "Bob Smith",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649509/ecdce215-d703-4280-a781-fcf3247ea55b_yviwid.jpg"
+                },
+                "txt": "Great place to stay, very modern and comfortable. Samantha was a wonderful host.",
+                "rate": {
+                    "cleanliness": 4.7,
+                    "communication": 4.9,
+                    "check-in": 4.8,
+                    "accuracy": 4.6,
+                    "location": 4.5,
+                    "value": 4.7
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a06b96f3c7c",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a07",
+                    "name": "Clara Wilson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649667/7ccc441e-7e33-4ccb-b061-4d4bb4bf4d6b_g1umsh.jpg"
+                },
+                "txt": "The apartment was beautiful and the location was perfect! Highly recommended for anyone visiting Paris.",
+                "rate": {
+                    "cleanliness": 5.0,
+                    "communication": 4.8,
+                    "check-in": 4.9,
+                    "accuracy": 4.9,
+                    "location": 5.0,
+                    "value": 4.9
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a08b96f3c7d",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a09",
+                    "name": "David Green",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649633/edc07c3a-5005-496f-a4d3-0c1e963cd795_etdbwx.jpg"
+                },
+                "txt": "Lovely apartment! The amenities were great, and Samantha was very responsive and helpful throughout our stay.",
+                "rate": {
+                    "cleanliness": 4.8,
+                    "communication": 4.7,
+                    "check-in": 4.8,
+                    "accuracy": 4.8,
+                    "location": 4.7,
+                    "value": 4.7
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a10b96f3c7e",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a11",
+                    "name": "Emma Brown",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652001/15b1f1b8-5f09-4449-92b8-28e6212e3367_vwfglf.jpg"
+                },
+                "txt": "This apartment made our Paris trip extra special. It's located close to many attractions and has a modern, cozy feel.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.9,
+                    "check-in": 4.7,
+                    "accuracy": 4.7,
+                    "location": 4.8,
+                    "value": 4.9
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a12b96f3c7f",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a13",
+                    "name": "James Carter",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652132/fe6c432b-d7c0-47bd-bfa4-4668dccdc8ec_jfgbxp.jpg"
+                },
+                "txt": "Fantastic experience! The apartment was clean, comfortable, and in a great location. Would definitely stay here again.",
+                "rate": {
+                    "cleanliness": 4.7,
+                    "communication": 4.8,
+                    "check-in": 4.9,
+                    "accuracy": 4.8,
+                    "location": 4.9,
+                    "value": 4.7
+                }
+            }
+        ],
+        "startDate": "2024-9-23",
+        "endDate": "2024-10-15",
+        "guests": {
+            "adults": 2,
+            "children": 0,
+            "infants": 0,
+            "pets": 1
+        },
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-53503031/original/c1ba9b61-6b71-430d-add1-69d1ab8b2b6e.jpeg?ml=true&im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-53503031/original/bcf09f4a-7740-42e7-9502-1c78e1e99c3d.jpeg?ml=true&im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-53503031/original/acb3a5f9-2660-4a1d-ad7a-e9dfde899802.jpeg?ml=true&im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-53503031/original/6efad34f-3edd-4209-a37d-c781b162f6de.jpeg?ml=true&im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-53503031/original/5872d373-ec00-4952-9db3-4fe3b22a3e1c.jpeg?ml=true&im_w=720"
+        ],
+        "status": "upComing"
+    },
+    {
+        "name": "Beachfront Bungalow",
+        "summary": "Relax in this beautiful bungalow right on the beach.",
+        "type": "rooms",
+        "price": 250,
+        "capacity": 3,
+        "description": "Enjoy stunning sunsets and ocean views.",
+        "amenities": [
+            "Fireplace",
+            "Wifi",
+            "Kitchen",
+            "Free parking",
+            "Private entrance"
+        ],
+        "labels": [
+            "beach",
+            "luxury",
+            "sunny"
+        ],
+        "host": {
+            "_id": "66d9e88c07eaf10748002312",
+            "fullname": "Omer Tepper",
+            "imgurl": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        "region": "US",
+        "location": {
+            "city": "Miami",
+            "country": "USA",
+            "lat": 25.7617,
+            "lng": -80.1918,
+            "countryCode": "US",
+            "address": "456 Ocean Dr, Miami, FL 33139"
+        },
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a02b96f3c7a",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a03",
+                    "name": "Alice Johnson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649264/4d81e4f3-f225-43e7-bbed-076f88f2b459_qaneuh.jpg"
+                },
+                "txt": "Absolutely loved this apartment! The location was perfect for exploring Paris.",
+                "rate": {
+                    "cleanliness": 3,
+                    "communication": 2.7,
+                    "check-in": 5,
+                    "accuracy": 4.7,
+                    "location": 4.4,
+                    "value": 4.3
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a04b96f3c7b",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a05",
+                    "name": "Bob Smith",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649509/ecdce215-d703-4280-a781-fcf3247ea55b_yviwid.jpg"
+                },
+                "txt": "Great place to stay, very modern and comfortable. Samantha was a wonderful host.",
+                "rate": {
+                    "cleanliness": 4.7,
+                    "communication": 4.9,
+                    "check-in": 4.8,
+                    "accuracy": 4.6,
+                    "location": 4.5,
+                    "value": 4.7
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a06b96f3c7c",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a07",
+                    "name": "Clara Wilson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649667/7ccc441e-7e33-4ccb-b061-4d4bb4bf4d6b_g1umsh.jpg"
+                },
+                "txt": "The apartment was beautiful and the location was perfect! Highly recommended for anyone visiting Paris.",
+                "rate": {
+                    "cleanliness": 5.0,
+                    "communication": 4.8,
+                    "check-in": 4.9,
+                    "accuracy": 4.9,
+                    "location": 5.0,
+                    "value": 4.9
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a08b96f3c7d",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a09",
+                    "name": "David Green",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649633/edc07c3a-5005-496f-a4d3-0c1e963cd795_etdbwx.jpg"
+                },
+                "txt": "Lovely apartment! The amenities were great, and Samantha was very responsive and helpful throughout our stay.",
+                "rate": {
+                    "cleanliness": 4.8,
+                    "communication": 4.7,
+                    "check-in": 4.8,
+                    "accuracy": 4.8,
+                    "location": 4.7,
+                    "value": 4.7
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a10b96f3c7e",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a11",
+                    "name": "Emma Brown",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652001/15b1f1b8-5f09-4449-92b8-28e6212e3367_vwfglf.jpg"
+                },
+                "txt": "This apartment made our Paris trip extra special. It's located close to many attractions and has a modern, cozy feel.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.9,
+                    "check-in": 4.7,
+                    "accuracy": 4.7,
+                    "location": 4.8,
+                    "value": 4.9
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a12b96f3c7f",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a13",
+                    "name": "James Carter",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652132/fe6c432b-d7c0-47bd-bfa4-4668dccdc8ec_jfgbxp.jpg"
+                },
+                "txt": "Fantastic experience! The apartment was clean, comfortable, and in a great location. Would definitely stay here again.",
+                "rate": {
+                    "cleanliness": 4.7,
+                    "communication": 4.8,
+                    "check-in": 4.9,
+                    "accuracy": 4.8,
+                    "location": 4.9,
+                    "value": 4.7
+                }
+            }
+        ],
+        "startDate": "2024-9-24",
+        "endDate": "2024-10-13",
+        "guests": {
+            "adults": 2,
+            "children": 0,
+            "infants": 0,
+            "pets": 1
+        },
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-833588507621223725/original/63c001ca-e270-45e1-95bb-2204a591702c.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-833588507621223725/original/3b4daa13-ec4e-4aa6-9a98-0956dfe7f285.jpeg?ml=true&im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-833588507621223725/original/fba4a867-44c0-40f7-a499-d18789be76d5.jpeg?ml=true&im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-833588507621223725/original/ade526d5-b237-4444-9810-42b1e177bc55.jpeg?ml=true&im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-833588507621223725/original/81ccab51-1991-442e-8a8d-e94ed714eda6.jpeg?ml=true&im_w=720"
+        ],
+        "status": "completed"
+    },
+    {
+        "name": "Chic Urban Loft",
+        "summary": "Stylish loft in the heart of the city.",
+        "type": "rooms",
+        "price": 300,
+        "capacity": 3,
+        "description": "Experience city life in this beautifully designed loft.",
+        "amenities": [
+            "Fireplace",
+            "Wifi",
+            "Kitchen",
+            "Free parking",
+            "Private entrance"
+        ],
+        "labels": [
+            "urban",
+            "luxury",
+            "modern"
+        ],
+        "host": {
+            "_id": "66d9e88c07eaf10748002311",
+            "fullname": "Ori Raz",
+            "imgurl": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        "region": "US",
+        "location": {
+            "city": "New York",
+            "country": "USA",
+            "lat": 40.7128,
+            "lng": -74.0060,
+            "countryCode": "US",
+            "address": "789 City St, New York, NY 10001"
+        },
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a02b96f3c7a",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a03",
+                    "name": "Alice Johnson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649264/4d81e4f3-f225-43e7-bbed-076f88f2b459_qaneuh.jpg"
+                },
+                "txt": "Absolutely loved this apartment! The location was perfect for exploring Paris.",
+                "rate": {
+                    "cleanliness": 5,
+                    "communication": 4.1,
+                    "check-in": 4.2,
+                    "accuracy": 4.3,
+                    "location": 4.4,
+                    "value": 4.5
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a04b96f3c7b",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a05",
+                    "name": "Bob Smith",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649509/ecdce215-d703-4280-a781-fcf3247ea55b_yviwid.jpg"
+                },
+                "txt": "Great place to stay, very modern and comfortable. Samantha was a wonderful host.",
+                "rate": {
+                    "cleanliness": 4.7,
+                    "communication": 4.9,
+                    "check-in": 4.8,
+                    "accuracy": 4.6,
+                    "location": 4.5,
+                    "value": 4.7
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a06b96f3c7c",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a07",
+                    "name": "Clara Wilson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649667/7ccc441e-7e33-4ccb-b061-4d4bb4bf4d6b_g1umsh.jpg"
+                },
+                "txt": "The apartment was beautiful and the location was perfect! Highly recommended for anyone visiting Paris.",
+                "rate": {
+                    "cleanliness": 5.0,
+                    "communication": 4.8,
+                    "check-in": 4.9,
+                    "accuracy": 4.9,
+                    "location": 5.0,
+                    "value": 4.9
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a08b96f3c7d",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a09",
+                    "name": "David Green",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649633/edc07c3a-5005-496f-a4d3-0c1e963cd795_etdbwx.jpg"
+                },
+                "txt": "Lovely apartment! The amenities were great, and Samantha was very responsive and helpful throughout our stay.",
+                "rate": {
+                    "cleanliness": 4.8,
+                    "communication": 4.7,
+                    "check-in": 4.8,
+                    "accuracy": 4.8,
+                    "location": 4.7,
+                    "value": 4.7
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a10b96f3c7e",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a11",
+                    "name": "Emma Brown",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652001/15b1f1b8-5f09-4449-92b8-28e6212e3367_vwfglf.jpg"
+                },
+                "txt": "This apartment made our Paris trip extra special. It's located close to many attractions and has a modern, cozy feel.",
+                "rate": {
+                    "cleanliness": 3.9,
+                    "communication": 3.9,
+                    "check-in": 3.7,
+                    "accuracy": 3.7,
+                    "location": 3.8,
+                    "value": 3.9
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a12b96f3c7f",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a13",
+                    "name": "James Carter",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652132/fe6c432b-d7c0-47bd-bfa4-4668dccdc8ec_jfgbxp.jpg"
+                },
+                "txt": "Fantastic experience! The apartment was clean, comfortable, and in a great location. Would definitely stay here again.",
+                "rate": {
+                    "cleanliness": 4.7,
+                    "communication": 4.8,
+                    "check-in": 4.9,
+                    "accuracy": 4.8,
+                    "location": 4.9,
+                    "value": 4.7
+                }
+            }
+        ],
+        "startDate": "2024-9-25",
+        "endDate": "2024-10-14",
+        "guests": {
+            "adults": 2,
+            "children": 0,
+            "infants": 0,
+            "pets": 1
+        },
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/5c1293a0-e59a-4a4a-8886-14bcb7336669.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/90299331-ca6e-4d75-806b-cfdd46a3ae5e.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/7639ef5c-7a9f-49f1-a176-5a89aadd309f.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/ae07881f-39ad-4f69-945d-df30cc66a346.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/78d39861-5b02-4b75-b2f0-b02fc1966fc2.jpg?im_w=720"
+        ],
+        "status": "upComing"
+    },
+    {
+        "name": "Secluded Forest Cabin",
+        "summary": "A cabin nestled in the woods for ultimate relaxation.",
+        "type": "rooms",
+        "price": 130,
+        "capacity": 3,
+        "description": "Disconnect and unwind in this secluded forest cabin.",
+        "amenities": [
+            "Fireplace",
+            "Wifi",
+            "Kitchen",
+            "Free parking",
+            "Private entrance"
+        ],
+        "labels": [
+            "forest",
+            "secluded",
+            "nature"
+        ],
+        "host": {
+            "_id": "66d9e88c07eaf10748002313",
+            "fullname": "_idan Elfasi",
+            "imgurl": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        "region": "US",
+        "location": {
+            "city": "Boulder",
+            "country": "USA",
+            "lat": 40.0150,
+            "lng": -105.2705,
+            "countryCode": "US",
+            "address": "202 Forest Rd, Boulder, CO 80302"
+        },
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a02b96f3c7a",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a03",
+                    "name": "Alice Johnson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649264/4d81e4f3-f225-43e7-bbed-076f88f2b459_qaneuh.jpg"
+                },
+                "txt": "Absolutely loved this apartment! The location was perfect for exploring Paris.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.7,
+                    "check-in": 4.8,
+                    "accuracy": 4.7,
+                    "location": 4.6,
+                    "value": 4.8
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a04b96f3c7b",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a05",
+                    "name": "Bob Smith",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649509/ecdce215-d703-4280-a781-fcf3247ea55b_yviwid.jpg"
+                },
+                "txt": "Great place to stay, very modern and comfortable. Samantha was a wonderful host.",
+                "rate": {
+                    "cleanliness": 4.7,
+                    "communication": 4.9,
+                    "check-in": 4.8,
+                    "accuracy": 4.6,
+                    "location": 4.5,
+                    "value": 4.7
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a06b96f3c7c",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a07",
+                    "name": "Clara Wilson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649667/7ccc441e-7e33-4ccb-b061-4d4bb4bf4d6b_g1umsh.jpg"
+                },
+                "txt": "The apartment was beautiful and the location was perfect! Highly recommended for anyone visiting Paris.",
+                "rate": {
+                    "cleanliness": 5.0,
+                    "communication": 4.8,
+                    "check-in": 4.9,
+                    "accuracy": 4.9,
+                    "location": 5.0,
+                    "value": 4.9
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a08b96f3c7d",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a09",
+                    "name": "David Green",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649633/edc07c3a-5005-496f-a4d3-0c1e963cd795_etdbwx.jpg"
+                },
+                "txt": "Lovely apartment! The amenities were great, and Samantha was very responsive and helpful throughout our stay.",
+                "rate": {
+                    "cleanliness": 4.8,
+                    "communication": 4.7,
+                    "check-in": 4.8,
+                    "accuracy": 4.8,
+                    "location": 4.7,
+                    "value": 4.7
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a10b96f3c7e",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a11",
+                    "name": "Emma Brown",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652001/15b1f1b8-5f09-4449-92b8-28e6212e3367_vwfglf.jpg"
+                },
+                "txt": "This apartment made our Paris trip extra special. It's located close to many attractions and has a modern, cozy feel.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.9,
+                    "check-in": 4.7,
+                    "accuracy": 4.7,
+                    "location": 4.8,
+                    "value": 4.9
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a12b96f3c7f",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a13",
+                    "name": "James Carter",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652132/fe6c432b-d7c0-47bd-bfa4-4668dccdc8ec_jfgbxp.jpg"
+                },
+                "txt": "Fantastic experience! The apartment was clean, comfortable, and in a great location. Would definitely stay here again.",
+                "rate": {
+                    "cleanliness": 2.7,
+                    "communication": 2.8,
+                    "check-in": 1.9,
+                    "accuracy": 4.8,
+                    "location": 3.9,
+                    "value": 1.7
+                }
+            }
+        ],
+        "startDate": "2024-9-22",
+        "endDate": "2024-10-17",
+        "guests": {
+            "adults": 2,
+            "children": 0,
+            "infants": 0,
+            "pets": 1
+        },
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-1152981125044032326/original/4c109ae6-b8d1-4575-b871-f7db10f3beba.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-1152981125044032326/original/bf4197c3-3da9-4b03-a875-746953e80dc4.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-1152981125044032326/original/5dde0528-3c95-4303-a0c8-3e638f8c1f80.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-1152981125044032326/original/c7356e19-9143-420f-970c-7ba14dfc512e.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-1152981125044032326/original/60e8ec7c-1613-47d7-abfb-7e035e40367d.jpeg?im_w=720"
+        ],
+        "status": "completed"
+    },
+    {
+        "name": "Luxury Villa in Italy",
+        "summary": "Experience luxury in this stunning Italian villa.",
+        "type": "rooms",
+        "price": 500,
+        "capacity": 3,
+        "description": "Enjoy beautiful views and top-notch amenities.",
+        "amenities": [
+            "Fireplace",
+            "Wifi",
+            "Kitchen",
+            "Free parking",
+            "Private entrance"
+        ],
+        "labels": [
+            "luxury",
+            "villa",
+            "Italy"
+        ],
+        "host": {
+            "_id": "66d9e88c07eaf10748002312",
+            "fullname": "Omer Tepper",
+            "imgurl": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        "region": "Italy",
+        "location": {
+            "city": "Florence",
+            "country": "Italy",
+            "lat": 43.7696,
+            "lng": 11.2550,
+            "countryCode": "IT",
+            "address": "789 Villa St, Florence, FI 50123"
+        },
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a02b96f3c7a",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a03",
+                    "name": "Alice Johnson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649264/4d81e4f3-f225-43e7-bbed-076f88f2b459_qaneuh.jpg"
+                },
+                "txt": "Absolutely loved this apartment! The location was perfect for exploring Paris.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.7,
+                    "check-in": 4.8,
+                    "accuracy": 4.7,
+                    "location": 4.6,
+                    "value": 4.8
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a04b96f3c7b",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a05",
+                    "name": "Bob Smith",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649509/ecdce215-d703-4280-a781-fcf3247ea55b_yviwid.jpg"
+                },
+                "txt": "Great place to stay, very modern and comfortable. Samantha was a wonderful host.",
+                "rate": {
+                    "cleanliness": 4.7,
+                    "communication": 4.9,
+                    "check-in": 4.8,
+                    "accuracy": 4.6,
+                    "location": 4.5,
+                    "value": 4.7
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a06b96f3c7c",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a07",
+                    "name": "Clara Wilson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649667/7ccc441e-7e33-4ccb-b061-4d4bb4bf4d6b_g1umsh.jpg"
+                },
+                "txt": "The apartment was beautiful and the location was perfect! Highly recommended for anyone visiting Paris.",
+                "rate": {
+                    "cleanliness": 5.0,
+                    "communication": 4.8,
+                    "check-in": 4.9,
+                    "accuracy": 4.9,
+                    "location": 5.0,
+                    "value": 4.9
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a08b96f3c7d",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a09",
+                    "name": "David Green",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649633/edc07c3a-5005-496f-a4d3-0c1e963cd795_etdbwx.jpg"
+                },
+                "txt": "Lovely apartment! The amenities were great, and Samantha was very responsive and helpful throughout our stay.",
+                "rate": {
+                    "cleanliness": 4.8,
+                    "communication": 4.7,
+                    "check-in": 4.8,
+                    "accuracy": 4.8,
+                    "location": 4.7,
+                    "value": 4.7
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a10b96f3c7e",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a11",
+                    "name": "Emma Brown",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652001/15b1f1b8-5f09-4449-92b8-28e6212e3367_vwfglf.jpg"
+                },
+                "txt": "This apartment made our Paris trip extra special. It's located close to many attractions and has a modern, cozy feel.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.9,
+                    "check-in": 4.7,
+                    "accuracy": 4.7,
+                    "location": 4.8,
+                    "value": 4.9
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a12b96f3c7f",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a13",
+                    "name": "James Carter",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652132/fe6c432b-d7c0-47bd-bfa4-4668dccdc8ec_jfgbxp.jpg"
+                },
+                "txt": "Fantastic experience! The apartment was clean, comfortable, and in a great location. Would definitely stay here again.",
+                "rate": {
+                    "cleanliness": 4.7,
+                    "communication": 5,
+                    "check-in": 5,
+                    "accuracy": 5,
+                    "location": 5,
+                    "value": 5
+                }
+            }
+        ],
+        "startDate": "2024-9-30",
+        "endDate": "2024-10-11",
+        "guests": {
+            "adults": 2,
+            "children": 0,
+            "infants": 0,
+            "pets": 1
+        },
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-28436865/original/cc896607-2b0f-4bd5-9338-51cc587275a0.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-28436865/original/9102d55f-4086-4424-89ae-dc970724d34d.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/1628673d-5531-4283-84f0-07473220acea.jpg?ml=true&im_w=720",
+            "https://a0.muscache.com/im/pictures/3c486556-3ce6-4327-a75a-bafc45cb3c5b.jpg?ml=true&im_w=720",
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-44717061/original/d91cba1a-ad38-4515-b9b3-a2ee8b2abeae.jpeg?ml=true&im_w=720"
+        ],
+        "status": "upComing"
+    },
+    {
+        "name": "Sunny Retreat in Greece",
+        "summary": "A sun-soaked retreat perfect for relaxation.",
+        "type": "rooms",
+        "price": 180,
+        "capacity": 3,
+        "description": "Enjoy the sun and sea in this charming home.",
+        "amenities":[
+            "Fireplace",
+            "Wifi",
+            "Kitchen",
+            "Free parking",
+            "Private entrance"
+        ],
+        "labels": [
+            "beach",
+            "Greece",
+            "relaxing"
+        ],
+        "host": {
+            "_id": "66d9e88c07eaf10748002311",
+            "fullname": "Ori Raz",
+            "imgurl": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        "region": "Greece",
+        "location": {
+            "city": "Santorini",
+            "country": "Greece",
+            "lat": 36.3932,
+            "lng": 25.4615,
+            "countryCode": "GR",
+            "address": "123 Aegean Sea St, Santorini, GR 84700"
+        },
+        "reviews": [
+            {
+                "id": "64fbdb1d4a5f3e22903c2a02b96f3c7a",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a03",
+                    "name": "Alice Johnson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649264/4d81e4f3-f225-43e7-bbed-076f88f2b459_qaneuh.jpg"
+                },
+                "txt": "Absolutely loved this apartment! The location was perfect for exploring Paris.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.7,
+                    "check-in": 4.8,
+                    "accuracy": 4.7,
+                    "location": 4.6,
+                    "value": 4.8
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a04b96f3c7b",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a05",
+                    "name": "Bob Smith",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649509/ecdce215-d703-4280-a781-fcf3247ea55b_yviwid.jpg"
+                },
+                "txt": "Great place to stay, very modern and comfortable. Samantha was a wonderful host.",
+                "rate": {
+                    "cleanliness": 4.7,
+                    "communication": 4.9,
+                    "check-in": 4.8,
+                    "accuracy": 4.6,
+                    "location": 4.5,
+                    "value": 4.7
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a06b96f3c7c",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a07",
+                    "name": "Clara Wilson",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649667/7ccc441e-7e33-4ccb-b061-4d4bb4bf4d6b_g1umsh.jpg"
+                },
+                "txt": "The apartment was beautiful and the location was perfect! Highly recommended for anyone visiting Paris.",
+                "rate": {
+                    "cleanliness": 5.0,
+                    "communication": 4.8,
+                    "check-in": 4.9,
+                    "accuracy": 4.9,
+                    "location": 5.0,
+                    "value": 4.9
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a08b96f3c7d",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a09",
+                    "name": "David Green",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649633/edc07c3a-5005-496f-a4d3-0c1e963cd795_etdbwx.jpg"
+                },
+                "txt": "Lovely apartment! The amenities were great, and Samantha was very responsive and helpful throughout our stay.",
+                "rate": {
+                    "cleanliness": 4.8,
+                    "communication": 4.7,
+                    "check-in": 4.8,
+                    "accuracy": 4.8,
+                    "location": 4.7,
+                    "value": 4.7
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a10b96f3c7e",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a11",
+                    "name": "Emma Brown",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652001/15b1f1b8-5f09-4449-92b8-28e6212e3367_vwfglf.jpg"
+                },
+                "txt": "This apartment made our Paris trip extra special. It's located close to many attractions and has a modern, cozy feel.",
+                "rate": {
+                    "cleanliness": 4.9,
+                    "communication": 4.9,
+                    "check-in": 4.7,
+                    "accuracy": 4.7,
+                    "location": 4.8,
+                    "value": 4.9
+                }
+            },
+            {
+                "id": "64fbdb1d4a5f3e22903c2a12b96f3c7f",
+                "by": {
+                    "_id": "64fbdb1d4a5f3e22903c2a13",
+                    "name": "James Carter",
+                    "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652132/fe6c432b-d7c0-47bd-bfa4-4668dccdc8ec_jfgbxp.jpg"
+                },
+                "txt": "Fantastic experience! The apartment was clean, comfortable, and in a great location. Would definitely stay here again.",
+                "rate": {
+                    "cleanliness": 1,
+                    "communication": 1.2,
+                    "check-in": 2.1,
+                    "accuracy": 1.6,
+                    "location": 1.2,
+                    "value": 1.5
+                }
+            }
+        ],
+        "startDate": "2024-9-22",
+        "endDate": "2024-10-29",
+        "guests": {
+            "adults": 2,
+            "children": 0,
+            "infants": 0,
+            "pets": 1
+        },
+        "imgurls": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-740634701378172939/original/8ef7a4b0-79b0-439c-9da0-4a170ad4090d.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-740634701378172939/original/4e36f28d-27cf-4bea-b473-c83ddec5fb9b.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/c4a1d4c5-f912-492a-afe3-02cb25e0d315.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-29119868/original/c00eb9f9-a419-4d22-8864-3f7d61c49fd1.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MjkxMTk4Njg%3D/original/fca1e88b-9307-4ca4-bed0-bc0564c79c91.jpeg?im_w=720"
+        ],
+        "status": "upComing"
+    },
+    
+    
+    {
+        "name": "living dream",
+        "summary": "Relax in this beautiful bungalow right on the beach.",
+        "type": "rooms",
+        "price": 750,
+        "capacity": 3,
+        "description": "Enjoy stunning sunsets and ocean views.",
+        "amenities": [
+            "Fireplace",
+            "Wifi",
+            "Kitchen",
+            "Free parking",
+            "Private entrance"
+        ],
+        "labels": [
+            "beach",
+            "luxury",
+            "sunny"
+        ],
+        "host": {
+            "_id": "66d9e88c07eaf10748002312",
+        "fullname": "Omer Tepper",
+        "imgurl": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    "region": "US",
+    "location": {
+        "city": "L.A",
+        "country": "USA",
+        "lat": 25.7617,
+        "lng": -80.1918,
+        "countryCode": "US",
+        "address": "456 Ocean Dr, Miami, FL 33139"
+    },
+    "reviews": [
+        {
+            "id": "64fbdb1d4a5f3e22903c2a02b96f3c7a",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a03",
+                "name": "Alice Johnson",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649264/4d81e4f3-f225-43e7-bbed-076f88f2b459_qaneuh.jpg"
+            },
+            "txt": "Absolutely loved this apartment! The location was perfect for exploring Paris.",
+            "rate": {
+                "cleanliness": 3,
+                "communication": 2.7,
+                "check-in": 5,
+                "accuracy": 4.7,
+                "location": 4.4,
+                "value": 4.3
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a04b96f3c7b",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a05",
+                "name": "Bob Smith",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649509/ecdce215-d703-4280-a781-fcf3247ea55b_yviwid.jpg"
+            },
+            "txt": "Great place to stay, very modern and comfortable. Samantha was a wonderful host.",
+            "rate": {
+                "cleanliness": 4.7,
+                "communication": 4.9,
+                "check-in": 4.8,
+                "accuracy": 4.6,
+                "location": 4.5,
+                "value": 4.7
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a06b96f3c7c",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a07",
+                "name": "Clara Wilson",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649667/7ccc441e-7e33-4ccb-b061-4d4bb4bf4d6b_g1umsh.jpg"
+            },
+            "txt": "The apartment was beautiful and the location was perfect! Highly recommended for anyone visiting Paris.",
+            "rate": {
+                "cleanliness": 5.0,
+                "communication": 4.8,
+                "check-in": 4.9,
+                "accuracy": 4.9,
+                "location": 5.0,
+                "value": 4.9
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a08b96f3c7d",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a09",
+                "name": "David Green",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649633/edc07c3a-5005-496f-a4d3-0c1e963cd795_etdbwx.jpg"
+            },
+            "txt": "Lovely apartment! The amenities were great, and Samantha was very responsive and helpful throughout our stay.",
+            "rate": {
+                "cleanliness": 4.8,
+                "communication": 4.7,
+                "check-in": 4.8,
+                "accuracy": 4.8,
+                "location": 4.7,
+                "value": 4.7
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a10b96f3c7e",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a11",
+                "name": "Emma Brown",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652001/15b1f1b8-5f09-4449-92b8-28e6212e3367_vwfglf.jpg"
+            },
+            "txt": "This apartment made our Paris trip extra special. It's located close to many attractions and has a modern, cozy feel.",
+            "rate": {
+                "cleanliness": 4.9,
+                "communication": 4.9,
+                "check-in": 4.7,
+                "accuracy": 4.7,
+                "location": 4.8,
+                "value": 4.9
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a12b96f3c7f",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a13",
+                "name": "James Carter",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652132/fe6c432b-d7c0-47bd-bfa4-4668dccdc8ec_jfgbxp.jpg"
+            },
+            "txt": "Fantastic experience! The apartment was clean, comfortable, and in a great location. Would definitely stay here again.",
+            "rate": {
+                "cleanliness": 2.7,
+                "communication": 2.8,
+                "check-in": 2.9,
+                "accuracy": 2.8,
+                "location": 2.9,
+                "value": 2.7
+            }
+        }
+    ],
+    "startDate": "2024-9-27",
+    "endDate": "2024-10-6",
+    "guests": {
+        "adults": 2,
+        "children": 0,
+        "infants": 0,
+        "pets": 1
+    },
+    "imgurls":  [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-947115608618363775/original/91fa433c-b4ce-4eac-8899-9ac7e65910ac.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-947115608618363775/original/37c4d273-aad3-4383-9c2b-052618277d8d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-947115608618363775/original/63007175-5bd5-459b-a80b-0f886c0f331b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-947115608618363775/original/4d3a961e-f06e-4c75-89f3-473e21505f79.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-947115608618363775/original/70bcc8af-c0d0-4e74-8d34-9a5c37a9290e.jpeg?im_w=720"
+    ],
+    "status": "upComing"
+},
+{
+    "name": "Beachfront Bungalow",
+    "summary": "Relax in this beautiful bungalow right on the beach.",
+    "type": "rooms",
+    "price": 950,
+    "capacity": 3,
+    "description": "Enjoy stunning sunsets and ocean views.",
+    "amenities": [
+        "Fireplace",
+        "Wifi",
+        "Kitchen",
+        "Free parking",
+        "Private entrance"
+    ],
+    "labels": [
+        "beach",
+        "luxury",
+        "sunny"
+    ],
+    "host": {
+        "_id": "66d9e88c07eaf10748002312",
+        "fullname": "Omer Tepper",
+        "imgurl": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    "region": "US",
+    "location": {
+        "city": "Ohio",
+        "country": "USA",
+        "lat": 25.7617,
+        "lng": -80.1918,
+        "countryCode": "US",
+        "address": "456 Ocean Dr, Miami, FL 33139"
+    },
+    "reviews": [
+        {
+            "id": "64fbdb1d4a5f3e22903c2a02b96f3c7a",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a03",
+                "name": "Alice Johnson",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649264/4d81e4f3-f225-43e7-bbed-076f88f2b459_qaneuh.jpg"
+            },
+            "txt": "Absolutely loved this apartment! The location was perfect for exploring Paris.",
+            "rate": {
+                "cleanliness": 3,
+                "communication": 2.7,
+                "check-in": 5,
+                "accuracy": 4.7,
+                "location": 4.4,
+                "value": 4.3
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a04b96f3c7b",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a05",
+                "name": "Bob Smith",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649509/ecdce215-d703-4280-a781-fcf3247ea55b_yviwid.jpg"
+            },
+            "txt": "Great place to stay, very modern and comfortable. Samantha was a wonderful host.",
+            "rate": {
+                "cleanliness": 4.7,
+                "communication": 4.9,
+                "check-in": 4.8,
+                "accuracy": 4.6,
+                "location": 4.5,
+                "value": 4.7
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a06b96f3c7c",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a07",
+                "name": "Clara Wilson",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649667/7ccc441e-7e33-4ccb-b061-4d4bb4bf4d6b_g1umsh.jpg"
+            },
+            "txt": "The apartment was beautiful and the location was perfect! Highly recommended for anyone visiting Paris.",
+            "rate": {
+                "cleanliness": 0,
+                "communication": 0,
+                "check-in": 0,
+                "accuracy": 0,
+                "location": 0,
+                "value": 0
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a08b96f3c7d",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a09",
+                "name": "David Green",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649633/edc07c3a-5005-496f-a4d3-0c1e963cd795_etdbwx.jpg"
+            },
+            "txt": "Lovely apartment! The amenities were great, and Samantha was very responsive and helpful throughout our stay.",
+            "rate": {
+                "cleanliness": 4.8,
+                "communication": 4.7,
+                "check-in": 4.8,
+                "accuracy": 4.8,
+                "location": 4.7,
+                "value": 4.7
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a10b96f3c7e",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a11",
+                "name": "Emma Brown",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652001/15b1f1b8-5f09-4449-92b8-28e6212e3367_vwfglf.jpg"
+            },
+            "txt": "This apartment made our Paris trip extra special. It's located close to many attractions and has a modern, cozy feel.",
+            "rate": {
+                "cleanliness": 4.9,
+                "communication": 4.9,
+                "check-in": 4.7,
+                "accuracy": 4.7,
+                "location": 4.8,
+                "value": 4.9
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a12b96f3c7f",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a13",
+                "name": "James Carter",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652132/fe6c432b-d7c0-47bd-bfa4-4668dccdc8ec_jfgbxp.jpg"
+            },
+            "txt": "Fantastic experience! The apartment was clean, comfortable, and in a great location. Would definitely stay here again.",
+            "rate": {
+                "cleanliness": 4.7,
+                "communication": 4.8,
+                "check-in": 4.9,
+                "accuracy": 4.8,
+                "location": 4.9,
+                "value": 4.7
+            }
+        }
+    ],
+    "startDate": "2024-9-26",
+    "endDate": "2024-10-10",
+    "guests": {
+        "adults": 2,
+        "children": 0,
+        "infants": 0,
+        "pets": 1
+    },
+    "imgurls": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-833588507621223725/original/63c001ca-e270-45e1-95bb-2204a591702c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-833588507621223725/original/3b4daa13-ec4e-4aa6-9a98-0956dfe7f285.jpeg?ml=true&im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-833588507621223725/original/fba4a867-44c0-40f7-a499-d18789be76d5.jpeg?ml=true&im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-833588507621223725/original/ade526d5-b237-4444-9810-42b1e177bc55.jpeg?ml=true&im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-833588507621223725/original/81ccab51-1991-442e-8a8d-e94ed714eda6.jpeg?ml=true&im_w=720"
+    ],
+    "status": "upComing"
+},
+{
+    "name": "Beachfront Bungalow",
+    "summary": "Relax in this beautiful bungalow right on the beach.",
+    "type": "rooms",
+    "price": 150,
+    "capacity": 3,
+    "description": "Enjoy stunning sunsets and ocean views.",
+    "amenities": [
+        "Fireplace",
+        "Wifi",
+        "Kitchen",
+        "Free parking",
+        "Private entrance"
+    ],
+    "labels": [
+        "beach",
+        "luxury",
+        "sunny"
+    ],
+    "host": {
+        "_id": "66d9e88c07eaf10748002312",
+        "fullname": "Omer Tepper",
+        "imgurl": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    "region": "US",
+    "location": {
+        "city": "Arizona",
+        "country": "USA",
+        "lat": 25.7617,
+        "lng": -80.1918,
+        "countryCode": "US",
+        "address": "456 Ocean Dr, Miami, FL 33139"
+    },
+    "reviews": [
+        {
+            "id": "64fbdb1d4a5f3e22903c2a02b96f3c7a",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a03",
+                "name": "Alice Johnson",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649264/4d81e4f3-f225-43e7-bbed-076f88f2b459_qaneuh.jpg"
+            },
+            "txt": "Absolutely loved this apartment! The location was perfect for exploring Paris.",
+            "rate": {
+                "cleanliness": 3,
+                "communication": 2.7,
+                "check-in": 5,
+                "accuracy": 4.7,
+                "location": 4.4,
+                "value": 4.3
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a04b96f3c7b",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a05",
+                "name": "Bob Smith",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649509/ecdce215-d703-4280-a781-fcf3247ea55b_yviwid.jpg"
+            },
+            "txt": "Great place to stay, very modern and comfortable. Samantha was a wonderful host.",
+            "rate": {
+                "cleanliness": 4.7,
+                "communication": 4.9,
+                "check-in": 4.8,
+                "accuracy": 4.6,
+                "location": 4.5,
+                "value": 4.7
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a06b96f3c7c",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a07",
+                "name": "Clara Wilson",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649667/7ccc441e-7e33-4ccb-b061-4d4bb4bf4d6b_g1umsh.jpg"
+            },
+            "txt": "The apartment was beautiful and the location was perfect! Highly recommended for anyone visiting Paris.",
+            "rate": {
+                "cleanliness": 5.0,
+                "communication": 4.8,
+                "check-in": 4.9,
+                "accuracy": 4.9,
+                "location": 5.0,
+                "value": 4.9
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a08b96f3c7d",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a09",
+                "name": "David Green",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649633/edc07c3a-5005-496f-a4d3-0c1e963cd795_etdbwx.jpg"
+            },
+            "txt": "Lovely apartment! The amenities were great, and Samantha was very responsive and helpful throughout our stay.",
+            "rate": {
+                "cleanliness": 4.8,
+                "communication": 4.7,
+                "check-in": 4.8,
+                "accuracy": 4.8,
+                "location": 4.7,
+                "value": 4.7
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a10b96f3c7e",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a11",
+                "name": "Emma Brown",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652001/15b1f1b8-5f09-4449-92b8-28e6212e3367_vwfglf.jpg"
+            },
+            "txt": "This apartment made our Paris trip extra special. It's located close to many attractions and has a modern, cozy feel.",
+            "rate": {
+                "cleanliness": 4.9,
+                "communication": 4.9,
+                "check-in": 4.7,
+                "accuracy": 4.7,
+                "location": 4.8,
+                "value": 4.9
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a12b96f3c7f",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a13",
+                "name": "James Carter",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652132/fe6c432b-d7c0-47bd-bfa4-4668dccdc8ec_jfgbxp.jpg"
+            },
+            "txt": "Fantastic experience! The apartment was clean, comfortable, and in a great location. Would definitely stay here again.",
+            "rate": {
+                "cleanliness": 1,
+                "communication": 1,
+                "check-in": 1,
+                "accuracy": 1,
+                "location": 1,
+                "value": 1
+            }
+        }
+    ],
+    "startDate": "2024-9-24",
+    "endDate": "2024-10-13",
+    "guests": {
+        "adults": 2,
+        "children": 0,
+        "infants": 0,
+        "pets": 1
+    },
+    "imgurls":  [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-26722125/original/8c5a72f9-3b33-4900-a807-6d973b387c0c.jpeg?ml=true&im_w=720",
+        "https://a0.muscache.com/im/pictures/0793c5dd-7902-4b19-ba41-98fcb97d6a38.jpg?ml=true&im_w=720",
+        "https://a0.muscache.com/im/pictures/76a1da11-b420-4109-9ed7-f004e098a3da.jpg?ml=true&im_w=720",
+            "https://a0.muscache.com/im/pictures/712a31dd-fad0-4882-ba33-783e5e8620e4.jpg?ml=true&im_w=720",
+            "https://a0.muscache.com/im/pictures/9b7e9823-5f8a-4e72-8a79-e13f34c5c472.jpg?ml=true&im_w=720"
+        ],
+    "status": "upComing"
+},
+{
+    "name": "Beachfront Bungalow",
+    "summary": "Relax in this beautiful bungalow right on the beach.",
+    "type": "rooms",
+    "price": 800,
+    "capacity": 3,
+    "description": "Enjoy stunning sunsets and ocean views.",
+    "amenities": [
+        "Fireplace",
+        "Wifi",
+        "Kitchen",
+        "Free parking",
+        "Private entrance"
+    ],
+    "labels": [
+        "beach",
+        "luxury",
+        "sunny"
+    ],
+    "host": {
+        "_id": "66d9e88c07eaf10748002312",
+        "fullname": "Omer Tepper",
+        "imgurl": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    "region": "US",
+    "location": {
+        "city": "Colorado",
+        "country": "USA",
+        "lat": 25.7617,
+        "lng": -80.1918,
+        "countryCode": "US",
+        "address": "456 Ocean Dr, Miami, FL 33139"
+    },
+    "reviews": [
+        {
+            "id": "64fbdb1d4a5f3e22903c2a02b96f3c7a",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a03",
+                "name": "Alice Johnson",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649264/4d81e4f3-f225-43e7-bbed-076f88f2b459_qaneuh.jpg"
+            },
+            "txt": "Absolutely loved this apartment! The location was perfect for exploring Paris.",
+            "rate": {
+                "cleanliness": 3,
+                "communication": 2.7,
+                "check-in": 5,
+                "accuracy": 4.7,
+                "location": 4.4,
+                "value": 4.3
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a04b96f3c7b",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a05",
+                "name": "Bob Smith",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649509/ecdce215-d703-4280-a781-fcf3247ea55b_yviwid.jpg"
+            },
+            "txt": "Great place to stay, very modern and comfortable. Samantha was a wonderful host.",
+            "rate": {
+                "cleanliness": 4.7,
+                "communication": 4.9,
+                "check-in": 4.8,
+                "accuracy": 4.6,
+                "location": 4.5,
+                "value": 4.7
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a06b96f3c7c",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a07",
+                "name": "Clara Wilson",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649667/7ccc441e-7e33-4ccb-b061-4d4bb4bf4d6b_g1umsh.jpg"
+            },
+            "txt": "The apartment was beautiful and the location was perfect! Highly recommended for anyone visiting Paris.",
+            "rate": {
+                "cleanliness": 5.0,
+                "communication": 4.8,
+                "check-in": 4.9,
+                "accuracy": 4.9,
+                "location": 5.0,
+                "value": 4.9
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a08b96f3c7d",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a09",
+                "name": "David Green",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725649633/edc07c3a-5005-496f-a4d3-0c1e963cd795_etdbwx.jpg"
+            },
+            "txt": "Lovely apartment! The amenities were great, and Samantha was very responsive and helpful throughout our stay.",
+            "rate": {
+                "cleanliness": 4.8,
+                "communication": 4.7,
+                "check-in": 4.8,
+                "accuracy": 4.8,
+                "location": 4.7,
+                "value": 4.7
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a10b96f3c7e",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a11",
+                "name": "Emma Brown",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652001/15b1f1b8-5f09-4449-92b8-28e6212e3367_vwfglf.jpg"
+            },
+            "txt": "This apartment made our Paris trip extra special. It's located close to many attractions and has a modern, cozy feel.",
+            "rate": {
+                "cleanliness": 1,
+                "communication": 1,
+                "check-in": 1,
+                "accuracy": 1,
+                "location": 1,
+                "value": 1
+            }
+        },
+        {
+            "id": "64fbdb1d4a5f3e22903c2a12b96f3c7f",
+            "by": {
+                "_id": "64fbdb1d4a5f3e22903c2a13",
+                "name": "James Carter",
+                "imgUrl": "https://res.cloudinary.com/dooscjcpt/image/upload/v1725652132/fe6c432b-d7c0-47bd-bfa4-4668dccdc8ec_jfgbxp.jpg"
+            },
+            "txt": "Fantastic experience! The apartment was clean, comfortable, and in a great location. Would definitely stay here again.",
+            "rate": {
+                "cleanliness": 2,
+                "communication": 2,
+                "check-in": 2,
+                "accuracy": 2,
+                "location": 2,
+                "value": 2
+            }
+        }
+    ],
+    "startDate": "2024-9-24",
+    "endDate": "2024-10-13",
+    "guests": {
+        "adults": 2,
+        "children": 0,
+        "infants": 0,
+        "pets": 1
+    },
+    "imgurls":    [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-28436865/original/ad0107b1-963f-4706-9478-1bbe1182a160.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-28436865/original/92d59f5a-a3b9-4236-9d2a-d4888c7cbfd2.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-28436865/original/cc896607-2b0f-4bd5-9338-51cc587275a0.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-28436865/original/9102d55f-4086-4424-89ae-dc970724d34d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-28436865/original/141ee664-dfb4-40f7-be8e-1189e0d75e52.jpeg?im_w=720"
+    ],
+    "status": "upComing"
+}
+]
